@@ -25,6 +25,9 @@ Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Ope
 | Skill | Produces |
 |-------|----------|
 | `scope-mvp` | Smallest testable scope, feature cut-list, MVP type, build/no-build call |
+| `north-star-metrics` | The one north-star metric + the input metrics that move it |
+| `consumer-product-testing` | The right product test for the stage (concept → prototype → in-use → claims) |
+| `sensory-testing` | Blind, benchmarked taste/smell/feel test (discrimination, descriptive, acceptance) |
 
 ## 3. Launch & GTM
 *"Who is it for, and how do they find out?"*
@@ -63,6 +66,7 @@ Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Ope
 | Skill | Role |
 |-------|------|
 | `start-here` | Diagnoses stage and routes to the next skill |
+| `apply-mental-models` | Runs a hard decision through proven mental models + the author's frameworks |
 | `founderos-prompt-scaffold` | The shared prompt engine all skills are built on |
 | `capture-learning` | Appends real lessons to the knowledge base |
 

@@ -2,7 +2,7 @@
 
 You do **not** need Claude Code, a terminal, or any setup to use FounderOS. Every skill ends
 with a ready-to-run **copy-paste prompt** you can drop into any chatbot — Claude.ai, ChatGPT,
-Gemini, or whatever you have open. This page is your index to all 15.
+Gemini, or whatever you have open. This page is your index to all 22.
 
 ## How to use any FounderOS prompt (3 steps)
 
@@ -26,7 +26,7 @@ Gemini, or whatever you have open. This page is your index to all 15.
 
 ---
 
-## The 15 prompts, by stage
+## The 22 prompts, by stage
 
 ### Stage 1 — Idea & Validation
 *"Is the problem real, and will someone pay to fix it?"*
@@ -43,6 +43,9 @@ Gemini, or whatever you have open. This page is your index to all 15.
 | Skill | What its prompt does | Path |
 |-------|---------------------|------|
 | **scope-mvp** | Cuts your idea down to the one job and the minimum build that tests it | [`skills/scope-mvp/SKILL.md`](../skills/scope-mvp/SKILL.md) |
+| **north-star-metrics** | Picks one north-star metric and the input metrics that move it | [`skills/north-star-metrics/SKILL.md`](../skills/north-star-metrics/SKILL.md) |
+| **consumer-product-testing** | Chooses the right product test for your stage (concept → prototype → in-use → claims) | [`skills/consumer-product-testing/SKILL.md`](../skills/consumer-product-testing/SKILL.md) |
+| **sensory-testing** | Designs blind, benchmarked tests for products that are tasted, smelled, or applied | [`skills/sensory-testing/SKILL.md`](../skills/sensory-testing/SKILL.md) |
 
 ### Stage 3 — Launch & GTM
 *"How do buyers find you and say yes?"*
@@ -52,6 +55,9 @@ Gemini, or whatever you have open. This page is your index to all 15.
 | **positioning-and-gtm** | Writes your one positioning sentence and picks the channel to bet on | [`skills/positioning-and-gtm/SKILL.md`](../skills/positioning-and-gtm/SKILL.md) |
 | **launch-plan** | Sequences your launch with a clear pass/fail bar | [`skills/launch-plan/SKILL.md`](../skills/launch-plan/SKILL.md) |
 | **find-first-customers** | Scripts cold/warm outreach to land your first paying yeses | [`skills/find-first-customers/SKILL.md`](../skills/find-first-customers/SKILL.md) |
+| **pricing-strategy** | Builds a pricing model, tiers, and the logic behind them — then a test | [`skills/pricing-strategy/SKILL.md`](../skills/pricing-strategy/SKILL.md) |
+| **landing-page-copy** | Writes conversion-focused landing-page copy with a clear structure | [`skills/landing-page-copy/SKILL.md`](../skills/landing-page-copy/SKILL.md) |
+| **brand-and-naming** | Generates name candidates, a rationale, and availability checks | [`skills/brand-and-naming/SKILL.md`](../skills/brand-and-naming/SKILL.md) |
 
 ### Stage 4 — Fundraise
 *"Is this fundable — and on what terms?"*
@@ -74,6 +80,7 @@ Gemini, or whatever you have open. This page is your index to all 15.
 | Skill | What its prompt does | Path |
 |-------|---------------------|------|
 | **start-here** | Diagnoses your stage and routes you to one next skill | [`skills/start-here/SKILL.md`](../skills/start-here/SKILL.md) |
+| **apply-mental-models** | Runs a hard decision through proven mental models + the author's frameworks | [`skills/apply-mental-models/SKILL.md`](../skills/apply-mental-models/SKILL.md) |
 | **capture-learning** | Turns a real outcome (a result, a customer reply, a metric move) into a logged lesson | [`skills/capture-learning/SKILL.md`](../skills/capture-learning/SKILL.md) |
 | **founderos-prompt-scaffold** | The shared skeleton behind every prompt — use it to build your own | [`skills/founderos-prompt-scaffold/SKILL.md`](../skills/founderos-prompt-scaffold/SKILL.md) |
 

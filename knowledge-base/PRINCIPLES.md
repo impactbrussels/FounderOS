@@ -26,3 +26,15 @@ Imported as master context by `CLAUDE.md` / `AGENTS.md`. Grown over time by the
   human founder owns the judgement call. *(seed)*
 - **Research before asserting.** A checkable claim (market size, legal rule, benchmark) is either
   verified or labelled an assumption — never stated as fact on a guess. *(seed)*
+
+## The Operator's Creed (generalized, post-hype)
+
+From *FoodTech After The Hype* (Adam M. Adamek), stated in sector-neutral form — the priorities
+that keep a startup alive once the excitement fades:
+
+- **Economics before story.** A great narrative on broken unit economics still dies. *(seed)*
+- **Customers before technology.** Demand validated by behaviour outranks technical elegance. *(seed)*
+- **Revenue before scale.** Scale multiplies what you have; if economics are negative, it multiplies the loss. *(seed)*
+- **Operations before innovation.** Boring reliability (delivery, quality, supply) beats one more feature. *(seed)*
+- **Sustainability through profitability.** The most durable mission is one that pays for itself. *(seed)*
+- **Partners before going it alone.** The right distribution/manufacturing/advisory partner beats heroic solo effort. *(seed)*

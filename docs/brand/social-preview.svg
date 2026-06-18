@@ -53,6 +53,6 @@
   <line x1="80" y1="540" x2="1200" y2="540" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
 
   <!-- footer -->
-  <text x="80" y="582" class="sans" font-size="24" font-weight="500" fill="#FFFFFF">15 skills · flows · loops · advisor agents · a living playbook</text>
+  <text x="80" y="582" class="sans" font-size="24" font-weight="500" fill="#FFFFFF">22 skills · flows · loops · advisor agents · a living playbook</text>
   <text x="1200" y="582" text-anchor="end" class="sans" font-size="22" font-weight="500" fill="#A78BFA">by Adam M. Adamek · Impact Brussels</text>
 </svg>

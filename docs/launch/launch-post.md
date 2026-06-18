@@ -20,7 +20,7 @@ So I built the operating system I wish I'd had: **FounderOS**.
 
 It's the founder journey — idea → validation → MVP → launch → fundraising → operations — encoded as runnable AI skills, with one rule I carried from the lab: **proof before hype.** Validate before you build. Cite before you claim. A draft is never a decision.
 
-→ 15 skills, multi-step flows, weekly loops, and advisor agents
+→ 22 skills, multi-step flows, weekly loops, and advisor agents
 → Works in Claude Code, Codex, Cursor — or as copy-paste prompts in any chatbot
 → Theme-agnostic: software, food, services — you bring the domain, it brings the method
 → Open source, attribution-only. Free, because entrepreneurship shouldn't be a club you pay to enter.
@@ -55,7 +55,7 @@ One rule, carried from the lab: **proof before hype.** Validate before you build
 
 **3/**
 What's in it:
-• 15 deep skills (validate-idea, pitch-deck, runway & unit economics…)
+• 22 deep skills (validate-idea, pitch-deck, runway & unit economics…)
 • flows that chain them with checkpoints
 • weekly loops (standup, metrics, investor update)
 • advisor agents (skeptical investor, customer proxy)

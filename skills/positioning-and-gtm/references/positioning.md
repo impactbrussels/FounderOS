@@ -88,3 +88,7 @@ hierarchy, it doesn't go in the asset. Three pillars max — more dilutes the he
 *Obviously Awesome* (April Dunford) · *Crossing the Chasm* (Geoffrey Moore) ·
 *Play Bigger* (category design) · *Traction* (Weinberg & Mares, the 19-channel "bullseye"
 framework). Treat these as method sources — your evidence about *your* `[ICP]` beats any book.
+
+**Frameworks from the author's books (generalized):**
+
+- The **Trust Stack**, the **Comparison-Set Problem** (the customer picks what they compare you to), and the **Copy Test** — from *Proof Before Hype* by Adam M. Adamek.

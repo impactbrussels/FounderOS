@@ -2,7 +2,7 @@
 
 > The open operating system for first-time founders. This roadmap is the contribution catalog.
 
-FounderOS ships **15 skills** today and is built to grow. Every **planned slot** below is a
+FounderOS ships **22 skills** today and is built to grow. Every **planned slot** below is a
 real founder job that the OS does not yet cover — and an open invitation. If you have run a
 startup, advised one, or simply solved one of these problems with AI, you can author the skill
 that teaches the next founder how to do it.
@@ -77,7 +77,9 @@ pick work that fits their strength.
 | activation-onboarding | Learn & Decide | An activation metric and the steps that move it | 🔵 design needed |
 | analytics-setup | Automate Admin | An event-tracking plan and instrumentation checklist | 🟢 good first issue |
 | dashboard-design | Create & Communicate | A one-screen metrics dashboard spec | 🟢 good first issue |
-| north-star-metrics | Learn & Decide | One north-star metric and its input metrics | 🟡 help wanted |
+| north-star-metrics | Learn & Decide | One north-star metric and its input metrics | ✅ Shipped |
+| consumer-product-testing | Learn & Decide | The right product test by stage (concept → prototype → in-use → claims) | ✅ Shipped |
+| sensory-testing | Learn & Decide | Blind, benchmarked discrimination/descriptive/acceptance tests for tasted/smelled/applied products | ✅ Shipped |
 | automation-audit | Sort & Scan | A map of manual chores ranked by automation payoff | 🟢 good first issue |
 | faq-builder | Answer & Assist | A drafted FAQ from real customer questions | 🟢 good first issue |
 | help-docs | Create & Communicate | A starter help-center structure and seed articles | 🟢 good first issue |
@@ -91,11 +93,11 @@ pick work that fits their strength.
 | positioning-and-gtm | Learn & Decide | A positioning statement and a go-to-market motion | ✅ Shipped |
 | launch-plan | Create & Communicate | A sequenced launch plan with channels and assets | ✅ Shipped |
 | find-first-customers | Sort & Scan | A ranked list of reachable first customers and how to reach them | ✅ Shipped |
-| brand-and-naming | Create & Communicate | Name candidates, a rationale, and availability checks | 🟢 good first issue |
-| pricing-strategy | Learn & Decide | A pricing model, tiers, and the logic behind them | 🟡 help wanted |
+| brand-and-naming | Create & Communicate | Name candidates, a rationale, and availability checks | ✅ Shipped |
+| pricing-strategy | Learn & Decide | A pricing model, tiers, and the logic behind them | ✅ Shipped |
 | pricing-experiments | Learn & Decide | A live pricing test with a clean read-out plan | 🔵 design needed |
 | discount-strategy | Learn & Decide | A discount policy that protects margin and urgency | 🟢 good first issue |
-| landing-page-copy | Create & Communicate | Conversion-focused landing-page copy with structure | 🟢 good first issue |
+| landing-page-copy | Create & Communicate | Conversion-focused landing-page copy with structure | ✅ Shipped |
 | content-calendar | Automate Admin | A repeatable content calendar tied to GTM themes | 🟢 good first issue |
 | social-posts | Create & Communicate | A batch of channel-native posts from one idea | 🟢 good first issue |
 | blog-thought-leadership | Create & Communicate | A thought-leadership article with a clear POV | 🟢 good first issue |
@@ -179,6 +181,7 @@ pick work that fits their strength.
 
 | Skill | Function | What it produces | Status |
 |-------|----------|------------------|--------|
+| apply-mental-models | Learn & Decide | A hard decision run through proven mental models + the author's frameworks | ✅ Shipped |
 | capture-learning | Learn & Decide | A dated, sourced lesson appended to the knowledge base | ✅ Shipped |
 | founderos-prompt-scaffold | Create & Communicate | The shared prompt engine every skill is built on | ✅ Shipped |
 | weekly-priorities | Learn & Decide | A focused weekly plan from a noisy backlog | 🟢 good first issue |
@@ -197,8 +200,8 @@ pick work that fits their strength.
 
 ## Roadmap at a glance
 
-- **Shipped:** 15 skills across 5 stages + cross-cutting.
-- **Planned:** ~95 slots — every one a contribution opportunity.
+- **Shipped:** 22 skills across 5 stages + cross-cutting.
+- **Planned:** ~85 slots — every one a contribution opportunity.
 - **Want a skill that isn't here?** Open a **New skill** issue and propose it. The roadmap is a
   living document, not a closed list.
 

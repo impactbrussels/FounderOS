@@ -107,3 +107,7 @@ Sequoia's pitch-deck template · Y Combinator's "How to design a better pitch de
 guides · "Pitch Anything" (Oren Klaff) · DocSend's pitch-deck engagement research. Treat these
 as method sources, not gospel — investor preferences vary by market, sector and cycle, and your
 evidence about *your* customers and *your* numbers beats any template.
+
+**Frameworks from the author's books (generalized):**
+
+- The **Proof Ladder** (Current → Pending → Borrowed → Aspirational) and the **Trust Stack** — sequence claims by evidence strength and find your weakest credibility layer; from *Proof Before Hype* by Adam M. Adamek.

@@ -17,19 +17,35 @@ turning the skills themselves into advertising.
 - **Reach founders with integrity.** Recognition lives in sponsor sections and release notes —
   never inside a skill's advice. The method stays neutral.
 
-## Tiers (starting point — contact us to tailor)
+## Monthly tiers
 
-| Tier | Recognition |
-|------|-------------|
-| 🌱 **Backer** | Name in `SPONSORS.md` and a thank-you in the next release notes |
-| 🚀 **Supporter** | Logo in `SPONSORS.md` + README sponsor section |
-| 🏛️ **Patron** | Above + acknowledgement in the docs and a roadmap input session |
-| 🤝 **Partner** | Above + co-designed skill pack (kept neutral and clearly attributed) |
+Amounts are deliberately **market-average for an open-source project** — accessible to
+individual founders, fair for companies. Recognition compounds as you go up; none of it buys
+influence over the advice (see the promise below).
 
-## How
+| Tier | Monthly | Who it's for | Recognition |
+|------|---------|--------------|-------------|
+| 🌱 **Backer** | **$5** | Founders who got value and want to give back | Name in `SPONSORS.md` + thank-you in the next release notes |
+| ☕ **Supporter** | **$25** | Indie builders, advisors, small studios | Above + your name/handle linked in the README sponsors section |
+| 🏛️ **Patron** | **$100** | Profitable startups, agencies | Above + small logo in README + an invite to a quarterly roadmap input session |
+| 🤝 **Partner** | **$500** | Companies that sell to founders | Above + prominent logo + a co-designed, clearly-attributed skill pack (kept neutral) |
 
-- **GitHub Sponsors** and direct support: see [.github/FUNDING.yml](.github/FUNDING.yml).
-- **Organisations / partnerships:** via [Impact Brussels ASBL](https://impact.brussels).
+## One-time
+
+| | Amount | |
+|---|--------|---|
+| 💛 **Tip** | **$10** | A one-off thank-you — no strings |
+| 🚀 **Launch backer** | **$250** | Help fund the next batch of roadmap skills; listed as a launch backer |
+
+**Larger / custom partnerships** (sponsored skill packs, workshops, speaking): let's tailor it —
+[impact.brussels](https://impact.brussels).
+
+## How to sponsor
+
+- **GitHub Sponsors** is the main way — the button appears on the repo once the program is live
+  (see [.github/FUNDING.yml](.github/FUNDING.yml)).
+- **Organisations / partnerships:** [Impact Brussels ASBL](https://impact.brussels).
+- *Setting it up as the maintainer? See [docs/SPONSORS-SETUP.md](docs/SPONSORS-SETUP.md).*
 
 ## Our promise to founders
 

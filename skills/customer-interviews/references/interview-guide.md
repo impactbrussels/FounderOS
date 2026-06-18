@@ -90,3 +90,7 @@ A "no" here is more useful than a "yes I'd use it" — it tells you the pain isn
 The Mom Test (Rob Fitzpatrick) · Talking to Humans (Giff Constable) · The Four Steps to the
 Epiphany / customer development (Steve Blank) · Continuous Discovery Habits (Teresa Torres).
 Treat these as method sources, not gospel — your evidence about *your* customers beats any book.
+
+**Frameworks from the author's books (generalized):**
+
+- **Customer truth comes from behaviour, not survey answers** — a core discipline in *FoodTech After The Hype* by Adam M. Adamek.

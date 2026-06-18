@@ -156,3 +156,7 @@ for local legal advice · your local startup-law firm's stage-appropriate templa
 these as method/orientation sources, not gospel: norms, instruments and terms differ by country,
 sector and cycle, and a qualified lawyer/advisor in your jurisdiction is the authority on
 anything you sign.
+
+**Frameworks from the author's books (generalized):**
+
+- **Capital navigation & the funding cliff** — blend dilutive and non-dilutive funding and time the raise so you don't run out between rounds; from *FoodTech After The Hype* by Adam M. Adamek.

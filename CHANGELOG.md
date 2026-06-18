@@ -10,7 +10,7 @@ The first release: a usable, end-to-end operating system for first-time founders
 
 ### Added
 
-- **15 deep skills** across the five founder-journey stages:
+- **22 deep skills** across the five founder-journey stages:
   - *Idea & Validation:* `validate-idea`, `customer-interviews`, `cofounder-and-equity`
   - *Build / MVP:* `scope-mvp`
   - *Launch & GTM:* `positioning-and-gtm`, `launch-plan`, `find-first-customers`

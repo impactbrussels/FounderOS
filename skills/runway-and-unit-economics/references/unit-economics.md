@@ -87,3 +87,7 @@ Default Alive or Default Dead? (Paul Graham) · The SaaS metrics writing of Davi
 Lost and Founder (Rand Fishkin) on honest metrics · standard CAC/LTV/payback definitions from your
 accountant. Treat all of these as method sources — your collected-cash numbers and observed churn beat
 any benchmark. Confirm tax and accounting treatment with a qualified local professional.
+
+**Frameworks from the author's books (generalized):**
+
+- The **Five Killers** (especially unit-economics collapse and the funding cliff) and the **Operator's Creed** (economics before story; revenue before scale) — from *FoodTech After The Hype* by Adam M. Adamek.

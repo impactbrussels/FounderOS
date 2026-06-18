@@ -107,3 +107,7 @@ These don't scale — that's the point. They buy you customers *and* learning yo
 *The Mom Test* (Rob Fitzpatrick) · "Do Things That Don't Scale" (Paul Graham essay) ·
 *The Sales Acceleration Formula* (Mark Roberge) · *Founding Sales* (Pete Kazanjy). Treat these as
 method sources — what your actual `[ICP]` says on a call beats any script.
+
+**Frameworks from the author's books (generalized):**
+
+- **First Purchase vs Fifth Purchase** — trial (curiosity, cheap) and repeat (habit/belief, expensive) are different problems; design for both. From *Proof Before Hype* by Adam M. Adamek.

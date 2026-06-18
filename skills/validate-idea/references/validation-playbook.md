@@ -71,3 +71,7 @@ Pick the bar **before** running. Examples (calibrate to your context — these a
 The Mom Test (Rob Fitzpatrick) · The Lean Startup (Eric Ries) · Running Lean (Ash Maurya) ·
 "The Right It" / pretotyping (Alberto Savoia). Treat these as method sources, not gospel —
 your evidence about *your* customers beats any book.
+
+**Frameworks from the author's books (generalized):**
+
+- The **Narrative–Evidence Gap** (the distance between what you say and can show) and the **Five Killers** risk-check (no market need · unit-economics collapse · operational failure · funding cliff · regulatory time-bomb) — from *Proof Before Hype* and *FoodTech After The Hype* by Adam M. Adamek. See `skills/apply-mental-models/references/mental-models.md`.

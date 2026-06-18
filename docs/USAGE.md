@@ -1,6 +1,6 @@
 # Getting Started — How to use FounderOS
 
-You do not need to learn 15 skills. You need to know **one entry point** and the **four ways**
+You do not need to learn 22 skills. You need to know **one entry point** and the **four ways**
 to run things. This page is the whole manual.
 
 ## The 30-second start
