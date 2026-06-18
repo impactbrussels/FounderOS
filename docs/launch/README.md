@@ -1,7 +1,6 @@
 # FounderOS Launch Comms Pack
 
-Everything to announce FounderOS across channels. Written in Adam's voice. Replace `REPO_URL`
-with the live link before posting. Guiding rule: a project called *proof before hype* earns
+Everything to announce FounderOS across channels. Written in Adam's voice. Guiding rule: a project called *proof before hype* earns
 attention with substance, not volume.
 
 ## What's here

@@ -4,7 +4,7 @@ Draft copy for announcing FounderOS. Written in Adam's first-person voice. Swap 
 URL before posting. Keep the irony in mind: a project called *proof before hype* shouldn't be
 hyped — let the substance carry it.
 
-> Replace `REPO_URL` with `https://github.com/IMPACT-BRUSSELS/FounderOS` once live.
+> The live repo link is already filled in throughout.
 
 ---
 
@@ -29,7 +29,7 @@ It's also personal. "Proof before hype" is the title of my book on how food-inno
 
 It's v0.1, and it's open. ~95 more skills are on the roadmap, each a "good first issue." If you've built or advised a startup, come teach the next founder how.
 
-⭐ Star it, fork it, contribute: REPO_URL
+⭐ Star it, fork it, contribute: https://github.com/impact-brussels/FounderOS
 
 What's the one founder problem you wish someone had handed you a playbook for? 👇
 
@@ -70,7 +70,7 @@ Open source, attribution-only. Free — because entrepreneurship shouldn't be a 
 
 ~95 more skills on the roadmap, each a good first issue. Built one? Come teach the next founder.
 
-⭐ REPO_URL
+⭐ https://github.com/impact-brussels/FounderOS
 
 **6/**
 "Proof before hype" isn't a slogan I picked. It's the title of my book on turning scientific promise into trust, trial & traction. FounderOS is that discipline, made runnable.
@@ -81,13 +81,13 @@ What playbook do you wish you'd had on day one?
 
 ## Short variants (for reuse)
 
-- **One-liner:** FounderOS — the open operating system for first-time founders. Proof before hype. REPO_URL
+- **One-liner:** FounderOS — the open operating system for first-time founders. Proof before hype. https://github.com/impact-brussels/FounderOS
 - **Bio line:** Building FounderOS, the open-source operating system for first-time founders.
 - **Hacker News / Show HN title:** Show HN: FounderOS – an open, AI-native operating system for first-time founders
 
 ## Posting checklist
 
-- [ ] Repo is public and `REPO_URL` resolves.
+- [ ] Repo is public and `https://github.com/impact-brussels/FounderOS` resolves.
 - [ ] Social preview PNG uploaded (see `../brand/social-preview-brief.md`).
 - [ ] Discussions enabled; a "Welcome / Introduce yourself" thread pinned.
 - [ ] First few roadmap issues opened and labelled `good first issue` (gives visitors something to do).

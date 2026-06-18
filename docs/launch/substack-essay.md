@@ -2,7 +2,7 @@
 
 For the FoodEdge Substack. ~1,200 words, in Adam's voice. Speaks to a food-innovation audience
 while introducing a theme-agnostic tool, and lets the books sit in the PS, not the headline.
-Replace `REPO_URL` with the live link. Suggested title + subtitle at top; pick one.
+Suggested title + subtitle at top; pick one.
 
 ---
 
@@ -106,7 +106,7 @@ move. Then go make that move.
 
 I built the thing I wish I'd had. It's yours now.
 
-→ **REPO_URL**
+→ **https://github.com/impact-brussels/FounderOS**
 
 *Proof before hype.*
 
