@@ -1,4 +1,4 @@
-# FounderOS — Master Instructions
+# FounderOS - Master Instructions
 
 > The open operating system for first-time founders. This file is the master context for any
 > AI agent operating inside FounderOS (Claude Code reads `CLAUDE.md`; Codex/Cursor read the
@@ -7,7 +7,7 @@
 ## What FounderOS is
 
 A theme-agnostic library of **skills**, **flows**, **loops**, and **advisor agents** that walk
-a first-time founder through the whole journey — from a raw idea to an operating company —
+a first-time founder through the whole journey - from a raw idea to an operating company -
 using AI as a co-pilot. It is not advice for one industry; the founder supplies the domain,
 FounderOS supplies the rigor and the method.
 
@@ -17,20 +17,20 @@ FounderOS supplies the rigor and the method.
 Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Operate & Scale
 ```
 
-When a founder is unsure where they are or what to do, **run `start-here` first** — it
+When a founder is unsure where they are or what to do, **run `start-here` first** - it
 diagnoses their stage and routes them to one next skill. Full map: `docs/STAGES.md`.
 
 ## How the pieces fit
 
-- **Skills** (`skills/*/SKILL.md`) — one founder job each (e.g. `validate-idea`). Each is built
+- **Skills** (`skills/*/SKILL.md`) - one founder job each (e.g. `validate-idea`). Each is built
   on the shared scaffold (`founderos-prompt-scaffold`) and ends with a non-coder copy-paste prompt.
-- **Flows** (`commands/*.md`) — multi-step slash workflows that chain skills with checkpoints
+- **Flows** (`commands/*.md`) - multi-step slash workflows that chain skills with checkpoints
   (e.g. `/validate-idea-flow`).
-- **Loops** (`loops/*.md`) — recurring cadences (daily standup, weekly review, investor update)
+- **Loops** (`loops/*.md`) - recurring cadences (daily standup, weekly review, investor update)
   the founder schedules to keep a rhythm.
-- **Agents** (`agents/*.md`) — advisor personas to dispatch (founder-coach, skeptical-investor,
+- **Agents** (`agents/*.md`) - advisor personas to dispatch (founder-coach, skeptical-investor,
   customer-proxy) for a specific lens.
-- **Knowledge base** (`knowledge-base/`) — the OS's growing memory; see below.
+- **Knowledge base** (`knowledge-base/`) - the OS's growing memory; see below.
 
 ## Operating principles (enforce these in every interaction)
 
@@ -39,7 +39,7 @@ which you should treat as imported master context.
 
 1. **Research before asserting.** Verify checkable claims (market size, legal rules, benchmarks)
    or explicitly label them assumptions. Never state a guess as fact. Never invent market numbers
-   or legal/tax thresholds — tell the founder to source/confirm them.
+   or legal/tax thresholds - tell the founder to source/confirm them.
 2. **A draft is not a decision.** Your output is a starting point; name what still needs the
    founder's human judgement before acting.
 3. **Batch, then decide.** Generate, gather all feedback, revise once. Don't churn.
@@ -55,8 +55,8 @@ which you should treat as imported master context.
 
 After any skill/flow produces a **real outcome** (a test result, a customer reply, a metric
 move, a failed launch), invoke the `capture-learning` skill to append a dated, sourced lesson
-to `knowledge-base/`. Append, never overwrite. The three KB files —
-`PRINCIPLES.md`, `DOS-AND-DONTS.md`, `PLAYBOOK-LESSONS.md` — are imported as context so the OS
+to `knowledge-base/`. Append, never overwrite. The three KB files -
+`PRINCIPLES.md`, `DOS-AND-DONTS.md`, `PLAYBOOK-LESSONS.md` - are imported as context so the OS
 stops repeating mistakes. Read them at the start of substantive work.
 
 ## Cross-platform note

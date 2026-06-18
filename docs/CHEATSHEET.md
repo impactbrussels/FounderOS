@@ -1,13 +1,13 @@
-# FounderOS — Founder Journey Map (one-page cheatsheet)
+# FounderOS - Founder Journey Map (one-page cheatsheet)
 
-> Lost? Run **`start-here`** — it diagnoses your stage and routes you to one next skill.
+> Lost? Run **`start-here`** - it diagnoses your stage and routes you to one next skill.
 > Screenshot this page. It's the whole OS at a glance.
 
 ```
  IDEA & VALIDATION → BUILD / MVP → LAUNCH & GTM → FUNDRAISE → OPERATE & SCALE
         |                |             |              |              |
    "Is the problem   "What's the   "How do they   "Is this      "Does each
-    real and will    smallest      find us and    fundable —    customer make
+    real and will    smallest      find us and    fundable -    customer make
     they pay?"       thing that    say yes?"      and on what    money, and who
                      proves it?"                  terms?"        runs it?"
 ```
@@ -18,38 +18,38 @@
 ┌─ 1. IDEA & VALIDATION ─────────────────────────────────────────────┐
 │ Key question: Is the problem real, and will someone pay to fix it? │
 │ Skills:                                                            │
-│   • validate-idea        — sharpen problem, find riskiest assumption│
-│   • customer-interviews  — Mom-Test signal, not flattery            │
-│   • cofounder-and-equity — who owns what, vesting, the hard talk    │
+│   • validate-idea        - sharpen problem, find riskiest assumption│
+│   • customer-interviews  - Mom-Test signal, not flattery            │
+│   • cofounder-and-equity - who owns what, vesting, the hard talk    │
 │ Win: a falsifiable test passed (or a clean kill).                  │
 └────────────────────────────────────────────────────────────────────┘
 ┌─ 2. BUILD / MVP ───────────────────────────────────────────────────┐
 │ Key question: What's the smallest thing that proves the idea real? │
 │ Skills:                                                            │
-│   • scope-mvp            — cut to the one job; build the minimum    │
+│   • scope-mvp            - cut to the one job; build the minimum    │
 │ Win: real users touching a real thing.                            │
 └────────────────────────────────────────────────────────────────────┘
 ┌─ 3. LAUNCH & GTM ──────────────────────────────────────────────────┐
 │ Key question: How do buyers find you and say yes?                  │
 │ Skills:                                                            │
-│   • positioning-and-gtm  — the one sentence + the channel that works│
-│   • launch-plan          — sequence the launch, set the bar        │
-│   • find-first-customers — cold outreach to the first paying yeses  │
+│   • positioning-and-gtm  - the one sentence + the channel that works│
+│   • launch-plan          - sequence the launch, set the bar        │
+│   • find-first-customers - cold outreach to the first paying yeses  │
 │ Win: repeatable path from stranger to customer.                   │
 └────────────────────────────────────────────────────────────────────┘
 ┌─ 4. FUNDRAISE ─────────────────────────────────────────────────────┐
-│ Key question: Is this fundable — and on what terms?               │
+│ Key question: Is this fundable - and on what terms?               │
 │ Skills:                                                            │
-│   • pitch-deck           — the 10–12 slides that earn a meeting     │
-│   • investor-pipeline    — run the raise like a sales funnel        │
+│   • pitch-deck           - the 10-12 slides that earn a meeting     │
+│   • investor-pipeline    - run the raise like a sales funnel        │
 │ Win: a term sheet you understand before you sign.                 │
 └────────────────────────────────────────────────────────────────────┘
 ┌─ 5. OPERATE & SCALE ───────────────────────────────────────────────┐
 │ Key question: Does each customer make money, and who runs it?     │
 │ Skills:                                                            │
-│   • runway-and-unit-economics — burn, runway, CAC/LTV, the truth    │
-│   • legal-and-incorporation   — entity, contracts, the boring shield│
-│   • first-hire                — the role that defines the company   │
+│   • runway-and-unit-economics - burn, runway, CAC/LTV, the truth    │
+│   • legal-and-incorporation   - entity, contracts, the boring shield│
+│   • first-hire                - the role that defines the company   │
 │ Win: a company that runs without breaking when you sleep.         │
 └────────────────────────────────────────────────────────────────────┘
 

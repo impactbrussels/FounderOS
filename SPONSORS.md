@@ -1,11 +1,11 @@
 # Sponsor FounderOS
 
-FounderOS is free and attribution-only. It stays that way — independent, unbiased, not an ad
-for anyone's product — because sponsorship, not paywalls, funds it.
+FounderOS is free and attribution-only. It stays that way - independent, unbiased, not an ad
+for anyone's product - because sponsorship, not paywalls, funds it.
 
 Sponsoring is the intended way for organisations that benefit from FounderOS to give back. If
 your company sells to founders (tools, banking, legal, hosting, fundraising platforms),
-sponsoring reaches them at the exact moment they're making decisions — honestly, without
+sponsoring reaches them at the exact moment they're making decisions - honestly, without
 turning the skills themselves into advertising.
 
 ## Why sponsor
@@ -14,12 +14,12 @@ turning the skills themselves into advertising.
   instead of course-walled.
 - **Fund the roadmap.** ~100 planned skills (see [SKILLS-ROADMAP.md](SKILLS-ROADMAP.md)) need
   authoring, review, and maintenance.
-- **Reach founders with integrity.** Recognition lives in sponsor sections and release notes —
+- **Reach founders with integrity.** Recognition lives in sponsor sections and release notes -
   never inside a skill's advice. The method stays neutral.
 
 ## Monthly tiers
 
-Amounts are deliberately **market-average for an open-source project** — accessible to
+Amounts are deliberately **market-average for an open-source project** - accessible to
 individual founders, fair for companies. Recognition compounds as you go up; none of it buys
 influence over the advice (see the promise below).
 
@@ -34,15 +34,15 @@ influence over the advice (see the promise below).
 
 | | Amount | |
 |---|--------|---|
-| 💛 **Tip** | **$10** | A one-off thank-you — no strings |
+| 💛 **Tip** | **$10** | A one-off thank-you - no strings |
 | 🚀 **Launch backer** | **$250** | Help fund the next batch of roadmap skills; listed as a launch backer |
 
-**Larger / custom partnerships** (sponsored skill packs, workshops, speaking): let's tailor it —
+**Larger / custom partnerships** (sponsored skill packs, workshops, speaking): let's tailor it -
 [impact.brussels](https://impact.brussels).
 
 ## How to sponsor
 
-- **GitHub Sponsors** is the main way — the button appears on the repo once the program is live
+- **GitHub Sponsors** is the main way - the button appears on the repo once the program is live
   (see [.github/FUNDING.yml](.github/FUNDING.yml)).
 - **Organisations / partnerships:** [Impact Brussels ASBL](https://impact.brussels).
 - *Setting it up as the maintainer? See [docs/SPONSORS-SETUP.md](docs/SPONSORS-SETUP.md).*

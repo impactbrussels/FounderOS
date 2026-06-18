@@ -2,7 +2,7 @@
 
 FounderOS is **one content source, three harnesses**. The `skills/` files are written in
 *actions* ("read the file", "dispatch an agent", "search the web"), never one runtime's tool
-names — so the same skill runs under Claude Code, Codex, and Cursor.
+names - so the same skill runs under Claude Code, Codex, and Cursor.
 
 ## Instructions files by platform
 
@@ -27,8 +27,8 @@ change the master instructions.
 | Fetch a URL | `WebFetch` | `shell` (curl) | web |
 | Search the web | `WebSearch` | `web_search` | web |
 | Invoke a skill | `Skill` tool | loads natively | rule reference |
-| Dispatch a subagent | `Agent` | `spawn_agent` / `wait_agent` | — |
-| Track tasks | `TodoWrite` | `update_plan` | — |
+| Dispatch a subagent | `Agent` | `spawn_agent` / `wait_agent` | - |
+| Track tasks | `TodoWrite` | `update_plan` | - |
 
 ## Packaging manifests
 
@@ -40,7 +40,7 @@ change the master instructions.
 
 ## Non-coder path (no agent CLI at all)
 
-Every skill ends with a `## Copy-paste version` — a ready prompt for any chatbot
+Every skill ends with a `## Copy-paste version` - a ready prompt for any chatbot
 (Claude.ai, ChatGPT, Gemini). The `prompts/` folder indexes them all. A founder needs **zero
 tooling** to get value: open the skill, copy the block, paste it into a chat, fill the
 `[PLACEHOLDERS]`.

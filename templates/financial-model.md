@@ -1,4 +1,4 @@
-# Simple financial model — cash runway + unit economics (fill-in)
+# Simple financial model - cash runway + unit economics (fill-in)
 
 > **Finance education, not advice.** These tables help you *think* about cash and per-customer
 > economics. They are not accounting, tax, or investment advice, and conventions vary by
@@ -15,14 +15,14 @@ Fill one column per month. **Net burn** = cash out − cash in. **Runway** = cas
 
 | Line | M1 | M2 | M3 | M4 | M5 | M6 |
 |------|----|----|----|----|----|----|
-| **Cash in** — revenue (e.g. MRR) | | | | | | |
-| **Cash in** — funding / other | | | | | | |
+| **Cash in** - revenue (e.g. MRR) | | | | | | |
+| **Cash in** - funding / other | | | | | | |
 | **Total cash in** | | | | | | |
-| **Cash out** — salaries / founders | | | | | | |
-| **Cash out** — tools & software | | | | | | |
-| **Cash out** — marketing / sales | | | | | | |
-| **Cash out** — cost to serve (hosting, support, fees) | | | | | | |
-| **Cash out** — other | | | | | | |
+| **Cash out** - salaries / founders | | | | | | |
+| **Cash out** - tools & software | | | | | | |
+| **Cash out** - marketing / sales | | | | | | |
+| **Cash out** - cost to serve (hosting, support, fees) | | | | | | |
+| **Cash out** - other | | | | | | |
 | **Total cash out** | | | | | | |
 | **Net burn** (out − in) | | | | | | |
 | **Cash in bank (end of month)** | | | | | | |
@@ -32,7 +32,7 @@ Fill one column per month. **Net burn** = cash out − cash in. **Runway** = cas
 - Average monthly net burn (last 3 months): ____
 - **Runway (months) = cash ÷ avg net burn = ____**
 - Date you hit zero at current burn: ____
-- If net burn ≤ 0 (you're profitable/bootstrapped): runway = "indefinite at current rate" — note it and move on.
+- If net burn ≤ 0 (you're profitable/bootstrapped): runway = "indefinite at current rate" - note it and move on.
 
 ---
 
@@ -50,10 +50,10 @@ A "unit" is one customer. The question: does one customer make or lose money?
 | **LTV : CAC ratio** | LTV ÷ CAC | |
 | **Payback period (months)** | CAC ÷ (ARPU × gross margin %) | |
 
-**Read-outs (rules of thumb — they vary, don't treat as targets):**
-- **LTV:CAC** — often considered healthy around ≥ 3:1. Below 1:1 you lose money on every customer.
-- **Payback** — shorter is safer; many subscription businesses aim for under ~12 months.
-- **Churn** is the silent killer — a small monthly churn compounds into a short lifetime.
+**Read-outs (rules of thumb - they vary, don't treat as targets):**
+- **LTV:CAC** - often considered healthy around ≥ 3:1. Below 1:1 you lose money on every customer.
+- **Payback** - shorter is safer; many subscription businesses aim for under ~12 months.
+- **Churn** is the silent killer - a small monthly churn compounds into a short lifetime.
 
 ---
 

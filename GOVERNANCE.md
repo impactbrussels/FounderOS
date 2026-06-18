@@ -37,7 +37,7 @@ documented rationale in a PR:
 
 Every contribution is reviewed for: correctness, the quality bar in `CONTRIBUTING.md`,
 theme-agnosticism, real method in `references/`, and preserved attribution. Maintainers may
-request changes, edit for the house voice, or decline contributions that don't meet the bar — a
+request changes, edit for the house voice, or decline contributions that don't meet the bar - a
 thin or generic skill is worse than no skill.
 
 ## Becoming a maintainer

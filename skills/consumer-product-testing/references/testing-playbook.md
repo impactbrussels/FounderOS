@@ -20,7 +20,7 @@ allergen/labelling** with a qualified expert before testing anything ingested or
 ## Recruiting & sample size
 
 - **Screen for the real [ICP].** Use a short screener; reject out-of-target and friends/family.
-- **Qualitative usability:** ~5–8 users per round surfaces most usability problems; iterate.
+- **Qualitative usability:** ~5-8 users per round surfaces most usability problems; iterate.
 - **Quantitative (liking, preference, claims):** target-consumer samples in the tens-to-hundreds;
   treat small panels as directional. (For sensory specifics, see `sensory-testing`.)
 - **Incentivise fairly** without biasing (a thank-you, not a reward contingent on praise).
@@ -28,9 +28,9 @@ allergen/labelling** with a qualified expert before testing anything ingested or
 ## Observation sheet (what to record)
 
 - Did they complete the core use **unaided**? Where did they hesitate, misuse, or quit?
-- Would they use it **again** — and did they, unprompted, on a later day (the real test)?
+- Would they use it **again** - and did they, unprompted, on a later day (the real test)?
 - Would they **pay** / re-order? At what price?
-- Spontaneous comments (verbatim) vs prompted ratings — weight the spontaneous.
+- Spontaneous comments (verbatim) vs prompted ratings - weight the spontaneous.
 
 ## Setting the bar (before you test)
 

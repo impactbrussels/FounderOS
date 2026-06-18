@@ -4,7 +4,7 @@ You're a founder; your time is scarce. Here's the fastest path to an answer.
 
 ## I'm a founder using FounderOS
 
-- **Never used it before?** Read the [Getting Started / Usage guide](docs/USAGE.md) — how to run
+- **Never used it before?** Read the [Getting Started / Usage guide](docs/USAGE.md) - how to run
   every skill, flow, loop, and agent on each platform.
 - **Don't know where to start?** Run the [`start-here`](skills/start-here/SKILL.md) skill, or
   read [`docs/STAGES.md`](docs/STAGES.md) and the one-page [`docs/CHEATSHEET.md`](docs/CHEATSHEET.md).
@@ -33,4 +33,4 @@ You're a founder; your time is scarce. Here's the fastest path to an answer.
 ## A note on scope
 
 FounderOS gives you method, structure, and the questions a good advisor would ask. It is **not**
-legal, financial, or tax advice — confirm specifics with a qualified professional before acting.
+legal, financial, or tax advice - confirm specifics with a qualified professional before acting.

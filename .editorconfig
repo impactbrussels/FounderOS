@@ -1,4 +1,4 @@
-# https://editorconfig.org — consistent formatting across editors and contributors.
+# https://editorconfig.org - consistent formatting across editors and contributors.
 root = true
 
 [*]

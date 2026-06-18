@@ -4,7 +4,7 @@ title: "FounderOS: The open operating system for first-time founders"
 abstract: >-
   FounderOS is a theme-agnostic, open-source library of AI skills, multi-step flows,
   recurring loops, and advisor agents that guide a first-time founder through the whole
-  startup journey — idea, validation, MVP, launch, fundraising, and operations — across
+  startup journey - idea, validation, MVP, launch, fundraising, and operations - across
   Claude Code, Codex, and Cursor.
 type: software
 version: "0.1.0"

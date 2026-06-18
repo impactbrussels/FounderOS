@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# FounderOS skill linter — checks every skill has valid frontmatter and that JSON manifests parse.
+# FounderOS skill linter - checks every skill has valid frontmatter and that JSON manifests parse.
 # Used by package.json `npm run lint` and the CI workflow.
 set -uo pipefail
 

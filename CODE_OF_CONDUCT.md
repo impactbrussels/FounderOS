@@ -1,13 +1,13 @@
 # Code of Conduct
 
 FounderOS is built by founders, for founders. We want it to be a welcoming, useful, and
-respectful place for everyone who contributes — whatever their background, experience level, or
+respectful place for everyone who contributes - whatever their background, experience level, or
 the kind of company they're building.
 
 ## Our standard
 
 We adopt the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
-as our code of conduct. Please read it — it is short and clear.
+as our code of conduct. Please read it - it is short and clear.
 
 In plain terms, we expect everyone to:
 
@@ -20,7 +20,7 @@ In plain terms, we expect everyone to:
 
 ## Scope
 
-This applies to all FounderOS spaces — the repository, issues, pull requests, discussions — and
+This applies to all FounderOS spaces - the repository, issues, pull requests, discussions - and
 to anyone representing the project in public.
 
 ## Reporting

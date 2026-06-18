@@ -1,4 +1,4 @@
-# The Founder Journey — Stage Map
+# The Founder Journey - Stage Map
 
 FounderOS is organised around the path a first-time founder actually walks. Skills live in a
 flat `skills/` folder (a platform requirement), but each carries a `stage:` field so you can
@@ -34,7 +34,7 @@ Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Ope
 
 | Skill | Produces |
 |-------|----------|
-| `positioning-and-gtm` | Positioning statement, ICP, 1–2 channels, GTM motion |
+| `positioning-and-gtm` | Positioning statement, ICP, 1-2 channels, GTM motion |
 | `launch-plan` | Launch type, asset checklist, T-minus timeline, success bar |
 | `find-first-customers` | Target list, outreach, pipeline to the first ~10 paying customers |
 
@@ -77,6 +77,6 @@ Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Ope
 
 ## Not built yet?
 
-The full catalogue of planned skills — each a contributor "good first issue" — is in
+The full catalogue of planned skills - each a contributor "good first issue" - is in
 `SKILLS-ROADMAP.md`. New here as a human? Watch one startup walk the whole journey in
 `examples/sample-startup.md`.

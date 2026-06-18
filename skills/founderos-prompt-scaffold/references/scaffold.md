@@ -6,11 +6,11 @@ self-contained version so the skill works when copied to another machine/harness
 ## Low tier
 ```
 Act as a [ROLE]. [TASK in one sentence].
-Use this context: [2–4 facts].
+Use this context: [2-4 facts].
 Return it as [FORMAT].
 ```
 
-## Medium / High tier — the six blocks
+## Medium / High tier - the six blocks
 ```xml
 <ROLE_AND_GOAL>
 You are a [ROLE] with deep experience in [DOMAIN].
@@ -19,7 +19,7 @@ Your single goal is to [PRIMARY OBJECTIVE], for a [STAGE] startup.
 
 <CONTEXT>
 [Who the founder is; startup = [ONE_LINER]; ICP = [ICP]; the binding [CONSTRAINT].
-Replace every placeholder — generic input produces generic output.]
+Replace every placeholder - generic input produces generic output.]
 </CONTEXT>
 
 <STEPS>
@@ -42,7 +42,7 @@ Return exactly:
 </OUTPUT>
 
 <QUALITY_STANDARDS>      <!-- High tier -->
-Good enough only if: [1–3 acceptance tests the founder can check].
+Good enough only if: [1-3 acceptance tests the founder can check].
 </QUALITY_STANDARDS>
 ```
 
@@ -52,6 +52,6 @@ Good enough only if: [1–3 acceptance tests the founder can check].
 `[METRIC]` · `[TONE]` (professional·plain·warm·bold·technical)
 
 ## Tier selection
-- **Low** — quick one-shot you'll eyeball and iterate.
-- **Medium** — repeatable task with a reusable defined output.
-- **High** — decision-grade work; money, legal, or hiring on the line.
+- **Low** - quick one-shot you'll eyeball and iterate.
+- **Medium** - repeatable task with a reusable defined output.
+- **High** - decision-grade work; money, legal, or hiring on the line.

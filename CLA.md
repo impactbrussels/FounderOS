@@ -1,7 +1,7 @@
 # Contributor License Agreement
 
-We kept this short and in plain language on purpose. By contributing to FounderOS — opening a
-pull request, submitting a patch, or otherwise adding to the project — you agree to the following.
+We kept this short and in plain language on purpose. By contributing to FounderOS - opening a
+pull request, submitting a patch, or otherwise adding to the project - you agree to the following.
 Nothing here is meant to be scary; it just lets the project stay open, free, and properly licensed.
 
 ## What you're agreeing to
@@ -18,7 +18,7 @@ the same way the rest of FounderOS is:
   Attribution 4.0 International (CC-BY-4.0)**.
 - **Code** (scripts, manifests, workflows, tooling) under the **Apache License 2.0**.
 
-This means others may use, adapt, and build on your contribution under those terms — the same
+This means others may use, adapt, and build on your contribution under those terms - the same
 freedoms you enjoyed when you used FounderOS.
 
 **3. You grant the maintainers the rights to use it.** You grant Adam M. Adamek and Impact
@@ -28,7 +28,7 @@ your contribution as part of FounderOS, consistent with the licenses above. You 
 copyright; you're just licensing it, not signing it away.
 
 **4. Attribution stays.** FounderOS is attribution-only. You agree to keep the project's
-attribution intact — **FounderOS by Adam M. Adamek (Impact Brussels ASBL)** — and not to remove
+attribution intact - **FounderOS by Adam M. Adamek (Impact Brussels ASBL)** - and not to remove
 license headers, the `NOTICE` file, or the `attribution:` field in skill frontmatter. In return,
 your contribution becomes part of an openly credited, freely shared resource for founders.
 
@@ -43,4 +43,4 @@ paperwork. If you have questions before agreeing, open a
 [Discussion](https://github.com/IMPACT-BRUSSELS/FounderOS/discussions) or reach us via
 [impact.brussels](https://impact.brussels).
 
-Thank you for contributing — and for helping keep FounderOS open for the next founder.
+Thank you for contributing - and for helping keep FounderOS open for the next founder.

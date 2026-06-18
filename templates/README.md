@@ -1,13 +1,13 @@
 # FounderOS Templates
 
 Fill-in starting points for the artifacts founders actually have to produce. Each one pairs with
-a FounderOS skill that explains the *thinking* — the template just gives you the *shape*.
+a FounderOS skill that explains the *thinking* - the template just gives you the *shape*.
 
 ## What's here
 
 | Template | Use it for | Pairs with skill |
 |----------|-----------|------------------|
-| [`pitch-deck-outline.md`](pitch-deck-outline.md) | A 10–12 slide investor deck, one job per slide | `pitch-deck`, `investor-pipeline` |
+| [`pitch-deck-outline.md`](pitch-deck-outline.md) | A 10-12 slide investor deck, one job per slide | `pitch-deck`, `investor-pipeline` |
 | [`one-pager.md`](one-pager.md) | A 60-second company summary for investors/partners/customers | `positioning-and-gtm`, `pitch-deck` |
 | [`financial-model.md`](financial-model.md) | Cash runway + per-customer unit economics (CAC/LTV/payback) | `runway-and-unit-economics` |
 | [`investor-update-email.md`](investor-update-email.md) | A consistent monthly investor/mentor update | `investor-pipeline` |
@@ -36,7 +36,7 @@ each with your real value, then delete the guidance lines.
 ## Two house rules
 
 1. **Every number is real or labelled an estimate.** Never paste in an invented market size or
-   financial figure — sources and assumptions belong next to the number.
+   financial figure - sources and assumptions belong next to the number.
 2. **A filled template is a draft, not a decision.** Pressure-test it with the paired skill (or a
    FounderOS advisor agent) before you act on it.
 

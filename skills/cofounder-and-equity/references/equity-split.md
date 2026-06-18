@@ -7,7 +7,7 @@ Frameworks behind the `cofounder-and-equity` skill. Theme-agnostic; the founder 
 > have a lawyer draft the actual founders' agreement, vesting, and equity documents (see the
 > `legal-and-incorporation` skill).
 
-## The "founder prenup" — questions to answer out loud AND in writing
+## The "founder prenup" - questions to answer out loud AND in writing
 
 If you can't discuss these comfortably now, the partnership won't survive discussing them under stress.
 
@@ -25,8 +25,8 @@ If you can't discuss these comfortably now, the partnership won't survive discus
 - What's the minimum commitment we each expect from the other?
 
 **Money**
-- Salaries — when, how much, equal?
-- Who is putting cash in? How is that recognised — equity, debt, or contribution?
+- Salaries - when, how much, equal?
+- Who is putting cash in? How is that recognised - equity, debt, or contribution?
 - How do we handle outside income, expenses, and personal financial runway?
 
 **The hard ones (what everyone avoids)**
@@ -40,31 +40,31 @@ If you can't discuss these comfortably now, the partnership won't survive discus
 ### Why near-equal-with-vesting usually beats a haggled split
 
 - **Contributions look different in five years than on day one.** The idea matters less than a decade of execution; an uneven split frozen at the start often misprices who actually built the company.
-- **The resentment tax.** The few points you "win" by haggling rarely offset the resentment it plants in the person who feels short-changed — and a demoralised co-founder is far more expensive than a few percent.
+- **The resentment tax.** The few points you "win" by haggling rarely offset the resentment it plants in the person who feels short-changed - and a demoralised co-founder is far more expensive than a few percent.
 - **Vesting handles the real risk.** The fear that "what if they leave and keep it?" is solved by vesting, not by a smaller slice. So you can be generous on the split AND safe.
 - **Signal of partnership.** A near-equal split says "we're in this as equals," which is often what you need from the relationship.
 
-A meaningful gap can be justified — but justify it hard with the factors below, don't assume it.
+A meaningful gap can be justified - but justify it hard with the factors below, don't assume it.
 
 ### Factors to weigh (when a gap is genuinely warranted)
 
 | Factor | Question | Weight it how |
 |--------|----------|---------------|
-| Idea & prior work | Who originated it; what's already built? | Real but fades — execution dwarfs the idea over time. |
-| Commitment / time | Full-time vs. part-time; who's all-in now? | High — sweat over years is the main input. |
+| Idea & prior work | Who originated it; what's already built? | Real but fades - execution dwarfs the idea over time. |
+| Commitment / time | Full-time vs. part-time; who's all-in now? | High - sweat over years is the main input. |
 | Capital at risk | Who's putting in cash, and how much? | Recognise it (often as separate investment, not just split). |
-| Opportunity cost | Who's giving up the bigger salary/role? | Moderate — reflects real sacrifice. |
-| Critical skill / network | Who brings the irreplaceable capability? | Moderate — but "irreplaceable" is rarer than people think. |
-| Risk taken | Who joined when it was riskiest? | Moderate — early risk deserves recognition. |
+| Opportunity cost | Who's giving up the bigger salary/role? | Moderate - reflects real sacrifice. |
+| Critical skill / network | Who brings the irreplaceable capability? | Moderate - but "irreplaceable" is rarer than people think. |
+| Risk taken | Who joined when it was riskiest? | Moderate - early risk deserves recognition. |
 
-Tools like equity-split calculators can structure the conversation — use them to **reason**, not to outsource the decision.
+Tools like equity-split calculators can structure the conversation - use them to **reason**, not to outsource the decision.
 
-## Vesting & cliff — concept explainer
+## Vesting & cliff - concept explainer
 
 - **Vesting** = you earn your equity over time rather than owning it all on day one. Common framing: equity vests gradually over several years.
 - **Cliff** = an initial period during which you earn *nothing* if you leave; pass the cliff and a chunk vests at once, then the rest accrues over time. It protects against a co-founder leaving in the first few months with equity.
 - **Why founders vest too (not just employees):** it protects the people who stay, it's expected by investors, and it turns "what if you leave?" from a fight into a clause.
-- **Acceleration** (equity vesting faster on certain events, e.g. acquisition) is a real but jurisdiction- and deal-specific concept — discuss with a lawyer.
+- **Acceleration** (equity vesting faster on certain events, e.g. acquisition) is a real but jurisdiction- and deal-specific concept - discuss with a lawyer.
 - **Exact schedules, mechanics, and tax treatment vary by country.** Agree the principle; let counsel draft it.
 
 ## Decision-rights / roles template
@@ -97,17 +97,17 @@ For each: what's the process, who decides, and what happens to equity/role?
 
 ## Anti-patterns
 
-- **Handshake splits** — undocumented ownership that becomes a brutal dispute exactly when the company gets valuable.
-- **No vesting** — the single most common, most expensive founder mistake. A leaver keeps a big slice forever.
-- **Avoiding the money talk** — dodging salaries, cash-in, and outside income until it explodes mid-crisis.
-- **Hiring a co-founder for loneliness** — taking an equal partner when you needed a hire or an advisor.
-- **Cloning yourself** — picking a co-founder with your exact skills, leaving the same gaps unfilled.
-- **Skipping the trial** — committing on vibes and conversations instead of a real project under pressure.
-- **Haggling for points** — winning a few percent and losing the relationship.
+- **Handshake splits** - undocumented ownership that becomes a brutal dispute exactly when the company gets valuable.
+- **No vesting** - the single most common, most expensive founder mistake. A leaver keeps a big slice forever.
+- **Avoiding the money talk** - dodging salaries, cash-in, and outside income until it explodes mid-crisis.
+- **Hiring a co-founder for loneliness** - taking an equal partner when you needed a hire or an advisor.
+- **Cloning yourself** - picking a co-founder with your exact skills, leaving the same gaps unfilled.
+- **Skipping the trial** - committing on vibes and conversations instead of a real project under pressure.
+- **Haggling for points** - winning a few percent and losing the relationship.
 
-## Further reading (verify against primary sources — and a lawyer for the docs)
+## Further reading (verify against primary sources - and a lawyer for the docs)
 
 The Founder's Dilemmas (Noam Wasserman) · Slicing Pie (Mike Moyer) as one framework among several ·
 Y Combinator's writing on co-founder splits and equity · reputable equity-split calculators (as a
 conversation aid, not an oracle). Treat all as method sources. **Vesting, equity, and tax mechanics
-vary by jurisdiction — have a qualified lawyer draft the final agreement.**
+vary by jurisdiction - have a qualified lawyer draft the final agreement.**

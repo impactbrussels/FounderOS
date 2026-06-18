@@ -1,9 +1,9 @@
-# FounderOS — Skills Roadmap
+# FounderOS - Skills Roadmap
 
 > The open operating system for first-time founders. This roadmap is the contribution catalog.
 
 FounderOS ships **22 skills** today and is built to grow. Every **planned slot** below is a
-real founder job that the OS does not yet cover — and an open invitation. If you have run a
+real founder job that the OS does not yet cover - and an open invitation. If you have run a
 startup, advised one, or simply solved one of these problems with AI, you can author the skill
 that teaches the next founder how to do it.
 
@@ -21,9 +21,9 @@ that teaches the next founder how to do it.
 | Status | Meaning |
 |--------|---------|
 | ✅ **Shipped** | Live in `skills/`, linted, documented |
-| 🟢 **good first issue** | Well-scoped, low-context — a great first contribution |
+| 🟢 **good first issue** | Well-scoped, low-context - a great first contribution |
 | 🟡 **help wanted** | Real method exists, needs an experienced author |
-| 🔵 **design needed** | Scope or method still open — propose the shape in your issue |
+| 🔵 **design needed** | Scope or method still open - propose the shape in your issue |
 
 ## The five founder problem-types
 
@@ -43,7 +43,7 @@ pick work that fits their strength.
 
 ---
 
-## Stage 1 — Idea & Validation
+## Stage 1 - Idea & Validation
 
 *Stage key: `idea-and-validation`*
 
@@ -61,9 +61,9 @@ pick work that fits their strength.
 | survey-analysis | Sort & Scan | Themes, segments, and the signal vs. noise call | 🟡 help wanted |
 | willingness-to-pay-test | Learn & Decide | A pricing-sensitivity experiment with a clear read | 🔵 design needed |
 | user-feedback-triage | Sort & Scan | A triaged backlog of feedback by frequency and severity | 🟢 good first issue |
-| scenario-planning | Learn & Decide | 3–4 plausible futures and the no-regret moves across them | 🔵 design needed |
+| scenario-planning | Learn & Decide | 3-4 plausible futures and the no-regret moves across them | 🔵 design needed |
 
-## Stage 2 — Build / MVP
+## Stage 2 - Build / MVP
 
 *Stage key: `build-mvp`*
 
@@ -84,7 +84,7 @@ pick work that fits their strength.
 | faq-builder | Answer & Assist | A drafted FAQ from real customer questions | 🟢 good first issue |
 | help-docs | Create & Communicate | A starter help-center structure and seed articles | 🟢 good first issue |
 
-## Stage 3 — Launch & GTM
+## Stage 3 - Launch & GTM
 
 *Stage key: `launch-and-gtm`*
 
@@ -123,7 +123,7 @@ pick work that fits their strength.
 | influencer-outreach | Create & Communicate | A creator shortlist and a collaboration brief | 🟢 good first issue |
 | support-playbook | Answer & Assist | A support workflow with response templates and SLAs | 🟡 help wanted |
 
-## Stage 4 — Fundraise
+## Stage 4 - Fundraise
 
 *Stage key: `fundraise`*
 
@@ -132,7 +132,7 @@ pick work that fits their strength.
 | pitch-deck | Create & Communicate | A narrative-driven pitch deck outline and slide copy | ✅ Shipped |
 | investor-pipeline | Sort & Scan | A ranked investor pipeline with a stage-by-stage tracker | ✅ Shipped |
 | runway-and-unit-economics | Learn & Decide | A runway model and unit economics that hold up | ✅ Shipped |
-| financial-forecast | Learn & Decide | A driver-based 18–24 month financial model | 🟡 help wanted |
+| financial-forecast | Learn & Decide | A driver-based 18-24 month financial model | 🟡 help wanted |
 | budget-planning | Learn & Decide | An operating budget with scenario sensitivities | 🟢 good first issue |
 | investor-update-automation | Automate Admin | A monthly investor-update template and cadence | 🟢 good first issue |
 | board-deck | Create & Communicate | A board deck structure with the metrics that matter | 🟡 help wanted |
@@ -146,7 +146,7 @@ pick work that fits their strength.
 | grant-application | Create & Communicate | A structured grant narrative against the rubric | 🟡 help wanted |
 | accelerator-application | Create & Communicate | A standout accelerator application and answers | 🟢 good first issue |
 
-## Stage 5 — Operate & Scale
+## Stage 5 - Operate & Scale
 
 *Stage key: `operate-and-scale`*
 
@@ -177,7 +177,7 @@ pick work that fits their strength.
 
 ## Cross-cutting
 
-*Stage key: `cross-cutting` — applies across the whole journey.*
+*Stage key: `cross-cutting` - applies across the whole journey.*
 
 | Skill | Function | What it produces | Status |
 |-------|----------|------------------|--------|
@@ -201,7 +201,7 @@ pick work that fits their strength.
 ## Roadmap at a glance
 
 - **Shipped:** 22 skills across 5 stages + cross-cutting.
-- **Planned:** ~85 slots — every one a contribution opportunity.
+- **Planned:** ~85 slots - every one a contribution opportunity.
 - **Want a skill that isn't here?** Open a **New skill** issue and propose it. The roadmap is a
   living document, not a closed list.
 

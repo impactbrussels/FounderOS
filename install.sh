@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
-# FounderOS installer — links the skills into your agent's skills path.
+# FounderOS installer - links the skills into your agent's skills path.
 # Safe, transparent, idempotent. Read it before running (good founder instinct).
 #
-# FounderOS by Adam M. Adamek (Impact Brussels ASBL) — Apache-2.0 (code) / CC-BY-4.0 (content).
+# FounderOS by Adam M. Adamek (Impact Brussels ASBL) - Apache-2.0 (code) / CC-BY-4.0 (content).
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SKILLS_SRC="$REPO_DIR/skills"
 
-echo "FounderOS — the open operating system for first-time founders"
+echo "FounderOS - the open operating system for first-time founders"
 echo "Repo: $REPO_DIR"
 echo
 
@@ -25,7 +25,7 @@ link_into() {
     name="$(basename "$skill")"
     local dest="$target_dir/$name"
     if [ -e "$dest" ] || [ -L "$dest" ]; then
-      echo "  • $name already present — skipping (remove it first to relink)"
+      echo "  • $name already present - skipping (remove it first to relink)"
     else
       ln -s "$skill" "$dest"
       echo "  ✓ linked $name"
@@ -37,7 +37,7 @@ link_into() {
 
 echo "Where should FounderOS skills be installed?"
 echo "  1) Claude Code  ($CLAUDE_SKILLS)"
-echo "  2) Cross-runtime ($AGENTS_SKILLS) — Codex / Cursor personal skills"
+echo "  2) Cross-runtime ($AGENTS_SKILLS) - Codex / Cursor personal skills"
 echo "  3) Both"
 echo "  4) Just tell me how to use it (no changes)"
 read -r -p "Choose [1-4]: " choice
@@ -52,7 +52,7 @@ esac
 cat <<'EOF'
 
 Done. Next steps:
-  • Claude Code:  "Use start-here — I have a startup idea."
+  • Claude Code:  "Use start-here - I have a startup idea."
   • Codex/Cursor: the same skills/ source is read via AGENTS.md / .cursor/rules.
   • No coding tools? Open prompts/README.md and copy-paste prompts into any chatbot.
 

@@ -73,7 +73,7 @@ body:
     attributes:
       label: Will you author it?
       options:
-        - "Yes — assign it to me"
+        - "Yes - assign it to me"
         - "Proposing it for someone else to build"
     validations:
       required: true

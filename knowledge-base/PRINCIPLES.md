@@ -2,7 +2,7 @@
 
 Durable truths about building a startup, distilled to first principles. Theme-agnostic.
 Imported as master context by `CLAUDE.md` / `AGENTS.md`. Grown over time by the
-`capture-learning` skill — append, never overwrite.
+`capture-learning` skill - append, never overwrite.
 
 ## Founding principles (seed set)
 
@@ -13,23 +13,23 @@ Imported as master context by `CLAUDE.md` / `AGENTS.md`. Grown over time by the
 - **Do things that don't scale, first.** Hand-deliver value to the first customers; the
   un-scalable phase is where you learn what's worth scaling. *(seed)*
 - **Talk to customers in their language, not yours.** The problem statement that sells is the
-  one written in the customer's words, about their life — not your feature list. *(seed)*
+  one written in the customer's words, about their life - not your feature list. *(seed)*
 - **Default to the earliest unvalidated assumption.** When unsure what to work on, the highest-
-  value work is almost always upstream — the riskiest belief you haven't tested. *(seed)*
+  value work is almost always upstream - the riskiest belief you haven't tested. *(seed)*
 - **Money, time, and behaviour are the only real demand signals.** Likes, "cool idea," and
   friends' encouragement are vanity. A stranger paying or changing behaviour is signal. *(seed)*
 - **Irreversible decisions deserve disproportionate care.** Equity splits, co-founder choice,
-  incorporation, and key hires are hard to undo — slow down and get them right. *(seed)*
+  incorporation, and key hires are hard to undo - slow down and get them right. *(seed)*
 - **Runway is oxygen; know your number cold.** A founder who can't state their burn and months
   of runway is flying blind. *(seed)*
 - **A draft is not a decision.** AI output, including from FounderOS, is a starting point. The
   human founder owns the judgement call. *(seed)*
 - **Research before asserting.** A checkable claim (market size, legal rule, benchmark) is either
-  verified or labelled an assumption — never stated as fact on a guess. *(seed)*
+  verified or labelled an assumption - never stated as fact on a guess. *(seed)*
 
 ## The Operator's Creed (generalized, post-hype)
 
-From *FoodTech After The Hype* (Adam M. Adamek), stated in sector-neutral form — the priorities
+From *FoodTech After The Hype* (Adam M. Adamek), stated in sector-neutral form - the priorities
 that keep a startup alive once the excitement fades:
 
 - **Economics before story.** A great narrative on broken unit economics still dies. *(seed)*

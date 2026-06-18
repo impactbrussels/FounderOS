@@ -2,14 +2,14 @@
 
 FounderOS is dual-licensed, and **attribution is required**.
 
-- **Content** — all skills, prompts, documentation, templates, and other prose — is licensed
+- **Content** - all skills, prompts, documentation, templates, and other prose - is licensed
   under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE-CONTENT).
-- **Code** — scripts, workflows, and any software — is licensed under
+- **Code** - scripts, workflows, and any software - is licensed under
   [Apache License 2.0](LICENSE-CODE).
 
 ## Required attribution
 
-If you use, adapt, remix, or redistribute FounderOS content (in whole or in part — a single
+If you use, adapt, remix, or redistribute FounderOS content (in whole or in part - a single
 skill counts), you must give appropriate credit. Use this notice:
 
 > **FounderOS** by Adam M. Adamek (Impact Brussels ASBL), licensed under CC-BY-4.0.

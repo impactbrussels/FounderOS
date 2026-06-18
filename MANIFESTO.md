@@ -9,8 +9,8 @@ you build. Cite before you claim. A draft is never a decision.
 
 **And: startup knowledge should not be gatekept.**
 
-The hard-won lessons of building a company — validate before you build, talk to customers
-honestly, don't split equity on a handshake, know your runway cold — are not secrets. Yet they
+The hard-won lessons of building a company - validate before you build, talk to customers
+honestly, don't split equity on a handshake, know your runway cold - are not secrets. Yet they
 arrive late, scattered, and expensive: a $5,000 course here, a paywalled thread there, a mentor
 you can only reach if you already know the right people. First-time founders pay for this
 fragmentation in the one currency they can't get back: time.
@@ -20,7 +20,7 @@ We believe four things.
 **1. The bottleneck is "what next," not "how."**
 Founders rarely fail for lack of effort. They fail by pouring months into the wrong thing for
 the stage they're at. An operating system's first job is to tell you where you are and what to
-do next — then get out of the way.
+do next - then get out of the way.
 
 **2. AI should be a co-pilot, not an oracle.**
 FounderOS never pretends to know your customers better than you do. It supplies rigor, method,
@@ -35,7 +35,7 @@ fund, operate. FounderOS is theme-agnostic by design, so it serves every founder
 Every founder who uses FounderOS and records what they learned makes it sharper for the next
 one. Open, attribution-only, contribution-powered. Credit is required; access never should be.
 
-This is the operating system one first-time founder wished they'd had — built in the open so no
+This is the operating system one first-time founder wished they'd had - built in the open so no
 founder has to start from zero again.
 
-— *Adam M. Adamek, PhD · Impact Brussels ASBL · 2026*
+- *Adam M. Adamek, PhD · Impact Brussels ASBL · 2026*

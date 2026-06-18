@@ -1,4 +1,4 @@
-# Getting Started — How to use FounderOS
+# Getting Started - How to use FounderOS
 
 You do not need to learn 22 skills. You need to know **one entry point** and the **four ways**
 to run things. This page is the whole manual.
@@ -7,10 +7,10 @@ to run things. This page is the whole manual.
 
 Whatever you're building, start the same way:
 
-> **"Use the `start-here` skill — here's my situation: …"**
+> **"Use the `start-here` skill - here's my situation: …"**
 
 `start-here` asks you three questions, works out where you are on the journey, and tells you the
-**one** skill to run next. It's the built-in guide — when in doubt, run it again. (No tools at
+**one** skill to run next. It's the built-in guide - when in doubt, run it again. (No tools at
 all? Open [`prompts/README.md`](../prompts/README.md) and paste the `start-here` prompt into any
 chatbot.)
 
@@ -21,19 +21,19 @@ chatbot.)
 FounderOS has four kinds of building blocks. Here's what each is and how to invoke it on every
 platform.
 
-### 1. A Skill — one founder job
+### 1. A Skill - one founder job
 
 *Examples: `validate-idea`, `pitch-deck`, `runway-and-unit-economics`.* Each produces a real
 artifact and lives in [`skills/<name>/SKILL.md`](../skills/).
 
 | Platform | How to run it |
 |----------|---------------|
-| **Claude Code** | Say *"Use the `validate-idea` skill"* (or just describe the task — it triggers automatically). |
+| **Claude Code** | Say *"Use the `validate-idea` skill"* (or just describe the task - it triggers automatically). |
 | **Codex** | The skill loads from `skills/`; say *"validate my idea using the validate-idea skill."* |
 | **Cursor** | The `.cursor/rules` point at the skills; ask in chat referencing the skill. |
 | **Any chatbot (no tools)** | Open the skill file, scroll to **`## Copy-paste version`**, copy it into Claude.ai / ChatGPT / Gemini, and fill the `[PLACEHOLDERS]`. |
 
-### 2. A Flow — several skills, chained with checkpoints
+### 2. A Flow - several skills, chained with checkpoints
 
 *Examples: `/validate-idea-flow`, `/launch-flow`, `/fundraise-flow`.* A flow runs a sequence
 (e.g. validate → interview → scope) and **stops at checkpoints** so you review before continuing.
@@ -44,7 +44,7 @@ They live in [`commands/`](../commands/).
 | **Claude Code / Codex / Cursor** | Invoke the flow by name: *"Run the `validate-idea-flow`."* It walks you through each step and pauses at each checkpoint. |
 | **Any chatbot** | Open the flow file and run each referenced skill's copy-paste prompt in order, pausing at each checkpoint to decide. |
 
-### 3. A Loop — a recurring rhythm
+### 3. A Loop - a recurring rhythm
 
 *Examples: `daily-founder-standup`, `weekly-metrics-review`, `weekly-investor-update`.* These are
 cadences you repeat. They live in [`loops/`](../loops/) and each file has a **"How to schedule
@@ -55,7 +55,7 @@ it"** section.
 | **Claude Code** | Use the built-in scheduler: e.g. `/schedule` a weekly run, or `/loop` for an interval. Each loop file gives a ready example. |
 | **Any platform / no tools** | Put a recurring reminder in your calendar; when it fires, open the loop file and run its checklist/prompt. |
 
-### 4. An Advisor agent — a lens on demand
+### 4. An Advisor agent - a lens on demand
 
 *Examples: `founder-coach`, `skeptical-investor`, `customer-proxy`.* Dispatch one when you want a
 specific perspective (a VC red-teaming your deck; a target customer reacting honestly). They live
@@ -71,12 +71,12 @@ in [`agents/`](../agents/).
 
 ## A 2-minute worked example
 
-1. *"Use `start-here` — I have an idea for a tool that helps freelance teachers get paid."*
+1. *"Use `start-here` - I have an idea for a tool that helps freelance teachers get paid."*
    → It places you at **Idea & Validation** and points you to `validate-idea`.
 2. *"Run the `validate-idea` skill."* → You get a problem statement, your riskiest assumption,
    and one cheap experiment with a pass/fail bar.
 3. *"Run the `validate-idea-flow`"* to continue into `customer-interviews` and `scope-mvp` with
-   checkpoints — or stop and act on the experiment first.
+   checkpoints - or stop and act on the experiment first.
 4. After your experiment, *"Use `capture-learning`"* to record what happened so the OS remembers.
 
 Want to see a full run end to end? Read [`examples/sample-startup.md`](../examples/sample-startup.md).

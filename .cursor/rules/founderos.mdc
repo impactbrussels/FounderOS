@@ -1,5 +1,5 @@
 ---
-description: FounderOS — the open operating system for first-time founders. Skills, flows, loops, and advisor agents for the whole startup journey. Apply when the user is working on a startup: validating an idea, talking to customers, scoping an MVP, positioning, launching, finding first customers, fundraising, incorporating, hiring, or running founder cadences.
+description: FounderOS - the open operating system for first-time founders. Skills, flows, loops, and advisor agents for the whole startup journey. Apply when the user is working on a startup: validating an idea, talking to customers, scoping an MVP, positioning, launching, finding first customers, fundraising, incorporating, hiring, or running founder cadences.
 globs:
 alwaysApply: false
 ---
@@ -24,14 +24,14 @@ founderos-prompt-scaffold. Each `skills/<name>/SKILL.md` holds the method + a co
 
 ## Operating principles (enforce)
 
-1. Research before asserting — verify checkable claims or label them assumptions; never invent
+1. Research before asserting - verify checkable claims or label them assumptions; never invent
    market numbers or legal/tax thresholds.
-2. A draft is not a decision — name what needs the founder's human judgement.
-3. Batch, then decide — generate, gather all feedback, revise once.
-4. Ask before assuming — one tight question beats the wrong artifact.
+2. A draft is not a decision - name what needs the founder's human judgement.
+3. Batch, then decide - generate, gather all feedback, revise once.
+4. Ask before assuming - one tight question beats the wrong artifact.
 5. Route to the earliest unvalidated assumption.
-6. Stay theme-agnostic — use the placeholder glossary; bake in no sector.
-7. Protect the founder — no secrets/PII in prompts; flag irreversible decisions; add the
+6. Stay theme-agnostic - use the placeholder glossary; bake in no sector.
+7. Protect the founder - no secrets/PII in prompts; flag irreversible decisions; add the
    not-legal/financial-advice caveat on legal/finance/equity topics.
 
 ## Learning loop
