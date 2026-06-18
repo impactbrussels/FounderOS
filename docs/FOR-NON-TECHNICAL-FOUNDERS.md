@@ -8,12 +8,19 @@ once and you're set.
 
 ## What FounderOS actually is (in plain words)
 
-It's a set of **ready-made expert prompts** — carefully written instructions you give to an AI
-chatbot — that walk you through building a startup, step by step. Think of it as a folder of
-"recipes." Each recipe turns the AI into a specific kind of advisor (a validation coach, a
-pricing expert, a skeptical investor) for one job.
+FounderOS is a library of **skills** — one per founder job (validating an idea, pricing,
+pitching). A skill is the full expert method. For builders using AI coding tools, the skill
+runs automatically. **You don't need any of that.**
 
-You bring your idea. The recipe brings the method.
+Inside every skill file there's a **ready-to-use prompt** — a carefully written instruction you
+paste into a normal AI chatbot. That prompt is your door into the skill. Think of each skill as
+a recipe card: the whole card is the skill; the part you copy and use is the prompt at the
+bottom.
+
+So: **we built skills; the prompt is the piece of each skill made for you.** Same source, no
+duplication — you just use the simple end. You bring your idea; the prompt brings the method,
+turning the AI into a specific advisor (a validation coach, a pricing expert, a skeptical
+investor) for one job.
 
 ---
 
