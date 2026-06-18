@@ -1,0 +1,43 @@
+name: "🐛 Bug / quality issue"
+description: A skill, flow, loop, or doc is wrong, broken, generic, or misleading.
+title: "[Bug]: <short summary>"
+labels: ["bug"]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Which skill / file?
+      placeholder: skills/validate-idea/SKILL.md
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where did you hit it?
+      options:
+        - Claude Code
+        - Codex
+        - Cursor
+        - Chatbot copy-paste (Claude.ai / ChatGPT / Gemini)
+        - Just reading the repo
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What actually happened?
+      description: Paste the output or quote the text. Redact any secrets or customer data first.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: false

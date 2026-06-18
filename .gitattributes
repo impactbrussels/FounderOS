@@ -1,0 +1,13 @@
+# Normalise line endings; treat docs and skills as text.
+* text=auto eol=lf
+
+*.md     text
+*.json   text
+*.yml    text
+*.yaml   text
+*.cff    text
+*.sh     text eol=lf
+*.mdc    text
+
+# Mark generated/large vendored content if any is added later.
+# (none yet)

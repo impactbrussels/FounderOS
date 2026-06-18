@@ -1,0 +1,26 @@
+{
+  "name": "founderos",
+  "version": "0.1.0",
+  "description": "The open operating system for first-time founders — theme-agnostic AI skills, flows, loops, and advisor agents for the whole startup journey.",
+  "homepage": "https://github.com/IMPACT-BRUSSELS/FounderOS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IMPACT-BRUSSELS/FounderOS.git"
+  },
+  "author": "Adam M. Adamek (Impact Brussels ASBL) <hello@impact.brussels> (https://impact.brussels)",
+  "license": "Apache-2.0 AND CC-BY-4.0",
+  "keywords": [
+    "startup",
+    "founder",
+    "first-time-founder",
+    "entrepreneurship",
+    "claude-code",
+    "codex",
+    "cursor",
+    "ai-skills",
+    "prompts"
+  ],
+  "scripts": {
+    "lint": "bash scripts/lint-skills.sh"
+  }
+}

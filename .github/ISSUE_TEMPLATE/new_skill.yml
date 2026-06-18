@@ -1,0 +1,88 @@
+name: "🧩 New skill (claim a roadmap slot)"
+description: Propose or claim a new FounderOS skill.
+title: "[Skill]: <skill-name>"
+labels: ["new-skill"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for growing FounderOS! Before you start, skim the
+        [roadmap](../blob/main/SKILLS-ROADMAP.md) and
+        [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Copy
+        [`skills/validate-idea/`](../blob/main/skills/validate-idea) as your template.
+  - type: input
+    id: name
+    attributes:
+      label: Skill name (hyphen-case)
+      placeholder: pricing-strategy
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Journey stage
+      options:
+        - idea-and-validation
+        - build-mvp
+        - launch-and-gtm
+        - fundraise
+        - operate-and-scale
+        - cross-cutting
+    validations:
+      required: true
+  - type: dropdown
+    id: function
+    attributes:
+      label: Function
+      options:
+        - product
+        - marketing
+        - sales
+        - fundraising
+        - finance
+        - legal
+        - people
+        - operations
+        - system
+        - navigation
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The founder problem it solves
+      description: What is a first-time founder stuck on, in one or two sentences?
+    validations:
+      required: true
+  - type: textarea
+    id: produces
+    attributes:
+      label: What artifact does it produce?
+      description: The concrete output the founder walks away with.
+    validations:
+      required: true
+  - type: input
+    id: slot
+    attributes:
+      label: Roadmap slot (if claiming one)
+      description: Paste the slot name from SKILLS-ROADMAP.md, or write "new".
+    validations:
+      required: false
+  - type: dropdown
+    id: author
+    attributes:
+      label: Will you author it?
+      options:
+        - "Yes — assign it to me"
+        - "Proposing it for someone else to build"
+    validations:
+      required: true
+  - type: checkboxes
+    id: standard
+    attributes:
+      label: Quality standard
+      options:
+        - label: I'll keep it theme-agnostic (placeholders, no sector baked in).
+          required: true
+        - label: I'll build it on the prompt scaffold, include a real method in references/, and a copy-paste block.
+          required: true

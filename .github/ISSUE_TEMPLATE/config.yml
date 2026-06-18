@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/IMPACT-BRUSSELS/FounderOS/discussions
+    about: Ask questions, share how you use FounderOS, and propose ideas before opening an issue.
+  - name: 📒 Browse the roadmap
+    url: https://github.com/IMPACT-BRUSSELS/FounderOS/blob/main/SKILLS-ROADMAP.md
+    about: See the ~95 planned skills you can claim and build.
+  - name: 🌐 Impact Brussels
+    url: https://impact.brussels
+    about: Partnerships, sponsorship, and anything that doesn't fit an issue.

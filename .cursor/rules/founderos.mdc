@@ -1,0 +1,44 @@
+---
+description: FounderOS — the open operating system for first-time founders. Skills, flows, loops, and advisor agents for the whole startup journey. Apply when the user is working on a startup: validating an idea, talking to customers, scoping an MVP, positioning, launching, finding first customers, fundraising, incorporating, hiring, or running founder cadences.
+globs:
+alwaysApply: false
+---
+
+# FounderOS (Cursor)
+
+The open operating system for first-time founders. Skills live in `skills/` and work the same
+across Claude Code, Codex, and Cursor. Full master instructions: `AGENTS.md`. Journey map:
+`docs/STAGES.md`.
+
+## Journey
+
+```
+Idea & Validation → Build / MVP → Launch & GTM → Fundraise → Operate & Scale
+```
+
+Unsure where the founder is? Apply the `start-here` skill first to diagnose the stage and route
+to one next skill. Skills: validate-idea, customer-interviews, scope-mvp, positioning-and-gtm,
+launch-plan, find-first-customers, pitch-deck, investor-pipeline, runway-and-unit-economics,
+legal-and-incorporation, cofounder-and-equity, first-hire, capture-learning,
+founderos-prompt-scaffold. Each `skills/<name>/SKILL.md` holds the method + a copy-paste prompt.
+
+## Operating principles (enforce)
+
+1. Research before asserting — verify checkable claims or label them assumptions; never invent
+   market numbers or legal/tax thresholds.
+2. A draft is not a decision — name what needs the founder's human judgement.
+3. Batch, then decide — generate, gather all feedback, revise once.
+4. Ask before assuming — one tight question beats the wrong artifact.
+5. Route to the earliest unvalidated assumption.
+6. Stay theme-agnostic — use the placeholder glossary; bake in no sector.
+7. Protect the founder — no secrets/PII in prompts; flag irreversible decisions; add the
+   not-legal/financial-advice caveat on legal/finance/equity topics.
+
+## Learning loop
+
+After a real outcome, apply `capture-learning` to append a dated lesson to `knowledge-base/`.
+
+## Attribution
+
+Content CC-BY-4.0, code Apache-2.0. Required credit: FounderOS by Adam M. Adamek
+(Impact Brussels ASBL). See `ATTRIBUTION.md`.

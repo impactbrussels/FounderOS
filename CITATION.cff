@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use FounderOS, please cite it as below."
+title: "FounderOS: The open operating system for first-time founders"
+abstract: >-
+  FounderOS is a theme-agnostic, open-source library of AI skills, multi-step flows,
+  recurring loops, and advisor agents that guide a first-time founder through the whole
+  startup journey — idea, validation, MVP, launch, fundraising, and operations — across
+  Claude Code, Codex, and Cursor.
+type: software
+version: "0.1.0"
+date-released: "2026-06-18"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+repository-code: "https://github.com/IMPACT-BRUSSELS/FounderOS"
+url: "https://impact.brussels"
+authors:
+  - family-names: "Adamek"
+    given-names: "Adam M."
+    affiliation: "Impact Brussels ASBL"
+keywords:
+  - startup
+  - founder
+  - first-time-founder
+  - entrepreneurship
+  - ai-skills
+  - prompt-engineering
+  - claude-code
