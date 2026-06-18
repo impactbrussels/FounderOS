@@ -10,6 +10,7 @@ attention with substance, not volume.
 |------|---------|-----|
 | [launch-post.md](launch-post.md) | **LinkedIn** + **X/Twitter** | The main story post (LinkedIn) and a 6-tweet thread (X), plus short variants and a Show HN title |
 | [substack-notes.md](substack-notes.md) | **Substack Notes** | 9 feed-native notes to drip over ~2 weeks |
+| [substack-essay.md](substack-essay.md) | **Substack** (long form) | The full FoodEdge launch essay (~1,200 words) with title options and a books P.S. |
 
 ## Launch sequence (suggested 1 week)
 
