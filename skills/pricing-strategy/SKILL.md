@@ -1,6 +1,6 @@
 ---
 name: pricing-strategy
-description: Use when a founder needs to set or fix a price — when they say "how should I price this", "what should I charge", "am I too cheap", "should I do subscription or one-time", "how many tiers", or are about to launch with a number they pulled from thin air. Anchors price to customer value (not cost-plus), picks a pricing model, builds 2-3 tiers around a core, sanity-checks willingness-to-pay and unit economics, and designs a cheap way to TEST price instead of guessing. Finance education, not financial advice.
+description: Use when a founder needs to set or fix a price — when they say "how should I price this", "what should I charge", "am I too cheap", "should I do subscription or one-time", "how many tiers", or are about to launch with a number they pulled from thin air. Produces a value-anchored pricing model, 2-3 tiers, a willingness-to-pay and unit-economics sanity check, and a cheap price test instead of a guess. Finance education, not financial advice.
 stage: launch-and-gtm
 function: finance
 license: CC-BY-4.0

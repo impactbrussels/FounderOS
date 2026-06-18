@@ -1,6 +1,6 @@
 ---
 name: brand-and-naming
-description: Use when a founder needs to name the company or product and set a simple brand voice — when they say "what should I call it", "help me name my startup", "is this name any good", "the domain is taken", "what's my brand voice", or are stuck cycling through names. Clarifies what the name must do, generates a shortlist across naming styles, screens for clarity, connotation and availability (domain/trademark/handles — the founder must actually check), then defines a one-paragraph brand voice and 3 do/don't tone rules.
+description: Use when a founder needs to name the company or product and set a simple brand voice — when they say "what should I call it", "help me name my startup", "is this name any good", "the domain is taken", "what's my brand voice", or are stuck cycling through names. Produces a screened name shortlist (with availability flagged as the founder's own check) and a one-paragraph brand voice with do/don't tone rules.
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0

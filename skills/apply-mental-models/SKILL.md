@@ -1,6 +1,6 @@
 ---
 name: apply-mental-models
-description: Use when a founder faces a hard, ambiguous, or high-stakes decision and wants to think it through with proven lenses rather than gut alone — "help me think about this", "what am I missing", "should I do X or Y", "stress-test my thinking", "I'm stuck on a decision". Runs the decision through the right mental models (inversion, antifragility, work-backwards, power law) and the author's frameworks (Proof Ladder, Trust Stack, Five Killers), then surfaces where they agree and where the real judgement lies.
+description: Use when a founder faces a hard, ambiguous, or high-stakes decision and wants to think it through with proven lenses rather than gut alone — "help me think about this", "what am I missing", "should I do X or Y", "stress-test my thinking", "I'm stuck on a decision". Applies the right mental models (inversion, antifragility, work-backwards, power law) and the author's frameworks (Proof Ladder, Trust Stack, Five Killers) to surface blind spots and isolate the real judgement call.
 stage: cross-cutting
 function: strategy
 license: CC-BY-4.0

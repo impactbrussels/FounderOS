@@ -52,6 +52,12 @@ Give the founder:
 - **The riskiest assumption** they should be most worried about right now.
 - An offer to run a **flow** if their situation spans several skills (`/validate-idea-flow`, `/launch-flow`, `/fundraise-flow`).
 
+## Output
+
+- **Where they are** on the journey (one of the five stages), in one sentence, with the reason.
+- **The one skill to run next** and what it will produce — not a list of five.
+- **The riskiest assumption** to worry about right now, plus an optional flow if the situation spans several skills.
+
 ## Constraints
 
 - Route to **one** next step, not a syllabus. Overwhelm is the problem you're solving.

@@ -40,6 +40,18 @@ The full scaffold text, the six blocks, and the placeholder glossary live in
 3. **Batch, then decide** — generate, gather all feedback, revise once.
 4. **Ask before assuming** — one tight question beats the wrong artifact.
 
+## Output
+
+- The chosen tier (Low / Medium / High) with a one-line reason it fits the task.
+- The filled-in prompt — every placeholder resolved, `<CONSTRAINTS>` naming the failure mode, `<OUTPUT>` precise — ending with one concrete next action.
+
+## Constraints
+
+- **Lightest tier that does the job.** Ceremony is a cost; don't reach for High when Low ships the answer.
+- **No empty placeholders.** A `[BRACKET]` left unfilled produces generic output — resolve every one.
+- **Name the failure mode.** Every prompt's `<CONSTRAINTS>` must call out the specific trap (invented facts, generic tone, skipped step).
+- Stay theme-agnostic; use the shared glossary so vocabulary stays consistent across skills.
+
 ## Authoring checklist (for new skills)
 
 - [ ] `name` is hyphen-only; `description` starts with "Use when…" and is < 1024 chars.

@@ -1,6 +1,6 @@
 ---
 name: investor-pipeline
-description: Use when a founder is starting or running a fundraise and needs to manage it like a sales process — when they say "how do I find investors", "I'm raising and don't know where to start", "my raise is dragging", "should I raise now", "how do I run investor meetings", or are taking one-off investor coffees with no structure. Decides if/why to raise, builds a matched target list, sequences warm intros, runs a tight batched process, and tracks every investor by stage. Pair with pitch-deck.
+description: Use when a founder is starting or running a fundraise and needs to manage it like a sales process — when they say "how do I find investors", "I'm raising and don't know where to start", "my raise is dragging", "should I raise now", "how do I run investor meetings", or are taking one-off investor coffees with no structure. Produces a raise decision, a stage/sector-matched target list, a warm-intro plan, and a stage-tracked pipeline. Pair with pitch-deck.
 stage: fundraise
 function: fundraising
 license: CC-BY-4.0

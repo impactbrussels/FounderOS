@@ -1,6 +1,6 @@
 ---
 name: landing-page-copy
-description: Use when a founder needs words for a landing page that converts — when they say "write my landing page", "what should my headline be", "my page isn't converting", "people don't get what I do", "help me with the hero section", or are about to ship a page full of features and jargon. Leads with the customer's problem and outcome (not features), writes a clear headline + subhead, stacks proof, handles the top objection, and ends with ONE call to action.
+description: Use when a founder needs words for a landing page that converts — when they say "write my landing page", "what should my headline be", "my page isn't converting", "people don't get what I do", "help me with the hero section", or are about to ship a page full of features and jargon. Produces conversion-first page copy — headline, subhead, body sections, proof, and a single call to action — led by the customer's problem and outcome rather than features.
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0
