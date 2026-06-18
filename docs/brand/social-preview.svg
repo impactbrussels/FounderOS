@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="FounderOS — Proof before hype. The open operating system for first-time founders.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#1E1248"/>
+      <stop offset="1" stop-color="#2E1065"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.22" r="0.6">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: "Inter","Helvetica Neue",Arial,sans-serif; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#glow)"/>
+
+  <!-- subtle node motif, right side -->
+  <g stroke="#A78BFA" stroke-opacity="0.28" stroke-width="2" fill="#A78BFA" fill-opacity="0.5">
+    <line x1="980" y1="150" x2="1090" y2="120"/>
+    <line x1="1090" y1="120" x2="1150" y2="210"/>
+    <line x1="980" y1="150" x2="1040" y2="250"/>
+    <line x1="1040" y1="250" x2="1150" y2="210"/>
+    <line x1="1040" y1="250" x2="1120" y2="330"/>
+    <circle cx="980" cy="150" r="6"/>
+    <circle cx="1090" cy="120" r="6"/>
+    <circle cx="1150" cy="210" r="6"/>
+    <circle cx="1040" cy="250" r="6"/>
+    <circle cx="1120" cy="330" r="6"/>
+  </g>
+
+  <!-- top label -->
+  <text x="80" y="96" class="sans" font-size="22" letter-spacing="4" fill="#A78BFA" font-weight="600">OPEN SOURCE · CC-BY · CLAUDE CODE · CODEX · CURSOR</text>
+
+  <!-- wordmark -->
+  <text x="78" y="250" class="sans" font-size="118" font-weight="800" fill="#FFFFFF" letter-spacing="-2">Founder<tspan fill="#A78BFA">OS</tspan></text>
+
+  <!-- creed -->
+  <text x="80" y="332" class="sans" font-size="46" font-weight="700" fill="#FFFFFF" font-style="italic">Proof before hype.</text>
+
+  <!-- subtitle -->
+  <text x="80" y="392" class="sans" font-size="32" font-weight="400" fill="#C9C2E8">The open operating system for first-time founders.</text>
+
+  <!-- journey rail -->
+  <text x="80" y="500" class="sans" font-size="25" font-weight="600" fill="#E7E3F7" letter-spacing="0.5">
+    Idea <tspan fill="#7C6BB0">→</tspan> Validate <tspan fill="#7C6BB0">→</tspan> Build <tspan fill="#7C6BB0">→</tspan> Launch <tspan fill="#7C6BB0">→</tspan> Fundraise <tspan fill="#7C6BB0">→</tspan> Operate
+  </text>
+
+  <!-- divider -->
+  <line x1="80" y1="540" x2="1200" y2="540" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+
+  <!-- footer -->
+  <text x="80" y="582" class="sans" font-size="24" font-weight="500" fill="#FFFFFF">15 skills · flows · loops · advisor agents · a living playbook</text>
+  <text x="1200" y="582" text-anchor="end" class="sans" font-size="22" font-weight="500" fill="#A78BFA">by Adam M. Adamek · Impact Brussels</text>
+</svg>
