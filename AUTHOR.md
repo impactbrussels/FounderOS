@@ -18,20 +18,25 @@ enter; a craft you can learn, in the open, with an honest co-pilot.
 
 ## Why I write
 
-The same creed runs through my books: evidence first, then the story — what I think of as
-**food tech *after* the hype.** Where most writing on food, health, and technology rides the
-buzz, I try to do the slower, more useful thing: separate what the evidence actually supports
-from what merely sells.
+The same creed runs through my books: evidence first, then the story. Where most writing on
+food, health, and technology rides the buzz, I do the slower, more useful thing — separate what
+the evidence actually supports from what merely sells. FounderOS's motto isn't borrowed from a
+slide; it shares its name with the book I wrote on exactly this.
 
-If FounderOS's "proof before hype" resonates, you'll find the long-form version of that
-discipline in my book:
+> 📘 **Proof Before Hype: How Food Innovation Startups Turn Scientific Promise into Trust, Trial,
+> and Traction**
+> *by Adam M. Adamek* — [read it on Amazon](https://a.co/d/03nDxNDa)
+>
+> The discipline behind this project, in long form: how food-innovation founders move from "the
+> science works" to earned **trust, trial, and traction** — the things that actually win
+> markets.
 
 > 📕 **FoodTech After The Hype: How To Build FoodTech Startups That Survive**
 > *by Adam M. Adamek* — [read it on Amazon](https://a.co/d/0hzCjFGd)
 >
 > You can have great science and still lose the market. Most food-biotech founders don't have a
 > data problem — they have a *belief* problem: investors, regulators, and buyers can't see what
-> the science unlocks in the real world. Proving the protein works is half the job. The other
+> the science unlocks in the real world. Proving the protein works is half the job; the other
 > half is making it **buyable and fundable**. That's the book.
 
 The same instinct runs through FounderOS: validate the belief, not just the technology. Browse

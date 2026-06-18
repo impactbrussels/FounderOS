@@ -44,6 +44,10 @@ club you pay to enter.
 — *Adam M. Adamek, PhD · [Impact Brussels ASBL](https://impact.brussels) · building in the open*
 Read the [MANIFESTO](MANIFESTO.md) · meet the author and [why I write](AUTHOR.md).
 
+> *"Proof before hype" isn't a slogan I picked — it's the title of my book on how food-innovation
+> founders turn scientific promise into trust, trial, and traction. FounderOS is that same
+> discipline, made runnable. → [Books by the author](AUTHOR.md#why-i-write)*
+
 ## The founder journey
 
 FounderOS is organised the way a founder actually moves:
