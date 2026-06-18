@@ -27,7 +27,7 @@ It's the founder journey - idea → validation → MVP → launch → fundraisin
 
 It's also personal. "Proof before hype" is the title of my book on how food-innovation founders turn scientific promise into trust, trial, and traction. FounderOS is that same discipline, made runnable - for any founder.
 
-It's v0.1, and it's open. ~95 more skills are on the roadmap, each a "good first issue." If you've built or advised a startup, come teach the next founder how.
+It's v0.1, and it's open. ~85 more skills are on the roadmap, each a "good first issue." If you've built or advised a startup, come teach the next founder how.
 
 ⭐ Star it, fork it, contribute: https://github.com/impact-brussels/FounderOS
 
@@ -68,7 +68,7 @@ Theme-agnostic on purpose: you bring the domain, it brings the method.
 **5/**
 Open source, attribution-only. Free - because entrepreneurship shouldn't be a club you pay to enter.
 
-~95 more skills on the roadmap, each a good first issue. Built one? Come teach the next founder.
+~85 more skills on the roadmap, each a good first issue. Built one? Come teach the next founder.
 
 ⭐ https://github.com/impact-brussels/FounderOS
 
