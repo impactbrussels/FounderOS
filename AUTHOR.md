@@ -24,14 +24,18 @@ buzz, I try to do the slower, more useful thing: separate what the evidence actu
 from what merely sells.
 
 If FounderOS's "proof before hype" resonates, you'll find the long-form version of that
-discipline in the books:
+discipline in my book:
 
-> 📚 **Books by Adam M. Adamek** — *(titles & links to be added)*
-> - *[Book title]* — [one-line description] · [link]
-> - *[Book title]* — [one-line description] · [link]
+> 📕 **FoodTech After The Hype: How To Build FoodTech Startups That Survive**
+> *by Adam M. Adamek* — [read it on Amazon](https://a.co/d/0hzCjFGd)
 >
-> Evidence-based, post-hype writing on food, biotech, and the future of how we eat.
-> Browse all titles at **[impact.brussels](https://impact.brussels)**.
+> You can have great science and still lose the market. Most food-biotech founders don't have a
+> data problem — they have a *belief* problem: investors, regulators, and buyers can't see what
+> the science unlocks in the real world. Proving the protein works is half the job. The other
+> half is making it **buyable and fundable**. That's the book.
+
+The same instinct runs through FounderOS: validate the belief, not just the technology. Browse
+more writing and work at **[impact.brussels](https://impact.brussels)**.
 
 ## Connect & support
 

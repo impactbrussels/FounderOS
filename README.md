@@ -4,7 +4,7 @@
 
 ### The open operating system for first-time founders.
 
-#### *Proof before hype.*
+#### *Proof before hype. The operating system I wish I'd had.*
 
 *Startup knowledge is fragmented, gatekept, and sold as $5k courses. FounderOS is the whole
 operating system — open, free, attribution-only — so a first-time founder with an AI co-pilot
