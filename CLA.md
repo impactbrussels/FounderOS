@@ -40,7 +40,7 @@ won't be on the hook if it's later modified or used in ways you didn't foresee.
 You accept this CLA when you open a pull request and confirm it (the [pull request
 template](.github/PULL_REQUEST_TEMPLATE.md) includes a checkbox). No separate signature, no
 paperwork. If you have questions before agreeing, open a
-[Discussion](https://github.com/IMPACT-BRUSSELS/FounderOS/discussions) or reach us via
+[Discussion](https://github.com/impactbrussels/FounderOS/discussions) or reach us via
 [impact.brussels](https://impact.brussels).
 
 Thank you for contributing - and for helping keep FounderOS open for the next founder.

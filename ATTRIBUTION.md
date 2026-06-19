@@ -13,7 +13,7 @@ If you use, adapt, remix, or redistribute FounderOS content (in whole or in part
 skill counts), you must give appropriate credit. Use this notice:
 
 > **FounderOS** by Adam M. Adamek (Impact Brussels ASBL), licensed under CC-BY-4.0.
-> Source: https://github.com/IMPACT-BRUSSELS/FounderOS
+> Source: https://github.com/impactbrussels/FounderOS
 
 Keep the `attribution:` field in any skill's frontmatter intact when you copy or adapt it.
 

@@ -94,7 +94,7 @@ ready-made contribution slot.
 
 **Claude Code** - clone into your skills path (or add as a plugin):
 ```bash
-git clone https://github.com/IMPACT-BRUSSELS/FounderOS.git
+git clone https://github.com/impactbrussels/FounderOS.git
 cd FounderOS && ./install.sh        # see install.sh for what it does
 ```
 Then, in Claude Code: *"Use start-here - I have a startup idea."*

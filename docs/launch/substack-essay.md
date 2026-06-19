@@ -106,7 +106,7 @@ move. Then go make that move.
 
 I built the thing I wish I'd had. It's yours now.
 
-→ **https://github.com/impact-brussels/FounderOS**
+→ **https://github.com/impactbrussels/FounderOS**
 
 *Proof before hype.*
 

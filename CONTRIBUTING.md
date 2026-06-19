@@ -5,7 +5,7 @@ better every time someone who has actually solved a founder problem teaches the 
 to do it. Whether you're fixing a typo, sharpening a method, or authoring a whole new skill -
 welcome. This guide tells you exactly how.
 
-If anything here is unclear, open a [Discussion](https://github.com/IMPACT-BRUSSELS/FounderOS/discussions)
+If anything here is unclear, open a [Discussion](https://github.com/impactbrussels/FounderOS/discussions)
 and ask. We'd rather answer a question than receive the wrong PR.
 
 ---

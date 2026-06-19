@@ -35,4 +35,4 @@ The first release: a usable, end-to-end operating system for first-time founders
   `SPONSORS.md`, `CITATION.cff`, GitHub issue/PR templates, and a lint workflow.
 - **`SKILLS-ROADMAP.md`** - ~95 planned skills, each a tagged contribution opportunity.
 
-[0.1.0]: https://github.com/IMPACT-BRUSSELS/FounderOS/releases/tag/v0.1.0
+[0.1.0]: https://github.com/impactbrussels/FounderOS/releases/tag/v0.1.0

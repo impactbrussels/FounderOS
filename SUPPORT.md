@@ -13,7 +13,7 @@ You're a founder; your time is scarce. Here's the fastest path to an answer.
 - **Lost on a term?** The [founder glossary](docs/GLOSSARY.md) plain-explains the jargon.
 - **Want to see it in action?** Read [`examples/sample-startup.md`](examples/sample-startup.md).
 - **Have a question or want to share how you use it?** Open a
-  [Discussion](https://github.com/IMPACT-BRUSSELS/FounderOS/discussions).
+  [Discussion](https://github.com/impactbrussels/FounderOS/discussions).
 
 ## I found a problem
 
