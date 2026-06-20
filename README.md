@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/brand/social-preview.png" alt="FounderOS: proof before hype. The open operating system for first-time founders." width="100%">
+
 # FounderOS
 
 ### The open operating system for first-time founders.
