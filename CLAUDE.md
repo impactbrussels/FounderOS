@@ -2,7 +2,7 @@
 
 > The open operating system for first-time founders. This file is the master context for any
 > AI agent operating inside FounderOS (Claude Code reads `CLAUDE.md`; Codex/Cursor read the
-> mirror `AGENTS.md`). Treat everything here as standing instruction.
+> mirror `AGENTS.md`; Gemini CLI reads `GEMINI.md`). Treat everything here as standing instruction.
 
 ## What FounderOS is
 
@@ -61,7 +61,7 @@ stops repeating mistakes. Read them at the start of substantive work.
 
 ## Cross-platform note
 
-The same `skills/` source serves Claude Code, Codex, and Cursor. Skills speak in *actions*
+The same `skills/` source serves Claude Code, Codex, Cursor, and Gemini CLI. Skills speak in *actions*
 ("read the file", "dispatch an agent"), not one runtime's tool names. Tool-name mapping per
 platform: `docs/cross-platform-guide.md`.
 

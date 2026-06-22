@@ -12,12 +12,15 @@ permissions:
   issues: write
   pull-requests: write
 
+# SECURITY: this runs on pull_request_target, so it executes with the base repo's token and
+# secrets even for fork PRs. It MUST NOT add actions/checkout of the PR head or any build/run
+# step that could execute fork-authored code. It only posts fixed greeting text; keep it that way.
 jobs:
   welcome:
     name: Greet first-time contributors
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/first-interaction@v1
+      - uses: actions/first-interaction@2ec0f0fd78838633cd1c1342e4536d49ef72be54 # v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: >

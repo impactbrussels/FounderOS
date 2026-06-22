@@ -1,7 +1,7 @@
 {
   "name": "founderos",
   "owner": {
-    "name": "Impact Brussels ASBL",
+    "name": "Adam M. Adamek (Impact Brussels ASBL)",
     "url": "https://impact.brussels"
   },
   "metadata": {
@@ -14,7 +14,10 @@
     {
       "name": "founderos",
       "source": "./",
-      "description": "15 founder skills across 5 journey stages, 3 flows, 3 loops, 3 advisor agents, a living knowledge base, and a shared prompt-scaffold engine."
+      "description": "22 founder skills across 5 journey stages, 3 flows, 3 loops, 3 advisor agents, a living knowledge base, and a shared prompt-scaffold engine.",
+      "version": "0.1.0",
+      "license": "Apache-2.0 AND CC-BY-4.0",
+      "category": "productivity"
     }
   ]
 }

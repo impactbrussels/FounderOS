@@ -15,7 +15,7 @@ is never lost about what to do next.*
 [Skills](#the-skills) · [Quickstart](#quickstart) · [The journey](#the-founder-journey) ·
 [Non-coders start here](#no-code-just-prompts) · [Contribute](#contribute) · [Sponsor](#sponsor)
 
-![Stage](https://img.shields.io/badge/status-v0.1.0-blue) ![Skills](https://img.shields.io/badge/skills-22-success) ![Content License](https://img.shields.io/badge/content-CC--BY--4.0-green) ![Code License](https://img.shields.io/badge/code-Apache--2.0-green) ![Platforms](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor-supported-8A2BE2)
+![Stage](https://img.shields.io/badge/status-v0.1.0-blue) ![Skills](https://img.shields.io/badge/skills-22-success) ![Content License](https://img.shields.io/badge/content-CC--BY--4.0-green) ![Code License](https://img.shields.io/badge/code-Apache--2.0-green) ![Platforms](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor%20·%20Gemini-supported-8A2BE2)
 
 </div>
 
@@ -97,7 +97,7 @@ ready-made contribution slot.
 **Claude Code** - clone into your skills path (or add as a plugin):
 ```bash
 git clone https://github.com/impactbrussels/FounderOS.git
-cd FounderOS && ./install.sh        # see install.sh for what it does
+cd FounderOS && ./install.sh        # copies skills; see INSTALL.md for all platforms & options
 ```
 Then, in Claude Code: *"Use start-here - I have a startup idea."*
 
@@ -107,9 +107,9 @@ doubt, run `start-here` and it tells you what to do next.
 
 **Not technical? No problem.** Read [FounderOS for non-technical founders](docs/FOR-NON-TECHNICAL-FOUNDERS.md) - copy-paste prompts, zero setup.
 
-**Codex / Cursor** - the same `skills/` source works; Codex reads [AGENTS.md](AGENTS.md),
-Cursor reads [.cursor/rules/founderos.mdc](.cursor/rules/founderos.mdc). See the
-[cross-platform guide](docs/cross-platform-guide.md).
+**Codex / Cursor / Gemini** - the same `skills/` source works; Codex reads [AGENTS.md](AGENTS.md),
+Cursor reads [.cursor/rules/founderos.mdc](.cursor/rules/founderos.mdc), Gemini CLI reads
+[GEMINI.md](GEMINI.md). See the [cross-platform guide](docs/cross-platform-guide.md).
 
 ## No code? Just prompts.
 

@@ -1,7 +1,7 @@
 # FounderOS - Agent Instructions (Codex / Cursor mirror)
 
 > This mirrors `CLAUDE.md` for harnesses that read `AGENTS.md` (Codex) or `.cursor/rules`
-> (Cursor). Keep it in sync with `CLAUDE.md`, which is the canonical master file.
+> (Cursor). Gemini CLI reads `GEMINI.md`. Keep it in sync with `CLAUDE.md`, the canonical master file.
 
 ## What this is
 

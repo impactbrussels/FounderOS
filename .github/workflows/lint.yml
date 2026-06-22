@@ -18,3 +18,19 @@ jobs:
 
       - name: Run skill linter
         run: bash scripts/lint-skills.sh
+
+  no-em-dashes:
+    name: No em-dashes in Markdown
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Fail on any em-dash (U+2014) in tracked .md or .mdc files
+        run: |
+          if grep -rlP '\x{2014}' --include='*.md' --include='*.mdc' .; then
+            echo 'Em-dash (U+2014) found in the files listed above. House style: none allowed.'
+            echo 'Use commas, full stops, or colons.'
+            exit 1
+          fi
+          echo 'No em-dashes found.'

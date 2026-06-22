@@ -12,7 +12,7 @@ date-released: "2026-06-18"
 license:
   - Apache-2.0
   - CC-BY-4.0
-repository-code: "https://github.com/IMPACT-BRUSSELS/FounderOS"
+repository-code: "https://github.com/impactbrussels/FounderOS"
 url: "https://impact.brussels"
 authors:
   - family-names: "Adamek"
