@@ -5,10 +5,8 @@
     "url": "https://impact.brussels"
   },
   "metadata": {
-    "displayName": "FounderOS",
     "description": "The open operating system for first-time founders - skills, flows, loops, and advisor agents for the whole startup journey.",
-    "version": "0.2.0",
-    "category": "Productivity"
+    "version": "0.2.0"
   },
   "plugins": [
     {
