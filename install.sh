@@ -34,7 +34,7 @@
 # Notes:
 #   - Cursor has no SKILL.md mechanism. It reads .cursor/rules/founderos.mdc, which already
 #     ships in the repo. There is nothing to install for Cursor; see INSTALL.md.
-#   - Flows (commands/), loops (loops/), and advisor agents (agents/) are Markdown your agent
+#   - Flows (flows/), loops (loops/), and advisor agents (agents/) are Markdown your agent
 #     reads in place from the cloned repo. This script does not copy them; it prints where they live.
 #   - Authoritative docs: Claude skills https://code.claude.com/docs/en/skills
 #                         Gemini CLI     https://geminicli.com/docs/cli/

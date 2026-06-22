@@ -1,15 +1,16 @@
 # FounderOS - Master Instructions
 
 > The open operating system for first-time founders. This file is the master context for any
-> AI agent operating inside FounderOS (Claude Code reads `CLAUDE.md`; Codex/Cursor read the
-> mirror `AGENTS.md`; Gemini CLI reads `GEMINI.md`). Treat everything here as standing instruction.
+> AI agent operating inside FounderOS (Claude Code reads `CLAUDE.md`; Codex reads `AGENTS.md`;
+> Cursor reads `.cursor/rules/founderos.mdc`; Gemini CLI reads `GEMINI.md`). Treat everything here
+> as standing instruction.
 
 ## What FounderOS is
 
 A theme-agnostic library of **skills**, **flows**, **loops**, and **advisor agents** that walk
 a first-time founder through the whole journey - from a raw idea to an operating company -
 using AI as a co-pilot. It is not advice for one industry; the founder supplies the domain,
-FounderOS supplies the rigor and the method.
+FounderOS supplies the rigour and the method.
 
 ## The journey (primary organising axis)
 
@@ -24,7 +25,7 @@ diagnoses their stage and routes them to one next skill. Full map: `docs/STAGES.
 
 - **Skills** (`skills/*/SKILL.md`) - one founder job each (e.g. `validate-idea`). Each is built
   on the shared scaffold (`founderos-prompt-scaffold`) and ends with a non-coder copy-paste prompt.
-- **Flows** (`commands/*.md`) - multi-step slash workflows that chain skills with checkpoints
+- **Flows** (`flows/*.md`) - multi-step slash workflows that chain skills with checkpoints
   (e.g. `/validate-idea-flow`).
 - **Loops** (`loops/*.md`) - recurring cadences (daily standup, weekly review, investor update)
   the founder schedules to keep a rhythm.
@@ -76,4 +77,4 @@ is legally required: **FounderOS by Adam M. Adamek (Impact Brussels ASBL)**. Kee
 
 Use `founderos-prompt-scaffold` and the authoring checklist there. Follow `CONTRIBUTING.md`.
 Every new skill: scaffold-based body, `references/` with the real method, a copy-paste block,
-theme-agnostic placeholders, and an entry in `SKILLS-ROADMAP.md`.
+theme-agnostic placeholders, and an entry in `ROADMAP.md`.

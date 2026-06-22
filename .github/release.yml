@@ -1,0 +1,17 @@
+# Categorises GitHub's auto-generated release notes by PR label. Paired with the tag-triggered
+# release workflow (.github/workflows/release.yml), every line in the notes is a real merged PR,
+# so the changelog stays factual. The human-written CHANGELOG.md remains the canonical narrative.
+changelog:
+  categories:
+    - title: New skills
+      labels: [skill, new-skill]
+    - title: Flows, loops & advisor agents
+      labels: [flow, loop, agent]
+    - title: Docs & guides
+      labels: [docs]
+    - title: Fixes & house style
+      labels: [fix, bug, house-style]
+    - title: Tooling & CI
+      labels: [ci, tooling]
+    - title: Other changes
+      labels: ["*"]

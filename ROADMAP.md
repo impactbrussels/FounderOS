@@ -1,8 +1,8 @@
 # FounderOS - Skills Roadmap
 
-> The open operating system for first-time founders. This roadmap is the contribution catalog.
+> The open operating system for first-time founders. This roadmap is the contribution catalogue.
 
-FounderOS ships **22 skills** today and is built to grow. Every **planned slot** below is a
+FounderOS ships **23 skills** today and is built to grow. Every **planned slot** below is a
 real founder job that the OS does not yet cover - and an open invitation. If you have run a
 startup, advised one, or simply solved one of these problems with AI, you can author the skill
 that teaches the next founder how to do it.
@@ -82,7 +82,7 @@ pick work that fits their strength.
 | sensory-testing | Learn & Decide | Blind, benchmarked discrimination/descriptive/acceptance tests for tasted/smelled/applied products | ✅ Shipped |
 | automation-audit | Sort & Scan | A map of manual chores ranked by automation payoff | 🟢 good first issue |
 | faq-builder | Answer & Assist | A drafted FAQ from real customer questions | 🟢 good first issue |
-| help-docs | Create & Communicate | A starter help-center structure and seed articles | 🟢 good first issue |
+| help-docs | Create & Communicate | A starter help-centre structure and seed articles | 🟢 good first issue |
 
 ## Stage 3 - Launch & GTM
 
@@ -193,14 +193,13 @@ pick work that fits their strength.
 | public-speaking-prep | Create & Communicate | A talk outline, key lines, and a rehearsal plan | 🟢 good first issue |
 | founder-wellbeing | Learn & Decide | A sustainable-pace check and support structures | 🔵 design needed |
 | burnout-prevention | Learn & Decide | Early-warning signs and a recovery plan | 🔵 design needed |
-| pivot-decision | Learn & Decide | A structured pivot/persevere call from the evidence | 🟡 help wanted |
-| kill-decision | Learn & Decide | An honest shut-down/keep-going framework | 🔵 design needed |
+| pivot-decision | Learn & Decide | Shipped: an honest persevere/pivot/kill call from the evidence (covers the former kill-decision slot) | ✅ |
 
 ---
 
 ## Roadmap at a glance
 
-- **Shipped:** 22 skills across 5 stages + cross-cutting.
+- **Shipped:** 23 skills across 5 stages + cross-cutting.
 - **Planned:** ~85 slots - every one a contribution opportunity.
 - **Want a skill that isn't here?** Open a **New skill** issue and propose it. The roadmap is a
   living document, not a closed list.

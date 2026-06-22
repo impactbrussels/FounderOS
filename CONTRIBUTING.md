@@ -12,7 +12,7 @@ and ask. We'd rather answer a question than receive the wrong PR.
 
 ## Ways to contribute
 
-- **Author a new skill** from the [roadmap](SKILLS-ROADMAP.md) - the highest-impact contribution.
+- **Author a new skill** from the [roadmap](ROADMAP.md) - the highest-impact contribution.
 - **Improve an existing skill** - sharpen the method, add references, fix the copy-paste block.
 - **Report a bug** - a skill that misfires on a platform ([bug report template](.github/ISSUE_TEMPLATE/bug_report.yml)).
 - **Propose a skill** that isn't on the roadmap yet - open a New skill issue and make the case.
@@ -71,7 +71,7 @@ find yourself writing "for SaaS companies…", stop and generalise.
 
 ## Claiming a roadmap slot
 
-1. Open the [SKILLS-ROADMAP.md](SKILLS-ROADMAP.md) and pick a slot that isn't ✅ Shipped.
+1. Open the [ROADMAP.md](ROADMAP.md) and pick a slot that isn't ✅ Shipped.
    - 🟢 **good first issue** - great if it's your first contribution.
    - 🟡 **help wanted** - the method exists; bring experience.
    - 🔵 **design needed** - propose the shape in your issue.
@@ -98,7 +98,7 @@ Don't see the skill you want to write? Open a New skill issue and propose it - t
    ```
    This checks frontmatter (name matches folder, description present and under 1024 chars) and
    that the JSON manifests still parse. Fix anything it flags.
-5. **Update the roadmap:** change your slot's **Status** in `SKILLS-ROADMAP.md` to ✅ Shipped.
+5. **Update the roadmap:** change your slot's **Status** in `ROADMAP.md` to ✅ Shipped.
 6. **Open the PR** using the [pull request template](.github/PULL_REQUEST_TEMPLATE.md) and tick
    every box.
 

@@ -5,7 +5,13 @@ with **no install at all** if you do not code. Pick the path that fits you.
 
 ## Fastest path
 
-Clone the repo, run the installer, then ask your agent to use a skill:
+One command installs the skills into your agent (Claude Code, Cursor, Codex, and more):
+
+```bash
+npx skills add impactbrussels/FounderOS
+```
+
+Or clone the repo and run the installer:
 
 ```bash
 git clone https://github.com/impactbrussels/FounderOS.git
@@ -23,7 +29,7 @@ Not a coder? Skip straight to [No install needed](#no-install-needed).
 
 A **skill** is one founder job (validate an idea, scope an MVP, build a pitch deck). Each lives in
 `skills/<name>/` with a `SKILL.md` and a `references/` folder. The installer copies those
-directories into the folder your agent reads. **Flows** (`commands/`), **loops** (`loops/`), and
+directories into the folder your agent reads. **Flows** (`flows/`), **loops** (`loops/`), and
 **advisor agents** (`agents/`) are Markdown your agent reads in place from the cloned repo, so they
 need no separate install; keep the repo on disk and point your agent at it.
 

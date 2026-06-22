@@ -87,7 +87,7 @@ slide.
 - Traction is not only revenue - early signal (usage, retention, waitlist, LOIs, pilots)
   counts; see references for options at pre-revenue stage.
 - Stay theme-agnostic; the founder supplies `[STARTUP_NAME]`, `[ONE_LINER]`, `[ICP]`,
-  `[PROBLEM]`, the domain and the numbers - you supply the structure and the rigor.
+  `[PROBLEM]`, the domain and the numbers - you supply the structure and the rigour.
 
 ## Copy-paste version
 

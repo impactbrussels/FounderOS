@@ -24,7 +24,7 @@ You're a founder; your time is scarce. Here's the fastest path to an answer.
 ## I want to contribute
 
 - Read [CONTRIBUTING.md](CONTRIBUTING.md), pick a slot from the
-  [roadmap](SKILLS-ROADMAP.md), and open a [New skill issue](.github/ISSUE_TEMPLATE/new_skill.yml).
+  [roadmap](ROADMAP.md), and open a [New skill issue](.github/ISSUE_TEMPLATE/new_skill.yml).
 
 ## Partnerships & sponsorship
 

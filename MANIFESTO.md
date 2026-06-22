@@ -23,7 +23,7 @@ the stage they're at. An operating system's first job is to tell you where you a
 do next - then get out of the way.
 
 **2. AI should be a co-pilot, not an oracle.**
-FounderOS never pretends to know your customers better than you do. It supplies rigor, method,
+FounderOS never pretends to know your customers better than you do. It supplies rigour, method,
 and the questions a good advisor would ask. The judgement stays with the founder. A draft is
 never a decision.
 

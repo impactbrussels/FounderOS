@@ -27,7 +27,7 @@ documented rationale in a PR:
 
 - **Everyday changes** (new skills, fixes, docs): proposed via issue, built via PR, merged by a
   maintainer after review against `CONTRIBUTING.md` and the PR checklist.
-- **Roadmap changes**: anyone can propose a slot; maintainers curate `SKILLS-ROADMAP.md` to keep
+- **Roadmap changes**: anyone can propose a slot; maintainers curate `ROADMAP.md` to keep
   it coherent and non-overlapping.
 - **Significant changes** (structure, licensing, the principles above): opened as a Discussion or
   an issue labelled `rfc`, left open for community input, then decided by the maintainer with the

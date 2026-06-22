@@ -46,4 +46,4 @@ Then: **GitHub repo → Settings → General → Social preview → upload `soci
 
 Use the same tokens for slides, the eventual landing page, and any banner so the brand stays
 coherent. For richer variants (square 1:1 for Instagram, 16:9 for slides), reuse this SVG and
-re-crop the safe area (keep wordmark + creed centered).
+re-crop the safe area (keep wordmark + creed centred).

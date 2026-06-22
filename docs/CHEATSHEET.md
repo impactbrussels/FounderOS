@@ -63,7 +63,7 @@
 3. **Batch, then decide.** Generate, gather all feedback, revise once. Don't churn.
 4. **Ask before assuming.** When intent is genuinely ambiguous, ask one tight question.
 5. **Route to the earliest unvalidated assumption.** The highest-value work is almost always upstream.
-6. **Stay theme-agnostic.** You supply the domain; FounderOS supplies the rigor.
+6. **Stay theme-agnostic.** You supply the domain; FounderOS supplies the rigour.
 7. **Protect the founder.** No secrets/PII in prompts; flag irreversible moves (equity, co-founder, incorporation, key hires) for extra care; legal/finance is not advice.
 
 ---

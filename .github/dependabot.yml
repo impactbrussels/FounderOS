@@ -1,0 +1,13 @@
+# Keep GitHub Actions pinned-but-current. Actions are pinned to commit SHAs for supply-chain
+# safety; Dependabot bumps those pins on a weekly, grouped PR so they never go stale.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      actions:
+        patterns: ["*"]
+    commit-message:
+      prefix: "ci"

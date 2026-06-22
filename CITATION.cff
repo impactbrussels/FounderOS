@@ -7,8 +7,8 @@ abstract: >-
   startup journey - idea, validation, MVP, launch, fundraising, and operations - across
   Claude Code, Codex, and Cursor.
 type: software
-version: "0.1.0"
-date-released: "2026-06-18"
+version: "0.2.0"
+date-released: "2026-06-22"
 license:
   - Apache-2.0
   - CC-BY-4.0

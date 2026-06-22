@@ -1,0 +1,23 @@
+# Cut a GitHub release with auto-generated, categorised notes when a vX.Y.Z tag is pushed.
+# The note categories come from .github/release.yml; every line is a real merged PR.
+name: Release
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Create release with generated notes
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release create "${{ github.ref_name }}" --generate-notes --verify-tag --title "${{ github.ref_name }}"

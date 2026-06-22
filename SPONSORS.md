@@ -12,7 +12,7 @@ turning the skills themselves into advertising.
 
 - **Keep the commons open.** Sponsorship is what keeps FounderOS free and attribution-only
   instead of course-walled.
-- **Fund the roadmap.** ~100 planned skills (see [SKILLS-ROADMAP.md](SKILLS-ROADMAP.md)) need
+- **Fund the roadmap.** ~100 planned skills (see [ROADMAP.md](ROADMAP.md)) need
   authoring, review, and maintenance.
 - **Reach founders with integrity.** Recognition lives in sponsor sections and release notes -
   never inside a skill's advice. The method stays neutral.

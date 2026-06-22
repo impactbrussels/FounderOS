@@ -1,7 +1,7 @@
 {
   "name": "founderos",
   "description": "The open operating system for first-time founders: AI skills, flows, loops, and advisor agents spanning the whole founder journey - idea, validation, MVP, launch, fundraising, and operations. Theme-agnostic.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Adam M. Adamek",
     "email": "hello@impact.brussels",
@@ -9,6 +9,7 @@
   },
   "homepage": "https://github.com/impactbrussels/FounderOS",
   "repository": "https://github.com/impactbrussels/FounderOS",
+  "commands": "./flows/",
   "license": "Apache-2.0 AND CC-BY-4.0",
   "keywords": [
     "startup",

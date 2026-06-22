@@ -78,5 +78,5 @@ Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Ope
 ## Not built yet?
 
 The full catalogue of planned skills - each a contributor "good first issue" - is in
-`SKILLS-ROADMAP.md`. New here as a human? Watch one startup walk the whole journey in
+`ROADMAP.md`. New here as a human? Watch one startup walk the whole journey in
 `examples/sample-startup.md`.

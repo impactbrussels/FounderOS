@@ -66,7 +66,7 @@ between stages - that's where you learn whether to fix the list, the message, or
 - "If this solved [PROBLEM], what would change for you?" (Surfaces the value they'd pay for.)
 - "Is this a now problem or a someday problem?" (Disqualifies the not-yet.)
 
-If they don't have the problem, or won't prioritize it, thank them and move on - fast.
+If they don't have the problem, or won't prioritise it, thank them and move on - fast.
 
 ## Objection-handling table (respond honestly, don't manipulate)
 

@@ -13,7 +13,7 @@ Idea & Validation → Build / MVP → Launch & GTM → Fundraise → Operate & S
 ```
 
 Unsure where a founder is? Run the `start-here` skill first. Full map: `docs/STAGES.md`.
-Skills live in `skills/`; flows in `commands/`; loops in `loops/`; advisor agents in `agents/`.
+Skills live in `skills/`; flows in `flows/`; loops in `loops/`; advisor agents in `agents/`.
 
 ## Operating principles (enforce every time)
 

@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for growing FounderOS! Before you start, skim the
-        [roadmap](../blob/main/SKILLS-ROADMAP.md) and
+        [roadmap](../blob/main/ROADMAP.md) and
         [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Copy
         [`skills/validate-idea/`](../blob/main/skills/validate-idea) as your template.
   - type: input
@@ -65,7 +65,7 @@ body:
     id: slot
     attributes:
       label: Roadmap slot (if claiming one)
-      description: Paste the slot name from SKILLS-ROADMAP.md, or write "new".
+      description: Paste the slot name from ROADMAP.md, or write "new".
     validations:
       required: false
   - type: dropdown

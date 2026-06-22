@@ -7,15 +7,15 @@
   "metadata": {
     "displayName": "FounderOS",
     "description": "The open operating system for first-time founders - skills, flows, loops, and advisor agents for the whole startup journey.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "category": "Productivity"
   },
   "plugins": [
     {
       "name": "founderos",
       "source": "./",
-      "description": "22 founder skills across 5 journey stages, 3 flows, 3 loops, 3 advisor agents, a living knowledge base, and a shared prompt-scaffold engine.",
-      "version": "0.1.0",
+      "description": "23 founder skills across 5 journey stages, 3 flows, 3 loops, 3 advisor agents, a living knowledge base, and a shared prompt-scaffold engine.",
+      "version": "0.2.0",
       "license": "Apache-2.0 AND CC-BY-4.0",
       "category": "productivity"
     }

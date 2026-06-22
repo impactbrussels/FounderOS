@@ -26,7 +26,7 @@ Positioning is relative. You are not positioning in a vacuum - you're positionin
 `[ICP]` does *right now* to solve `[PROBLEM]`. Name the **competitive alternatives** honestly:
 a rival product, a manual workaround, a spreadsheet, a hire, or doing nothing. If you don't know
 the real alternative, you can't claim to be better - research it first (the founder supplies the
-domain; you supply the rigor).
+domain; you supply the rigour).
 
 ### Step 2 - Find the unique value, not the feature list
 

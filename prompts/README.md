@@ -2,12 +2,13 @@
 
 You do **not** need Claude Code, a terminal, or any setup to use FounderOS. Every skill ends
 with a ready-to-run **copy-paste prompt** you can drop into any chatbot - Claude.ai, ChatGPT,
-Gemini, or whatever you have open. This page is your index to all 22.
+Gemini, or whatever you have open. This page indexes all 23 as standalone prompt files you can copy
+straight from, no setup.
 
 ## How to use any FounderOS prompt (3 steps)
 
-1. **Open the skill** in the table below and scroll to the bottom - the heading **`## Copy-paste version`**.
-   Inside it is a fenced code block. Copy the whole block.
+1. **Open the standalone prompt file** in the table below (the `Prompt` column) and copy the whole
+   fenced block. Each file is one skill's prompt; the full skill is linked at the bottom of it.
 2. **Paste it into your chatbot and fill the `[PLACEHOLDERS]`** - the bracketed words like `[ICP]`
    or `[PROBLEM]`. Replace each with your real details. (Don't know a term? See
    [`docs/GLOSSARY.md`](../docs/GLOSSARY.md). Placeholder meanings: [`templates/README.md`](../templates/README.md).)
@@ -31,58 +32,59 @@ Gemini, or whatever you have open. This page is your index to all 22.
 ### Stage 1 - Idea & Validation
 *"Is the problem real, and will someone pay to fix it?"*
 
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **validate-idea** | Sharpens your problem, finds the riskiest assumption, designs a cheap pass/fail test | [`skills/validate-idea/SKILL.md`](../skills/validate-idea/SKILL.md) |
-| **customer-interviews** | Builds a Mom-Test interview plan that gets truth, not flattery | [`skills/customer-interviews/SKILL.md`](../skills/customer-interviews/SKILL.md) |
-| **cofounder-and-equity** | Works through co-founder fit, equity split, vesting, and the hard conversation | [`skills/cofounder-and-equity/SKILL.md`](../skills/cofounder-and-equity/SKILL.md) |
+| **validate-idea** | Sharpens your problem, finds the riskiest assumption, designs a cheap pass/fail test | [`validate-idea.md`](validate-idea.md) |
+| **customer-interviews** | Builds a Mom-Test interview plan that gets truth, not flattery | [`customer-interviews.md`](customer-interviews.md) |
+| **cofounder-and-equity** | Works through co-founder fit, equity split, vesting, and the hard conversation | [`cofounder-and-equity.md`](cofounder-and-equity.md) |
 
 ### Stage 2 - Build / MVP
 *"What's the smallest thing that proves the idea is real?"*
 
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **scope-mvp** | Cuts your idea down to the one job and the minimum build that tests it | [`skills/scope-mvp/SKILL.md`](../skills/scope-mvp/SKILL.md) |
-| **north-star-metrics** | Picks one north-star metric and the input metrics that move it | [`skills/north-star-metrics/SKILL.md`](../skills/north-star-metrics/SKILL.md) |
-| **consumer-product-testing** | Chooses the right product test for your stage (concept → prototype → in-use → claims) | [`skills/consumer-product-testing/SKILL.md`](../skills/consumer-product-testing/SKILL.md) |
-| **sensory-testing** | Designs blind, benchmarked tests for products that are tasted, smelled, or applied | [`skills/sensory-testing/SKILL.md`](../skills/sensory-testing/SKILL.md) |
+| **scope-mvp** | Cuts your idea down to the one job and the minimum build that tests it | [`scope-mvp.md`](scope-mvp.md) |
+| **north-star-metrics** | Picks one north-star metric and the input metrics that move it | [`north-star-metrics.md`](north-star-metrics.md) |
+| **consumer-product-testing** | Chooses the right product test for your stage (concept → prototype → in-use → claims) | [`consumer-product-testing.md`](consumer-product-testing.md) |
+| **sensory-testing** | Designs blind, benchmarked tests for products that are tasted, smelled, or applied | [`sensory-testing.md`](sensory-testing.md) |
 
 ### Stage 3 - Launch & GTM
 *"How do buyers find you and say yes?"*
 
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **positioning-and-gtm** | Writes your one positioning sentence and picks the channel to bet on | [`skills/positioning-and-gtm/SKILL.md`](../skills/positioning-and-gtm/SKILL.md) |
-| **launch-plan** | Sequences your launch with a clear pass/fail bar | [`skills/launch-plan/SKILL.md`](../skills/launch-plan/SKILL.md) |
-| **find-first-customers** | Scripts cold/warm outreach to land your first paying yeses | [`skills/find-first-customers/SKILL.md`](../skills/find-first-customers/SKILL.md) |
-| **pricing-strategy** | Builds a pricing model, tiers, and the logic behind them - then a test | [`skills/pricing-strategy/SKILL.md`](../skills/pricing-strategy/SKILL.md) |
-| **landing-page-copy** | Writes conversion-focused landing-page copy with a clear structure | [`skills/landing-page-copy/SKILL.md`](../skills/landing-page-copy/SKILL.md) |
-| **brand-and-naming** | Generates name candidates, a rationale, and availability checks | [`skills/brand-and-naming/SKILL.md`](../skills/brand-and-naming/SKILL.md) |
+| **positioning-and-gtm** | Writes your one positioning sentence and picks the channel to bet on | [`positioning-and-gtm.md`](positioning-and-gtm.md) |
+| **launch-plan** | Sequences your launch with a clear pass/fail bar | [`launch-plan.md`](launch-plan.md) |
+| **find-first-customers** | Scripts cold/warm outreach to land your first paying yeses | [`find-first-customers.md`](find-first-customers.md) |
+| **pricing-strategy** | Builds a pricing model, tiers, and the logic behind them - then a test | [`pricing-strategy.md`](pricing-strategy.md) |
+| **landing-page-copy** | Writes conversion-focused landing-page copy with a clear structure | [`landing-page-copy.md`](landing-page-copy.md) |
+| **brand-and-naming** | Generates name candidates, a rationale, and availability checks | [`brand-and-naming.md`](brand-and-naming.md) |
 
 ### Stage 4 - Fundraise
 *"Is this fundable - and on what terms?"*
 
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **pitch-deck** | Drafts the 10-12 slide deck, one job per slide | [`skills/pitch-deck/SKILL.md`](../skills/pitch-deck/SKILL.md) |
-| **investor-pipeline** | Runs your raise like a sales funnel and pressure-tests whether to raise at all | [`skills/investor-pipeline/SKILL.md`](../skills/investor-pipeline/SKILL.md) |
+| **pitch-deck** | Drafts the 10-12 slide deck, one job per slide | [`pitch-deck.md`](pitch-deck.md) |
+| **investor-pipeline** | Runs your raise like a sales funnel and pressure-tests whether to raise at all | [`investor-pipeline.md`](investor-pipeline.md) |
 
 ### Stage 5 - Operate & Scale
 *"Does each customer make money, and who runs it?"*
 
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **runway-and-unit-economics** | Walks your burn, runway, CAC/LTV, and whether the unit makes money | [`skills/runway-and-unit-economics/SKILL.md`](../skills/runway-and-unit-economics/SKILL.md) |
-| **legal-and-incorporation** | Maps incorporation and contract basics (and tells you what to confirm locally) | [`skills/legal-and-incorporation/SKILL.md`](../skills/legal-and-incorporation/SKILL.md) |
-| **first-hire** | Defines the first role to match your real bottleneck, not your wish list | [`skills/first-hire/SKILL.md`](../skills/first-hire/SKILL.md) |
+| **runway-and-unit-economics** | Walks your burn, runway, CAC/LTV, and whether the unit makes money | [`runway-and-unit-economics.md`](runway-and-unit-economics.md) |
+| **legal-and-incorporation** | Maps incorporation and contract basics (and tells you what to confirm locally) | [`legal-and-incorporation.md`](legal-and-incorporation.md) |
+| **first-hire** | Defines the first role to match your real bottleneck, not your wish list | [`first-hire.md`](first-hire.md) |
 
 ### Cross-cutting - run any time
-| Skill | What its prompt does | Path |
+| Skill | What its prompt does | Prompt |
 |-------|---------------------|------|
-| **start-here** | Diagnoses your stage and routes you to one next skill | [`skills/start-here/SKILL.md`](../skills/start-here/SKILL.md) |
-| **apply-mental-models** | Runs a hard decision through proven mental models + the author's frameworks | [`skills/apply-mental-models/SKILL.md`](../skills/apply-mental-models/SKILL.md) |
-| **capture-learning** | Turns a real outcome (a result, a customer reply, a metric move) into a logged lesson | [`skills/capture-learning/SKILL.md`](../skills/capture-learning/SKILL.md) |
-| **founderos-prompt-scaffold** | The shared skeleton behind every prompt - use it to build your own | [`skills/founderos-prompt-scaffold/SKILL.md`](../skills/founderos-prompt-scaffold/SKILL.md) |
+| **start-here** | Diagnoses your stage and routes you to one next skill | [`start-here.md`](start-here.md) |
+| **pivot-decision** | Makes an honest persevere/pivot/kill call from your evidence, naming the pivot type | [`pivot-decision.md`](pivot-decision.md) |
+| **apply-mental-models** | Runs a hard decision through proven mental models + the author's frameworks | [`apply-mental-models.md`](apply-mental-models.md) |
+| **capture-learning** | Turns a real outcome (a result, a customer reply, a metric move) into a logged lesson | [`capture-learning.md`](capture-learning.md) |
+| **founderos-prompt-scaffold** | The shared skeleton behind every prompt - use it to build your own | [`founderos-prompt-scaffold.md`](founderos-prompt-scaffold.md) |
 
 ---
 

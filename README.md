@@ -15,11 +15,16 @@ is never lost about what to do next.*
 [Skills](#the-skills) · [Quickstart](#quickstart) · [The journey](#the-founder-journey) ·
 [Non-coders start here](#no-code-just-prompts) · [Contribute](#contribute) · [Sponsor](#sponsor)
 
-![Stage](https://img.shields.io/badge/status-v0.1.0-blue) ![Skills](https://img.shields.io/badge/skills-22-success) ![Content License](https://img.shields.io/badge/content-CC--BY--4.0-green) ![Code License](https://img.shields.io/badge/code-Apache--2.0-green) ![Platforms](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor%20·%20Gemini-supported-8A2BE2)
+![Stage](https://img.shields.io/badge/status-v0.2.0-blue) ![Skills](https://img.shields.io/badge/skills-23-success) ![Content License](https://img.shields.io/badge/content-CC--BY--4.0-green) ![Code License](https://img.shields.io/badge/code-Apache--2.0-green) ![Platforms](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20·%20Cursor%20·%20Gemini-supported-8A2BE2)
 
 </div>
 
 ---
+
+> **Part of a family.** FounderOS has a sibling for building an AI-native company:
+> [AI-Native OS](https://github.com/impactbrussels/AINativeOS). Same author, same licence, deeper on
+> agents, evaluation, and data moats. Start here for the founder journey; cross over when your
+> product itself is the AI.
 
 ## Why this exists
 
@@ -64,7 +69,7 @@ One-page printable: [docs/CHEATSHEET.md](docs/CHEATSHEET.md).
 
 ## The skills
 
-22 deep, end-to-end skills (v0.1.0). Each produces a real artifact and ends with a copy-paste
+23 deep, end-to-end skills (v0.2.0). Each produces a real artifact and ends with a copy-paste
 prompt for non-coders.
 
 | Stage | Skills |
@@ -74,14 +79,14 @@ prompt for non-coders.
 | **Launch & GTM** | `positioning-and-gtm` · `launch-plan` · `find-first-customers` · `pricing-strategy` · `landing-page-copy` · `brand-and-naming` |
 | **Fundraise** | `pitch-deck` · `investor-pipeline` |
 | **Operate & Scale** | `runway-and-unit-economics` · `legal-and-incorporation` · `first-hire` |
-| **Cross-cutting** | `start-here` · `apply-mental-models` · `capture-learning` · `founderos-prompt-scaffold` |
+| **Cross-cutting** | `start-here` · `pivot-decision` · `apply-mental-models` · `capture-learning` · `founderos-prompt-scaffold` |
 
 Plus **3 flows** (multi-step workflows: `/validate-idea-flow`, `/launch-flow`,
 `/fundraise-flow`), **3 loops** (recurring cadences: daily standup, weekly metrics review,
 investor update), and **3 advisor agents** (`founder-coach`, `skeptical-investor`,
 `customer-proxy`).
 
-This is the beginning. The [SKILLS-ROADMAP](SKILLS-ROADMAP.md) maps ~85 more - each a
+This is the beginning. The [ROADMAP](ROADMAP.md) maps ~85 more - each a
 ready-made contribution slot.
 
 ## How it works
@@ -94,7 +99,12 @@ ready-made contribution slot.
 
 ## Quickstart
 
-**Claude Code** - clone into your skills path (or add as a plugin):
+**Fastest (any agent)** - one command, no clone, works across Claude Code, Cursor, Codex and more:
+```bash
+npx skills add impactbrussels/FounderOS
+```
+
+**Claude Code** - or clone into your skills path (or add as a plugin):
 ```bash
 git clone https://github.com/impactbrussels/FounderOS.git
 cd FounderOS && ./install.sh        # copies skills; see INSTALL.md for all platforms & options
@@ -127,7 +137,7 @@ The [founder glossary](docs/GLOSSARY.md) plain-explains ~44 of the words first-t
 
 ## Contribute
 
-FounderOS is built to be built *with* you. The [roadmap](SKILLS-ROADMAP.md) lists ~85 planned
+FounderOS is built to be built *with* you. The [roadmap](ROADMAP.md) lists ~85 planned
 skills, each tagged 🟢 *good first issue* / 🟡 *help wanted* / 🔵 *design needed*. Claim one,
 copy the gold-standard [`validate-idea`](skills/validate-idea/) skill, and open a PR. Start with
 [CONTRIBUTING.md](CONTRIBUTING.md).

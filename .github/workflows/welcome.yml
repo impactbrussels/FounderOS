@@ -28,7 +28,7 @@ jobs:
             This project exists because startup knowledge should not be gatekept.
             One house rule, carried from the lab: proof before hype. If you are
             reporting a problem, a clear example helps; if you are proposing a
-            skill, the [SKILLS-ROADMAP.md](SKILLS-ROADMAP.md) lists open "good
+            skill, the [ROADMAP.md](ROADMAP.md) lists open "good
             first issue" slots. A maintainer will be with you soon.
           pr-message: >
             Welcome, and thank you for your first pull request to FounderOS.

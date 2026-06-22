@@ -66,7 +66,7 @@ the problem or kill it."* This is what stops founders from rationalising a dead 
 - Validate the **problem and demand before the solution**. Building is not validating.
 - Don't run a test you can't fail. If every outcome means "keep going," it's theatre.
 - Talking to friends/family is not validation - they protect your feelings (see `customer-interviews`).
-- Stay theme-agnostic; the founder supplies the domain, you supply the rigor.
+- Stay theme-agnostic; the founder supplies the domain, you supply the rigour.
 
 ## Copy-paste version
 
