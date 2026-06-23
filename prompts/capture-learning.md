@@ -17,4 +17,4 @@ Append only - never rewrite past lessons. No secrets or customer PII in the entr
 
 Full skill: [capture-learning](../skills/capture-learning/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

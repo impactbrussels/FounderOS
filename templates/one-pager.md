@@ -51,4 +51,4 @@ Raising `[amount]` for `[runway]`, to hit: milestone 1 · milestone 2 · milesto
 
 *Keep every number real or labelled an estimate. A one-pager is a door-opener, not a contract.*
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

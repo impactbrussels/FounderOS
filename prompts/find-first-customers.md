@@ -20,4 +20,4 @@ Don't let me automate this yet, don't let me pitch before I listen, and treat ev
 
 Full skill: [find-first-customers](../skills/find-first-customers/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -4,7 +4,7 @@ description: Use when a founder faces a hard, ambiguous, or high-stakes decision
 stage: cross-cutting
 function: strategy
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Apply Mental Models
@@ -17,7 +17,7 @@ first instinct.
 
 ## The method
 
-Built on the FounderOS scaffold. The full lens library - classic models (Munger, Taleb, Bezos,
+Built on the Founder OS scaffold. The full lens library - classic models (Munger, Taleb, Bezos,
 Thiel, Graham) and the author's frameworks (Proof Ladder, Trust Stack, Narrative-Evidence Gap,
 Five Killers, Operator's Creed) - is in [references/mental-models.md](references/mental-models.md).
 

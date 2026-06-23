@@ -22,4 +22,4 @@ Remind me to confirm the product is safe and consented to test before anyone tri
 
 Full skill: [sensory-testing](../skills/sensory-testing/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

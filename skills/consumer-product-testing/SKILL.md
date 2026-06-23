@@ -4,7 +4,7 @@ description: Use when a founder has a real or prototype consumer/physical produc
 stage: build-mvp
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Consumer Product Testing
@@ -17,7 +17,7 @@ result proves. Proof before hype: observed behaviour beats reported intention.
 
 ## The method
 
-Built on the FounderOS scaffold. Test menu, protocols, and rules in
+Built on the Founder OS scaffold. Test menu, protocols, and rules in
 [references/testing-playbook.md](references/testing-playbook.md).
 
 ### Step 1 - Name the question for this stage

@@ -4,7 +4,7 @@ description: Use when a founder has run real experiments and must decide whether
 stage: cross-cutting
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Make the Pivot Call
@@ -17,7 +17,7 @@ wish were true.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks in
+Built on the Founder OS scaffold (High tier). Full frameworks in
 [references/pivot-playbook.md](references/pivot-playbook.md). This skill covers the whole
 persevere/pivot/kill call on one shared evidence base.
 

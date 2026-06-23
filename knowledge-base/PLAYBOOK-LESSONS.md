@@ -1,6 +1,6 @@
-# FounderOS Playbook Lessons
+# Founder OS Playbook Lessons
 
-Dated, situational lessons from real use of FounderOS. The `capture-learning` skill appends
+Dated, situational lessons from real use of Founder OS. The `capture-learning` skill appends
 here under the matching stage heading. Each entry cites its evidence. Append, never overwrite.
 
 > Format:
@@ -37,10 +37,10 @@ _No lessons captured yet._
 
 _No lessons captured yet._
 
-## Meta (about using FounderOS / AI itself)
+## Meta (about using Founder OS / AI itself)
 
 ### 2026-06-18 - Seed: one source of truth beats duplicated prompts
-- **Context:** Designing FounderOS skill structure.
+- **Context:** Designing Founder OS skill structure.
 - **What happened:** Chose to embed the non-coder copy-paste prompt inside each `SKILL.md`
   rather than maintain a parallel prompt file per skill.
 - **Lesson:** Duplicated content drifts; keep one canonical source and derive views from it.

@@ -22,4 +22,4 @@ End with my "call a lawyer now" list - the specific things I should NOT DIY.
 
 Full skill: [legal-and-incorporation](../skills/legal-and-incorporation/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

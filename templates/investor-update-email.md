@@ -64,4 +64,4 @@ Thanks for the support - reply anytime.
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

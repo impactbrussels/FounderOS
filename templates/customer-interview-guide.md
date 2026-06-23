@@ -65,4 +65,4 @@ proceed, pivot the problem, or kill it. Log the outcome with `capture-learning`.
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

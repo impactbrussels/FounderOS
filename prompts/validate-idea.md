@@ -19,4 +19,4 @@ Don't let me validate by talking to friends, and make me test the problem before
 
 Full skill: [validate-idea](../skills/validate-idea/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

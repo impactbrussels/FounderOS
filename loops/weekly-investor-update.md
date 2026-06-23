@@ -59,7 +59,7 @@ Is anything in here confidential cap-table or personal data I shouldn't send wid
 **In Claude Code (`/schedule` or `/loop`).** Recurring routine that drafts the update for review:
 
 ```
-/schedule create "investor-update" --cron "0 9 1 * *" --prompt "Run my FounderOS weekly-investor-update loop for [STARTUP_NAME]. Pull last period's metrics from my tracker, ask me for highlights/lowlights/asks, and draft the update in the investor-pipeline template for me to review before I send."
+/schedule create "investor-update" --cron "0 9 1 * *" --prompt "Run my Founder OS weekly-investor-update loop for [STARTUP_NAME]. Pull last period's metrics from my tracker, ask me for highlights/lowlights/asks, and draft the update in the investor-pipeline template for me to review before I send."
 ```
 
 Swap the cron to `"0 9 * * 1"` for a weekly Monday draft. The routine drafts; you review, edit, and

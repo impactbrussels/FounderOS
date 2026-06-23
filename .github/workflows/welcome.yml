@@ -24,14 +24,14 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: >
-            Welcome, and thank you for opening your first issue in FounderOS.
+            Welcome, and thank you for opening your first issue in Founder OS.
             This project exists because startup knowledge should not be gatekept.
             One house rule, carried from the lab: proof before hype. If you are
             reporting a problem, a clear example helps; if you are proposing a
             skill, the [ROADMAP.md](ROADMAP.md) lists open "good
             first issue" slots. A maintainer will be with you soon.
           pr-message: >
-            Welcome, and thank you for your first pull request to FounderOS.
+            Welcome, and thank you for your first pull request to Founder OS.
             Every skill here helps a first-time founder take a clearer next step,
             so your contribution matters. Please make sure your change keeps the
             attribution intact and follows [CONTRIBUTING.md](CONTRIBUTING.md).

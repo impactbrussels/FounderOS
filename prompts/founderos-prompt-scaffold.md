@@ -1,4 +1,4 @@
-# Prompt - FounderOS Prompt Scaffold
+# Prompt - Founder OS Prompt Scaffold
 
 **What it does:** use it to author new skills, fix weak prompts, or teach a founder to get better output.
 
@@ -19,4 +19,4 @@ Then run the prompt and give me the result.
 
 Full skill: [founderos-prompt-scaffold](../skills/founderos-prompt-scaffold/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

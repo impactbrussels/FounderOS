@@ -25,4 +25,4 @@ working one over one bad week.
 
 Full skill: [pivot-decision](../skills/pivot-decision/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

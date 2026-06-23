@@ -1,6 +1,6 @@
-# The FounderOS Prompt Scaffold
+# The Founder OS Prompt Scaffold
 
-The single reusable structure behind every FounderOS skill. It adapts the 3-tier XML
+The single reusable structure behind every Founder OS skill. It adapts the 3-tier XML
 scaffold popularised by the Decoded Futures Prompt Cookbook into a founder-native shape.
 Every flagship `SKILL.md` body is authored against this scaffold so the whole OS feels
 like one coherent tool, not 100 disconnected prompts.
@@ -105,7 +105,7 @@ These come from hard-won build lessons and are enforced across the OS:
 
 ## How a skill uses this scaffold
 
-A FounderOS skill is this scaffold, *filled in* for one founder job, plus the real method
+A Founder OS skill is this scaffold, *filled in* for one founder job, plus the real method
 in `references/`. The skill body tells the model *how to think*; the references hold the
 *proven framework* (e.g. the Mom Test, a unit-economics model). See any flagship
 `skills/*/SKILL.md` for a worked example.

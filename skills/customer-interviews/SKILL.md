@@ -4,7 +4,7 @@ description: Use when a founder needs to talk to potential customers and wants r
 stage: idea-and-validation
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Customer Interviews (the Mom Test)
@@ -18,7 +18,7 @@ data you collect is worth building on.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full question bank, rules, and synthesis
+Built on the Founder OS scaffold (High tier). Full question bank, rules, and synthesis
 template in [references/interview-guide.md](references/interview-guide.md).
 
 ### Step 1 - Pick who to talk to

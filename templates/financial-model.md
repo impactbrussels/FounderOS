@@ -68,4 +68,4 @@ A "unit" is one customer. The question: does one customer make or lose money?
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0. Not financial advice.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0. Not financial advice.*

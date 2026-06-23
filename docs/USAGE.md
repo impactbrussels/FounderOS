@@ -1,4 +1,4 @@
-# Getting Started - How to use FounderOS
+# Getting Started - How to use Founder OS
 
 You do not need to learn 23 skills. You need to know **one entry point** and the **four ways**
 to run things. This page is the whole manual.
@@ -18,7 +18,7 @@ chatbot.)
 
 ## The four things you can run
 
-FounderOS has four kinds of building blocks. Here's what each is and how to invoke it on every
+Founder OS has four kinds of building blocks. Here's what each is and how to invoke it on every
 platform.
 
 ### 1. A Skill - one founder job

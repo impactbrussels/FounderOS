@@ -1,4 +1,4 @@
-<!-- Thanks for contributing to FounderOS! Keep PRs focused - one skill or one fix per PR. -->
+<!-- Thanks for contributing to Founder OS! Keep PRs focused - one skill or one fix per PR. -->
 
 ## What this PR does
 

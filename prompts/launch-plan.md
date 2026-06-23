@@ -20,4 +20,4 @@ Don't let me do a public launch with no audience, and don't let me chase more th
 
 Full skill: [launch-plan](../skills/launch-plan/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

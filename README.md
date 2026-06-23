@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="docs/brand/social-preview.png" alt="FounderOS: proof before hype. The open operating system for first-time founders." width="100%">
+<img src="docs/brand/social-preview.png" alt="Founder OS: proof before hype. The open operating system for first-time founders." width="100%">
 
-# FounderOS
+# Founder OS
 
 ### The open operating system for first-time founders.
 
 #### *Proof before hype. The operating system I wish I'd had.*
 
-*Startup knowledge is fragmented, gatekept, and sold as $5k courses. FounderOS is the whole
+*Startup knowledge is fragmented, gatekept, and sold as $5k courses. Founder OS is the whole
 operating system - open, free, attribution-only - so a first-time founder with an AI co-pilot
 is never lost about what to do next.*
 
@@ -21,7 +21,7 @@ is never lost about what to do next.*
 
 ---
 
-> **Part of a family.** FounderOS has a sibling for building an AI-native company:
+> **Part of a family.** Founder OS has a sibling for building an AI-native company:
 > [AI-Native OS](https://github.com/impactbrussels/AINativeOS). Same author, same licence, deeper on
 > agents, evaluation, and data moats. Start here for the founder journey; cross over when your
 > product itself is the AI.
@@ -42,9 +42,9 @@ So I built the operating system I wish I'd had: the founder journey, encoded as 
 skills, carrying the one rule I brought from the lab - **proof before hype.** Validate before
 you build. Cite before you claim. A draft is never a decision.
 
-**FounderOS** turns "I have an idea" into a sequence of clear, testable next steps - on Claude
+**Founder OS** turns "I have an idea" into a sequence of clear, testable next steps - on Claude
 Code, Codex, Cursor, or just pasted into a chatbot. It is **theme-agnostic** on purpose:
-software, soap, or services, you supply the domain and FounderOS supplies the method. And it's
+software, soap, or services, you supply the domain and Founder OS supplies the method. And it's
 **open**, because I'm on a mission to make entrepreneurship something anyone can start - not a
 club you pay to enter.
 
@@ -52,12 +52,12 @@ club you pay to enter.
 Read the [MANIFESTO](MANIFESTO.md) · meet the author and [why I write](AUTHOR.md).
 
 > *"Proof before hype" isn't a slogan I picked - it's the title of my book on how food-innovation
-> founders turn scientific promise into trust, trial, and traction. FounderOS is that same
+> founders turn scientific promise into trust, trial, and traction. Founder OS is that same
 > discipline, made runnable. → [Books by the author](AUTHOR.md#why-i-write)*
 
 ## The founder journey
 
-FounderOS is organised the way a founder actually moves:
+Founder OS is organised the way a founder actually moves:
 
 ```
  Idea & Validation  →  Build / MVP  →  Launch & GTM  →  Fundraise  →  Operate & Scale
@@ -95,7 +95,7 @@ ready-made contribution slot.
 - **Flows** - chain skills with checkpoints, so you review before you commit.
 - **Loops** - the rhythm of running a startup, scheduled.
 - **Advisor agents** - dispatch a lens (a skeptical investor, a target customer) on demand.
-- **A living knowledge base** - FounderOS gets smarter as you use it: the [`capture-learning`](skills/capture-learning/SKILL.md) skill records real outcomes into [`knowledge-base/`](knowledge-base/) so it stops repeating mistakes.
+- **A living knowledge base** - Founder OS gets smarter as you use it: the [`capture-learning`](skills/capture-learning/SKILL.md) skill records real outcomes into [`knowledge-base/`](knowledge-base/) so it stops repeating mistakes.
 
 ## Quickstart
 
@@ -107,7 +107,7 @@ npx skills add impactbrussels/FounderOS
 **Claude Code** - or clone into your skills path (or add as a plugin):
 ```bash
 git clone https://github.com/impactbrussels/FounderOS.git
-cd FounderOS && ./install.sh        # copies skills; see INSTALL.md for all platforms & options
+cd Founder OS && ./install.sh        # copies skills; see INSTALL.md for all platforms & options
 ```
 Then, in Claude Code: *"Use start-here - I have a startup idea."*
 
@@ -115,7 +115,7 @@ Then, in Claude Code: *"Use start-here - I have a startup idea."*
 run every skill, flow, loop, and advisor agent on each platform. The short version: when in
 doubt, run `start-here` and it tells you what to do next.
 
-**Not technical? No problem.** Read [FounderOS for non-technical founders](docs/FOR-NON-TECHNICAL-FOUNDERS.md) - copy-paste prompts, zero setup.
+**Not technical? No problem.** Read [Founder OS for non-technical founders](docs/FOR-NON-TECHNICAL-FOUNDERS.md) - copy-paste prompts, zero setup.
 
 **Codex / Cursor / Gemini** - the same `skills/` source works; Codex reads [AGENTS.md](AGENTS.md),
 Cursor reads [.cursor/rules/founderos.mdc](.cursor/rules/founderos.mdc), Gemini CLI reads
@@ -137,14 +137,14 @@ The [founder glossary](docs/GLOSSARY.md) plain-explains ~44 of the words first-t
 
 ## Contribute
 
-FounderOS is built to be built *with* you. The [roadmap](ROADMAP.md) lists ~85 planned
+Founder OS is built to be built *with* you. The [roadmap](ROADMAP.md) lists ~85 planned
 skills, each tagged 🟢 *good first issue* / 🟡 *help wanted* / 🔵 *design needed*. Claim one,
 copy the gold-standard [`validate-idea`](skills/validate-idea/) skill, and open a PR. Start with
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Sponsor
 
-FounderOS is free and attribution-only. Sponsorship keeps it growing and independent - see
+Founder OS is free and attribution-only. Sponsorship keeps it growing and independent - see
 [SPONSORS.md](SPONSORS.md) and [.github/FUNDING.yml](.github/FUNDING.yml). If your company sells
 to founders, sponsoring puts you in front of them at the exact moment they're making decisions.
 
@@ -154,11 +154,11 @@ Dual-licensed so credit is **legally required**:
 - **Content** (skills, prompts, docs, templates) - [CC-BY-4.0](LICENSE-CONTENT).
 - **Code** (scripts, workflows) - [Apache-2.0](LICENSE-CODE).
 
-Attribution: **FounderOS by Adam M. Adamek (Impact Brussels ASBL)**. Details:
+Attribution: **Founder OS by Adam M. Adamek (Impact Brussels ASBL)**. Details:
 [ATTRIBUTION.md](ATTRIBUTION.md). Citing in research? See [CITATION.cff](CITATION.cff).
 
 <div align="center">
 
-**FounderOS** · made for founders, by a founder · [Impact Brussels ASBL](https://impact.brussels)
+**Founder OS** · made for founders, by a founder · [Impact Brussels ASBL](https://impact.brussels)
 
 </div>

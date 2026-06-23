@@ -1,11 +1,11 @@
-# FounderOS - Agent Instructions (Codex / Cursor mirror)
+# Founder OS - Agent Instructions (Codex / Cursor mirror)
 
 > This mirrors `CLAUDE.md` for harnesses that read `AGENTS.md` (Codex) or `.cursor/rules`
 > (Cursor). Gemini CLI reads `GEMINI.md`. Keep it in sync with `CLAUDE.md`, the canonical master file.
 
 ## What this is
 
-FounderOS - the open operating system for first-time founders. A theme-agnostic library of
+Founder OS - the open operating system for first-time founders. A theme-agnostic library of
 **skills**, **flows**, **loops**, and **advisor agents** covering the founder journey:
 
 ```
@@ -39,5 +39,5 @@ Skills speak in actions, not tool names. Per-platform mapping: `docs/cross-platf
 
 ## Licensing & attribution (preserve)
 
-Content CC-BY-4.0, code Apache-2.0. Attribution required: **FounderOS by Adam M. Adamek
+Content CC-BY-4.0, code Apache-2.0. Attribution required: **Founder OS by Adam M. Adamek
 (Impact Brussels ASBL)**. See `ATTRIBUTION.md`.

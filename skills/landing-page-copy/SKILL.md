@@ -4,7 +4,7 @@ description: Use when a founder needs words for a landing page that converts - w
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Landing Page Copy
@@ -20,7 +20,7 @@ one sharp headline, real proof, the top objection handled, and **one** call to a
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full section template, formulas and examples in
+Built on the Founder OS scaffold (High tier). Full section template, formulas and examples in
 [references/landing-copy.md](references/landing-copy.md).
 
 ### Step 1 - Lead with the problem and the outcome, not the product

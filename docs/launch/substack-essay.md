@@ -37,11 +37,11 @@ threads, and a small mountain of $5,000 courses - and none of it is wired into t
 actually build in. A first-time founder doesn't need more content. They need to know what to do
 next, and a way to keep themselves honest while they do it.
 
-So I built that. It's called **FounderOS**, and as of this week it's open and free.
+So I built that. It's called **Founder OS**, and as of this week it's open and free.
 
 ## What it actually is
 
-FounderOS is an operating system for first-time founders - the founder journey encoded as
+Founder OS is an operating system for first-time founders - the founder journey encoded as
 runnable AI skills. Idea → validation → MVP → launch → fundraising → operations. Twenty-two deep
 skills today, each one a sharp, opinionated method for a single job: pressure-test an idea, run
 honest customer interviews, scope the smallest real MVP, price it, write the deck, model the
@@ -56,7 +56,7 @@ options.
 
 And it carries one rule, the one I brought from the lab: **proof before hype.** Validate before
 you build. Cite before you claim. A draft is never a decision. It's theme-agnostic on purpose -
-software, services, or a new protein, you bring the domain and FounderOS brings the method.
+software, services, or a new protein, you bring the domain and Founder OS brings the method.
 
 ## The part that's for us, the food people
 
@@ -66,7 +66,7 @@ have a **belief** problem. Investors, regulators, and buyers can't see what the 
 in the real world - so it doesn't matter that the protein works if nobody trusts it, tries it,
 or repeats.
 
-That's the spine of my writing, and it's baked into FounderOS as general frameworks any founder
+That's the spine of my writing, and it's baked into Founder OS as general frameworks any founder
 can use:
 
 - **The Proof Ladder** - never claim above your evidence. Sort every claim into what you can
@@ -83,7 +83,7 @@ None of these are food-specific. That's the point. The discipline travels; the d
 ## Why it's open, and why I'm asking for two things
 
 I don't think the operating knowledge of building a company should be gatekept and sold back to
-the people who most need it and can least afford it. So FounderOS is open source,
+the people who most need it and can least afford it. So Founder OS is open source,
 attribution-only. Take it. Use it. Build something that matters.
 
 Two asks, both honest:
@@ -93,7 +93,7 @@ retention, hiring, board prep, grant-finding - each one a "good first issue." If
 advised a startup, you know something the next founder doesn't. Come teach it. Your name stays
 on it.
 
-**Sponsor, if it's yours to give.** Sponsorship is what keeps FounderOS free and independent
+**Sponsor, if it's yours to give.** Sponsorship is what keeps Founder OS free and independent
 instead of course-walled. If your company sells to founders, it puts you in front of them at the
 moment they're deciding. One rule I won't bend: sponsorship funds the commons; it never buys a
 recommendation inside a skill. That line is the whole point.
@@ -114,7 +114,7 @@ I built the thing I wish I'd had. It's yours now.
 
 *P.S. - If the "belief problem" idea resonates, it's the subject of my two books:* Proof Before
 Hype *(how food-innovation startups turn scientific promise into trust, trial, and traction) and*
-FoodTech After The Hype *(how to build foodtech startups that survive). FounderOS is that same
+FoodTech After The Hype *(how to build foodtech startups that survive). Founder OS is that same
 discipline, made runnable - for any founder.*
 
 ---

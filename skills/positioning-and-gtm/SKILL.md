@@ -4,7 +4,7 @@ description: Use when a founder is ready to take a product to market and needs t
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Positioning and Go-To-Market
@@ -17,7 +17,7 @@ customer's mind**, and **the one or two places you'll go to find them**.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks in
+Built on the Founder OS scaffold (High tier). Full frameworks in
 [references/positioning.md](references/positioning.md).
 
 ### Step 1 - Pin the ICP and the alternative they use today

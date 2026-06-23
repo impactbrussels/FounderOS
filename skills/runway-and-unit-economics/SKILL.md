@@ -4,7 +4,7 @@ description: Use when a founder needs to understand the money - when they ask "h
 stage: operate-and-scale
 function: finance
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Runway and Unit Economics
@@ -23,7 +23,7 @@ lasts (runway), how fast you burn it, and whether each customer makes or loses y
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full templates, formulas, and benchmarks in
+Built on the Founder OS scaffold (High tier). Full templates, formulas, and benchmarks in
 [references/unit-economics.md](references/unit-economics.md).
 
 ### Step 1 - List the cash, in and out (research before asserting)

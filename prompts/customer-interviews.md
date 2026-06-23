@@ -21,4 +21,4 @@ Stop me if I start pitching, leading, or counting "I would use that" as validati
 
 Full skill: [customer-interviews](../skills/customer-interviews/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

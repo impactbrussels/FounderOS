@@ -1,6 +1,6 @@
 # Code of Conduct
 
-FounderOS is built by founders, for founders. We want it to be a welcoming, useful, and
+Founder OS is built by founders, for founders. We want it to be a welcoming, useful, and
 respectful place for everyone who contributes - whatever their background, experience level, or
 the kind of company they're building.
 
@@ -20,7 +20,7 @@ In plain terms, we expect everyone to:
 
 ## Scope
 
-This applies to all FounderOS spaces - the repository, issues, pull requests, discussions - and
+This applies to all Founder OS spaces - the repository, issues, pull requests, discussions - and
 to anyone representing the project in public.
 
 ## Reporting

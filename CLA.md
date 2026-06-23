@@ -1,6 +1,6 @@
 # Contributor License Agreement
 
-We kept this short and in plain language on purpose. By contributing to FounderOS - opening a
+We kept this short and in plain language on purpose. By contributing to Founder OS - opening a
 pull request, submitting a patch, or otherwise adding to the project - you agree to the following.
 Nothing here is meant to be scary; it just lets the project stay open, free, and properly licensed.
 
@@ -12,23 +12,23 @@ agreement you have with anyone else (such as an employer). If your contribution 
 else's material, you'll make sure it's compatible with our licenses and say so.
 
 **2. You license it under the project's dual license.** You agree your contribution is licensed
-the same way the rest of FounderOS is:
+the same way the rest of Founder OS is:
 
 - **Content** (skills, prompts, references, docs, examples) under **Creative Commons
   Attribution 4.0 International (CC-BY-4.0)**.
 - **Code** (scripts, manifests, workflows, tooling) under the **Apache License 2.0**.
 
 This means others may use, adapt, and build on your contribution under those terms - the same
-freedoms you enjoyed when you used FounderOS.
+freedoms you enjoyed when you used Founder OS.
 
 **3. You grant the maintainers the rights to use it.** You grant Adam M. Adamek and Impact
 Brussels ASBL (the maintainers), and everyone who receives the project, the non-exclusive,
 perpetual, worldwide, royalty-free rights to use, reproduce, modify, distribute, and sublicense
-your contribution as part of FounderOS, consistent with the licenses above. You keep your own
+your contribution as part of Founder OS, consistent with the licenses above. You keep your own
 copyright; you're just licensing it, not signing it away.
 
-**4. Attribution stays.** FounderOS is attribution-only. You agree to keep the project's
-attribution intact - **FounderOS by Adam M. Adamek (Impact Brussels ASBL)** - and not to remove
+**4. Attribution stays.** Founder OS is attribution-only. You agree to keep the project's
+attribution intact - **Founder OS by Adam M. Adamek (Impact Brussels ASBL)** - and not to remove
 license headers, the `NOTICE` file, or the `attribution:` field in skill frontmatter. In return,
 your contribution becomes part of an openly credited, freely shared resource for founders.
 
@@ -43,4 +43,4 @@ paperwork. If you have questions before agreeing, open a
 [Discussion](https://github.com/impactbrussels/FounderOS/discussions) or reach us via
 [impact.brussels](https://impact.brussels).
 
-Thank you for contributing - and for helping keep FounderOS open for the next founder.
+Thank you for contributing - and for helping keep Founder OS open for the next founder.

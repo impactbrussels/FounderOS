@@ -4,7 +4,7 @@ description: Use when a founder is forming the company or worried they've skippe
 stage: operate-and-scale
 function: legal
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Legal and Incorporation
@@ -26,7 +26,7 @@ cheap, and tells you precisely where you must stop guessing and call a lawyer.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full checklist, entity concepts, and the
+Built on the Founder OS scaffold (High tier). Full checklist, entity concepts, and the
 irreversible-mistakes list in
 [references/incorporation-basics.md](references/incorporation-basics.md).
 

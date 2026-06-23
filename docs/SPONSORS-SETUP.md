@@ -17,7 +17,7 @@ Steps below follow GitHub's official process - confirm against the live docs, wh
    contact info, choose **bank account** or a **fiscal host** for payouts, accept the terms.
 2. **Profile** - in the Sponsors dashboard, add a short bio and an **introduction** explaining how
    sponsorship is used (reuse text from [`SPONSORS.md`](../SPONSORS.md) and [`MANIFESTO.md`](../MANIFESTO.md)),
-   and feature the FounderOS repo.
+   and feature the Founder OS repo.
 3. **Payouts (Stripe Connect)** - complete the Stripe Connect application; your residence region
    must match your bank's region. (Orgs/EU non-profits may prefer a fiscal host.)
 4. **Tax form** - submit the right one from the dashboard: **W-9** (US) or **W-8BEN / W-8BEN-E**

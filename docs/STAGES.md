@@ -1,6 +1,6 @@
 # The Founder Journey - Stage Map
 
-FounderOS is organised around the path a first-time founder actually walks. Skills live in a
+Founder OS is organised around the path a first-time founder actually walks. Skills live in a
 flat `skills/` folder (a platform requirement), but each carries a `stage:` field so you can
 navigate by journey. Lost? Run `start-here`.
 

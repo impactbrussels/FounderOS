@@ -1,13 +1,13 @@
 ---
 name: start-here
-description: Use when a founder is overwhelmed, unsure what to do next, just arrived at FounderOS, or asks "where do I start", "what should I work on", "I have an idea now what", or "help me figure out my next step". Acts as the front-door diagnostic - asks a few questions, locates the founder on the journey, and routes them to the exact FounderOS skill(s) to run next. Invoke this first whenever the right next action is unclear.
+description: Use when a founder is overwhelmed, unsure what to do next, just arrived at Founder OS, or asks "where do I start", "what should I work on", "I have an idea now what", or "help me figure out my next step". Acts as the front-door diagnostic - asks a few questions, locates the founder on the journey, and routes them to the exact Founder OS skill(s) to run next. Invoke this first whenever the right next action is unclear.
 stage: cross-cutting
 function: navigation
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
-# Start Here - the FounderOS front door
+# Start Here - the Founder OS front door
 
 First-time founders rarely fail for lack of effort. They fail by working on the wrong thing
 for the stage they're at - polishing a logo before they've confirmed anyone has the problem.
@@ -15,7 +15,7 @@ This skill diagnoses where the founder actually is and routes them to the right 
 
 ## The method
 
-Built on the FounderOS scaffold (High tier - this is a decision about where to spend scarce time).
+Built on the Founder OS scaffold (High tier - this is a decision about where to spend scarce time).
 
 ### Step 1 - Locate the founder (ask, don't assume)
 

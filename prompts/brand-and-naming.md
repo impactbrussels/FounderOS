@@ -25,4 +25,4 @@ Make me slow down before committing, and remind me a name is hard to undo.
 
 Full skill: [brand-and-naming](../skills/brand-and-naming/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

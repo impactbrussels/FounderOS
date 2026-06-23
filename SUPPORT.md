@@ -2,7 +2,7 @@
 
 You're a founder; your time is scarce. Here's the fastest path to an answer.
 
-## I'm a founder using FounderOS
+## I'm a founder using Founder OS
 
 - **Never used it before?** Read the [Getting Started / Usage guide](docs/USAGE.md) - how to run
   every skill, flow, loop, and agent on each platform.
@@ -32,5 +32,5 @@ You're a founder; your time is scarce. Here's the fastest path to an answer.
 
 ## A note on scope
 
-FounderOS gives you method, structure, and the questions a good advisor would ask. It is **not**
+Founder OS gives you method, structure, and the questions a good advisor would ask. It is **not**
 legal, financial, or tax advice - confirm specifics with a qualified professional before acting.

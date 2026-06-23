@@ -1,20 +1,20 @@
 ---
 name: founderos-prompt-scaffold
-description: Use when writing, refining, or porting any FounderOS prompt or skill, or when a founder asks "how do I write a good prompt for this" - provides the shared 3-tier (Low/Medium/High) scaffold, placeholder glossary, and quality rules every FounderOS skill is built on. Invoke before authoring a new skill or when an AI output came back generic, vague, or off-target and needs a stronger prompt structure.
+description: Use when writing, refining, or porting any Founder OS prompt or skill, or when a founder asks "how do I write a good prompt for this" - provides the shared 3-tier (Low/Medium/High) scaffold, placeholder glossary, and quality rules every Founder OS skill is built on. Invoke before authoring a new skill or when an AI output came back generic, vague, or off-target and needs a stronger prompt structure.
 stage: cross-cutting
 function: system
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
-# FounderOS Prompt Scaffold
+# Founder OS Prompt Scaffold
 
-This is the engine. Every FounderOS skill is this scaffold filled in for one founder job.
+This is the engine. Every Founder OS skill is this scaffold filled in for one founder job.
 Use it to author new skills, fix weak prompts, or teach a founder to get better output.
 
 ## When to reach for this
 
-- Authoring or editing any FounderOS skill → build the body against the scaffold.
+- Authoring or editing any Founder OS skill → build the body against the scaffold.
 - An AI answer came back generic, hedgy, or wrong-shaped → the prompt is under-specified; rebuild it with the right tier.
 - A founder asks "how should I prompt for X" → hand them the matching tier.
 

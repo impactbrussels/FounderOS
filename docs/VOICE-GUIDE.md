@@ -1,4 +1,4 @@
-# Voice Guide: FounderOS
+# Voice Guide: Founder OS
 
 > Every word published here carries Adam M. Adamek's name. This guide keeps the skills, prompts,
 > and docs in one voice. It is binding. The same mechanics govern the sibling repo, AI-Native OS,
@@ -18,7 +18,7 @@ clarity, not pontificating.
 
 ## The spine (everything ladders to this)
 
-> Startup knowledge is fragmented, gatekept, and sold as expensive courses. FounderOS is the whole
+> Startup knowledge is fragmented, gatekept, and sold as expensive courses. Founder OS is the whole
 > operating system, open and free, so a first-time founder with an AI co-pilot is never lost about
 > what to do next. The one rule carried from the lab: **proof before hype.** Validate before you
 > build. Cite before you claim. A draft is never a decision.
@@ -99,4 +99,4 @@ cutting-edge · transform (as the verb of choice).
 
 ---
 
-*Voice guide for FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Voice guide for Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

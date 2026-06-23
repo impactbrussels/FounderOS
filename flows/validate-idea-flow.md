@@ -4,7 +4,7 @@ description: Use when a founder has a raw idea and wants to reach a defensible g
 stage: idea-and-validation
 function: flow
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Validate-Idea Flow

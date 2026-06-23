@@ -20,4 +20,4 @@ Remind me NOT to raise too early, NOT to run serial one-off coffees, and to keep
 
 Full skill: [investor-pipeline](../skills/investor-pipeline/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

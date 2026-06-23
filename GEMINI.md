@@ -1,4 +1,4 @@
-# FounderOS - Agent Instructions (Gemini CLI mirror)
+# Founder OS - Agent Instructions (Gemini CLI mirror)
 
 > This mirrors `CLAUDE.md` for Gemini CLI, which reads `GEMINI.md`. Keep in sync with `CLAUDE.md`,
 > the canonical master file. (Claude Code reads `CLAUDE.md`; Codex reads `AGENTS.md`; Cursor reads
@@ -6,7 +6,7 @@
 
 ## What this is
 
-FounderOS, the open operating system for first-time founders. A theme-agnostic library of
+Founder OS, the open operating system for first-time founders. A theme-agnostic library of
 **skills**, **flows**, **loops**, and **advisor agents** covering the founder journey:
 
 ```text
@@ -36,5 +36,5 @@ overwrite. Read the KB before substantive work.
 
 Skills speak in actions, not tool names; mapping in `docs/cross-platform-guide.md`. Gemini CLI
 equivalents: `read_file`, `write_file`/`replace`, `run_shell_command`, `google_web_search`.
-Content CC-BY-4.0, code Apache-2.0. Attribution required: **FounderOS by Adam M. Adamek
+Content CC-BY-4.0, code Apache-2.0. Attribution required: **Founder OS by Adam M. Adamek
 (Impact Brussels ASBL)**.

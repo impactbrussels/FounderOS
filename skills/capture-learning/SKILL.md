@@ -1,15 +1,15 @@
 ---
 name: capture-learning
-description: Use after a FounderOS skill, flow, or decision produced a real outcome worth remembering - when something worked, something failed, advice turned out wrong, or the founder says "remember this", "note this lesson", "that didn't work", or "update the playbook". Appends a dated, sourced lesson to the living knowledge base so the OS gets smarter over time and stops repeating mistakes.
+description: Use after a Founder OS skill, flow, or decision produced a real outcome worth remembering - when something worked, something failed, advice turned out wrong, or the founder says "remember this", "note this lesson", "that didn't work", or "update the playbook". Appends a dated, sourced lesson to the living knowledge base so the OS gets smarter over time and stops repeating mistakes.
 stage: cross-cutting
 function: system
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Capture Learning - how the OS learns as it goes
 
-FounderOS is meant to improve every time it's used. This skill is the mechanism: it turns a
+Founder OS is meant to improve every time it's used. This skill is the mechanism: it turns a
 real outcome into a durable, sourced lesson in `knowledge-base/`, so future sessions inherit
 it instead of relearning it the hard way. This mirrors the discipline a good operator keeps -
 write down what you learned the moment you learned it.
@@ -28,7 +28,7 @@ founder hasn't confirmed actually happened. A draft outcome is not a lesson; a r
    sector specifics - keep the principle (theme-agnostic).
 3. **Classify it** into one of the three KB files:
    - `knowledge-base/PRINCIPLES.md` - a durable truth about how startups/founders work.
-   - `knowledge-base/DOS-AND-DONTS.md` - a concrete do/don't for using FounderOS or AI well.
+   - `knowledge-base/DOS-AND-DONTS.md` - a concrete do/don't for using Founder OS or AI well.
    - `knowledge-base/PLAYBOOK-LESSONS.md` - a dated, situational lesson from real use.
 4. **Write the entry** in the file's format (below), with today's date and the source/evidence.
 5. **Link it** to the skill or flow it came from, so the lesson finds its way back into context.

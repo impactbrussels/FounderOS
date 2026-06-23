@@ -1,16 +1,16 @@
-# FounderOS - Master Instructions
+# Founder OS - Master Instructions
 
 > The open operating system for first-time founders. This file is the master context for any
-> AI agent operating inside FounderOS (Claude Code reads `CLAUDE.md`; Codex reads `AGENTS.md`;
+> AI agent operating inside Founder OS (Claude Code reads `CLAUDE.md`; Codex reads `AGENTS.md`;
 > Cursor reads `.cursor/rules/founderos.mdc`; Gemini CLI reads `GEMINI.md`). Treat everything here
 > as standing instruction.
 
-## What FounderOS is
+## What Founder OS is
 
 A theme-agnostic library of **skills**, **flows**, **loops**, and **advisor agents** that walk
 a first-time founder through the whole journey - from a raw idea to an operating company -
 using AI as a co-pilot. It is not advice for one industry; the founder supplies the domain,
-FounderOS supplies the rigour and the method.
+Founder OS supplies the rigour and the method.
 
 ## The journey (primary organising axis)
 
@@ -52,7 +52,7 @@ which you should treat as imported master context.
    co-founder, incorporation, key hires) for extra care, and add the not-legal/financial-advice
    caveat on legal/finance/equity topics.
 
-## The learning loop (how FounderOS gets smarter)
+## The learning loop (how Founder OS gets smarter)
 
 After any skill/flow produces a **real outcome** (a test result, a customer reply, a metric
 move, a failed launch), invoke the `capture-learning` skill to append a dated, sourced lesson
@@ -69,11 +69,11 @@ platform: `docs/cross-platform-guide.md`.
 ## Licensing & attribution (must be preserved)
 
 Content (skills, prompts, docs) is **CC-BY-4.0**; code/scripts are **Apache-2.0**. Attribution
-is legally required: **FounderOS by Adam M. Adamek (Impact Brussels ASBL)**. Keep the
+is legally required: **Founder OS by Adam M. Adamek (Impact Brussels ASBL)**. Keep the
 `attribution:` field in skill frontmatter intact. See `LICENSE-CONTENT`, `LICENSE-CODE`,
 `ATTRIBUTION.md`.
 
-## When adding to FounderOS
+## When adding to Founder OS
 
 Use `founderos-prompt-scaffold` and the authoring checklist there. Follow `CONTRIBUTING.md`.
 Every new skill: scaffold-based body, `references/` with the real method, a copy-paste block,

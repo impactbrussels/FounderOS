@@ -4,7 +4,7 @@ description: Use when a founder needs to decide what to measure - when they say 
 stage: build-mvp
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # North-Star Metrics
@@ -17,7 +17,7 @@ the handful of **input metrics** that actually move it, and the **one focus metr
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks, tables and examples in
+Built on the Founder OS scaffold (High tier). Full frameworks, tables and examples in
 [references/metrics.md](references/metrics.md).
 
 ### Step 1 - Find the metric that captures delivered value

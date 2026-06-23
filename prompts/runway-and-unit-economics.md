@@ -21,4 +21,4 @@ Don't let me count booked revenue as cash, under-cost my CAC, or fantasise my re
 
 Full skill: [runway-and-unit-economics](../skills/runway-and-unit-economics/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -4,7 +4,7 @@ description: Use when a founder has a startup idea and needs to test whether it'
 stage: idea-and-validation
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Validate the Idea
@@ -16,7 +16,7 @@ assumption that decides whether this is real, and the cheapest experiment to tes
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks in
+Built on the Founder OS scaffold (High tier). Full frameworks in
 [references/validation-playbook.md](references/validation-playbook.md).
 
 ### Step 1 - Sharpen the problem (not the solution)

@@ -21,4 +21,4 @@ It's [reversible / irreversible]. My biggest constraint: [CONSTRAINT].
 
 Full skill: [apply-mental-models](../skills/apply-mental-models/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -22,4 +22,4 @@ Stop me if I'm building a shrunken version of the whole product instead of testi
 
 Full skill: [scope-mvp](../skills/scope-mvp/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

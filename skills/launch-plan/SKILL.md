@@ -4,7 +4,7 @@ description: Use when a founder is approaching a launch and needs a sequenced pl
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Launch Plan
@@ -16,7 +16,7 @@ day into learning. This skill replaces the one-shot gamble with a plan you can e
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full templates in
+Built on the Founder OS scaffold (High tier). Full templates in
 [references/launch-checklist.md](references/launch-checklist.md).
 
 ### Step 1 - Define the launch goal and the ONE metric

@@ -76,4 +76,4 @@ the same evidence, then decide. The founder owns the call; the framework only ma
 
 ---
 
-*Reference for the `pivot-decision` skill. FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Reference for the `pivot-decision` skill. Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

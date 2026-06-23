@@ -1,7 +1,7 @@
-# FounderOS Glossary - the jargon-buster
+# Founder OS Glossary - the jargon-buster
 
 Every term a first-time founder trips over, in one plain sentence, grouped by theme.
-Where a FounderOS skill goes deep on a term, it's named in the **Skill** column so you
+Where a Founder OS skill goes deep on a term, it's named in the **Skill** column so you
 can jump straight to the method.
 
 > **These definitions are educational, not advice.** They explain the language; they do not
@@ -93,4 +93,4 @@ can jump straight to the method.
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

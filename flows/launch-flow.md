@@ -4,7 +4,7 @@ description: Use when a founder has a working product (or near-working MVP) and 
 stage: launch-and-gtm
 function: flow
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Launch Flow

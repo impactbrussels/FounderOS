@@ -67,4 +67,4 @@ Where this goes if it works - one credible, non-hype sentence. Park deep financi
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

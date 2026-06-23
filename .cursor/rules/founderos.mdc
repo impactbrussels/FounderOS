@@ -1,10 +1,10 @@
 ---
-description: FounderOS - the open operating system for first-time founders. Skills, flows, loops, and advisor agents for the whole startup journey. Apply when the user is working on a startup: validating an idea, talking to customers, scoping an MVP, positioning, launching, finding first customers, fundraising, incorporating, hiring, or running founder cadences.
+description: Founder OS - the open operating system for first-time founders. Skills, flows, loops, and advisor agents for the whole startup journey. Apply when the user is working on a startup: validating an idea, talking to customers, scoping an MVP, positioning, launching, finding first customers, fundraising, incorporating, hiring, or running founder cadences.
 globs:
 alwaysApply: false
 ---
 
-# FounderOS (Cursor)
+# Founder OS (Cursor)
 
 The open operating system for first-time founders. Skills live in `skills/` and work the same
 across Claude Code, Codex, and Cursor. Full master instructions: `AGENTS.md`. Journey map:
@@ -40,5 +40,5 @@ After a real outcome, apply `capture-learning` to append a dated lesson to `know
 
 ## Attribution
 
-Content CC-BY-4.0, code Apache-2.0. Required credit: FounderOS by Adam M. Adamek
+Content CC-BY-4.0, code Apache-2.0. Required credit: Founder OS by Adam M. Adamek
 (Impact Brussels ASBL). See `ATTRIBUTION.md`.

@@ -21,4 +21,4 @@ Don't let me lead with features, and don't let me pick more than two channels.
 
 Full skill: [positioning-and-gtm](../skills/positioning-and-gtm/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

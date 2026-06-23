@@ -4,7 +4,7 @@ description: Use when a founder is about to start building and needs to decide w
 stage: build-mvp
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Scope the MVP
@@ -18,7 +18,7 @@ the cheapest thing that learns it.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full MVP-type menu, cut-lists, and
+Built on the Founder OS scaffold (High tier). Full MVP-type menu, cut-lists, and
 definition-of-done in [references/mvp-scoping.md](references/mvp-scoping.md).
 
 ### Step 1 - Restate the one assumption you're testing

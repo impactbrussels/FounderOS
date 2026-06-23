@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# FounderOS skill linter - checks every skill has valid frontmatter and that JSON manifests parse.
+# Founder OS skill linter - checks every skill has valid frontmatter and that JSON manifests parse.
 # Used by package.json `npm run lint` and the CI workflow.
 set -uo pipefail
 
@@ -7,7 +7,7 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$REPO_DIR" || { echo 'cannot cd to repo root' >&2; exit 1; }
 fail=0
 
-echo "Linting FounderOS skills..."
+echo "Linting Founder OS skills..."
 for dir in skills/*/; do
   name="$(basename "$dir")"
   f="$dir/SKILL.md"

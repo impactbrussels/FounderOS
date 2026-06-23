@@ -1,6 +1,6 @@
 # Privacy Policy
 
-FounderOS collects no personal data. It contains no telemetry, no analytics, and no
+Founder OS collects no personal data. It contains no telemetry, no analytics, and no
 tracking, and it transmits nothing about your prompts, code, or usage.
 
 The plugin runs locally inside your AI coding tool. Any model requests are made by that

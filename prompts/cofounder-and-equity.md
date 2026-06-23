@@ -21,4 +21,4 @@ Don't let me shake hands on a split with no vesting and no written terms.
 
 Full skill: [cofounder-and-equity](../skills/cofounder-and-equity/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

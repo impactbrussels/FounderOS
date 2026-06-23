@@ -25,4 +25,4 @@ Stop me from underpricing out of fear and from discounting by reflex.
 
 Full skill: [pricing-strategy](../skills/pricing-strategy/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

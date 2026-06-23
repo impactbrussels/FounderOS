@@ -21,4 +21,4 @@ Keep it to ~10-12 slides, one message each, and put deep detail in an appendix.
 
 Full skill: [pitch-deck](../skills/pitch-deck/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

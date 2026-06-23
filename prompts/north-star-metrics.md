@@ -23,4 +23,4 @@ Help me:
 
 Full skill: [north-star-metrics](../skills/north-star-metrics/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -50,7 +50,7 @@ question).
 morning:
 
 ```
-/schedule create "founder-standup" --cron "0 8 * * 1-5" --prompt "Run my FounderOS daily-founder-standup loop for [STARTUP_NAME]. Pull yesterday's entry from my standup log, ask me the four questions, append today's row to the log."
+/schedule create "founder-standup" --cron "0 8 * * 1-5" --prompt "Run my Founder OS daily-founder-standup loop for [STARTUP_NAME]. Pull yesterday's entry from my standup log, ask me the four questions, append today's row to the log."
 ```
 
 For an in-session, self-paced version during a working block, use `/loop` without a fixed interval

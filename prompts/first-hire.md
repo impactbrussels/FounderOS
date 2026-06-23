@@ -23,4 +23,4 @@ Don't let me hire a mini-me, skip the scorecard, or judge on interview charm ins
 
 Full skill: [first-hire](../skills/first-hire/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

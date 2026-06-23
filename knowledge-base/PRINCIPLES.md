@@ -1,4 +1,4 @@
-# FounderOS Principles
+# Founder OS Principles
 
 Durable truths about building a startup, distilled to first principles. Theme-agnostic.
 Imported as master context by `CLAUDE.md` / `AGENTS.md`. Grown over time by the
@@ -22,7 +22,7 @@ Imported as master context by `CLAUDE.md` / `AGENTS.md`. Grown over time by the
   incorporation, and key hires are hard to undo - slow down and get them right. *(seed)*
 - **Runway is oxygen; know your number cold.** A founder who can't state their burn and months
   of runway is flying blind. *(seed)*
-- **A draft is not a decision.** AI output, including from FounderOS, is a starting point. The
+- **A draft is not a decision.** AI output, including from Founder OS, is a starting point. The
   human founder owns the judgement call. *(seed)*
 - **Research before asserting.** A checkable claim (market size, legal rule, benchmark) is either
   verified or labelled an assumption - never stated as fact on a guess. *(seed)*

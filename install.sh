@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# install.sh - install FounderOS skills into your AI coding agent.
+# install.sh - install Founder OS skills into your AI coding agent.
 #
-# FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content CC-BY-4.0, code Apache-2.0.
+# Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content CC-BY-4.0, code Apache-2.0.
 #
 # What it does:
 #   Copies every skills/<name>/ directory (including its references/ subfolder) into the
@@ -133,7 +133,7 @@ fi
 # --- sanity check the source ------------------------------------------------------------------
 if [ ! -d "$SKILLS_SRC" ]; then
   echo "Error: cannot find skills/ next to this script (looked in $SKILLS_SRC)." >&2
-  echo "Run install.sh from inside the cloned FounderOS repo." >&2
+  echo "Run install.sh from inside the cloned Founder OS repo." >&2
   exit 1
 fi
 
@@ -153,7 +153,7 @@ fi
 
 # --- --list short-circuit ---------------------------------------------------------------------
 if [ "$LIST_ONLY" = "yes" ]; then
-  echo "FounderOS skills found in $SKILLS_SRC:"
+  echo "Founder OS skills found in $SKILLS_SRC:"
   for name in $SKILLS; do
     echo "  - $name"
   done
@@ -163,7 +163,7 @@ if [ "$LIST_ONLY" = "yes" ]; then
 fi
 
 # --- show the plan ----------------------------------------------------------------------------
-echo "FounderOS installer"
+echo "Founder OS installer"
 echo "  Platform : $PLATFORM"
 echo "  Scope    : $SCOPE"
 echo "  Mode     : $MODE"

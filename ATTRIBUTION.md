@@ -1,6 +1,6 @@
 # Attribution
 
-FounderOS is dual-licensed, and **attribution is required**.
+Founder OS is dual-licensed, and **attribution is required**.
 
 - **Content** - all skills, prompts, documentation, templates, and other prose - is licensed
   under [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE-CONTENT).
@@ -9,17 +9,17 @@ FounderOS is dual-licensed, and **attribution is required**.
 
 ## Required attribution
 
-If you use, adapt, remix, or redistribute FounderOS content (in whole or in part - a single
+If you use, adapt, remix, or redistribute Founder OS content (in whole or in part - a single
 skill counts), you must give appropriate credit. Use this notice:
 
-> **FounderOS** by Adam M. Adamek (Impact Brussels ASBL), licensed under CC-BY-4.0.
+> **Founder OS** by Adam M. Adamek (Impact Brussels ASBL), licensed under CC-BY-4.0.
 > Source: https://github.com/impactbrussels/FounderOS
 
 Keep the `attribution:` field in any skill's frontmatter intact when you copy or adapt it.
 
 ## What attribution looks like in practice
 
-- **Using a skill as-is or adapted in your product/agent:** credit FounderOS in your docs,
+- **Using a skill as-is or adapted in your product/agent:** credit Founder OS in your docs,
   about page, or wherever you credit third-party content.
 - **Quoting or reproducing a skill/prompt in an article, deck, or course:** include the notice
   above near the reproduced content.
@@ -31,8 +31,8 @@ Academic or formal citation? Use [CITATION.cff](CITATION.cff).
 
 ## Trademark / brand
 
-"FounderOS" and "Impact Brussels" names and logos are not covered by the content/code licenses.
-Don't imply endorsement. Honest "built on FounderOS" / "compatible with FounderOS" statements
+"Founder OS" and "Impact Brussels" names and logos are not covered by the content/code licenses.
+Don't imply endorsement. Honest "built on Founder OS" / "compatible with Founder OS" statements
 are welcome.
 
 Questions about attribution or commercial use: [impact.brussels](https://impact.brussels).

@@ -1,8 +1,8 @@
-# FounderOS - Skills Roadmap
+# Founder OS - Skills Roadmap
 
 > The open operating system for first-time founders. This roadmap is the contribution catalogue.
 
-FounderOS ships **23 skills** today and is built to grow. Every **planned slot** below is a
+Founder OS ships **23 skills** today and is built to grow. Every **planned slot** below is a
 real founder job that the OS does not yet cover - and an open invitation. If you have run a
 startup, advised one, or simply solved one of these problems with AI, you can author the skill
 that teaches the next founder how to do it.
@@ -204,5 +204,5 @@ pick work that fits their strength.
 - **Want a skill that isn't here?** Open a **New skill** issue and propose it. The roadmap is a
   living document, not a closed list.
 
-Attribution must be preserved in every contribution: **FounderOS by Adam M. Adamek (Impact
+Attribution must be preserved in every contribution: **Founder OS by Adam M. Adamek (Impact
 Brussels ASBL)**. See [ATTRIBUTION.md](ATTRIBUTION.md) and [CONTRIBUTING.md](CONTRIBUTING.md).

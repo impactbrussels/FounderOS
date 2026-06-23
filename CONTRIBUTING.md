@@ -1,6 +1,6 @@
-# Contributing to FounderOS
+# Contributing to Founder OS
 
-Thank you for helping build the open operating system for first-time founders. FounderOS gets
+Thank you for helping build the open operating system for first-time founders. Founder OS gets
 better every time someone who has actually solved a founder problem teaches the next founder how
 to do it. Whether you're fixing a typo, sharpening a method, or authoring a whole new skill -
 welcome. This guide tells you exactly how.
@@ -22,7 +22,7 @@ and ask. We'd rather answer a question than receive the wrong PR.
 
 ## The skill standard
 
-Every FounderOS skill follows the same shape. This is what makes the OS coherent and what a
+Every Founder OS skill follows the same shape. This is what makes the OS coherent and what a
 reviewer checks. The gold-standard example to copy is **[`skills/validate-idea/`](skills/validate-idea/)**.
 
 A skill is a folder `skills/<skill-name>/` containing:
@@ -36,7 +36,7 @@ description: Use when …       # starts with "Use when", names real founder tri
 stage: <stage-key>            # one of the stage keys below, or cross-cutting
 function: <function>          # the founder problem-type / discipline this serves
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 ```
 
@@ -52,7 +52,7 @@ the operating principles, and the output. Don't reinvent the structure; inherit 
 ### 3. A `references/` folder with the *real* method
 
 Put the actual frameworks, checklists, examples, and sources in `references/`. This is the
-difference between a generic prompt and a FounderOS skill: a contributor brings a real method -
+difference between a generic prompt and a Founder OS skill: a contributor brings a real method -
 something they've used or that is sourced - not vibes. Cite where claims come from.
 
 ### 4. A `## Copy-paste version` block
@@ -63,7 +63,7 @@ skill.
 
 ### 5. Theme-agnostic placeholders
 
-FounderOS never bakes in a sector. Use the shared placeholders - `[STARTUP_NAME]`, `[ICP]`,
+Founder OS never bakes in a sector. Use the shared placeholders - `[STARTUP_NAME]`, `[ICP]`,
 `[PROBLEM]`, `[STAGE]`, etc. - so a fintech founder and a food founder both get value. If you
 find yourself writing "for SaaS companies…", stop and generalise.
 
@@ -112,7 +112,7 @@ specific review - we'll help you land it.
 We hold contributions to a high standard so founders can trust the OS:
 
 - **Theme-agnostic** - placeholders, no sector baked in.
-- **Opinionated** - a FounderOS skill takes a position and routes to the highest-value next step.
+- **Opinionated** - a Founder OS skill takes a position and routes to the highest-value next step.
   It is a method, not a menu.
 - **Sourced** - checkable claims (market numbers, legal/tax thresholds, benchmarks) are verified
   or explicitly labelled assumptions, never stated as fact. Never invent numbers.
@@ -131,8 +131,8 @@ please read it.
 
 ## Attribution must be preserved
 
-FounderOS is free and attribution-only. Keep the `attribution:` field in every skill's frontmatter
-intact: **FounderOS by Adam M. Adamek (Impact Brussels ASBL)**. Don't remove or alter attribution,
+Founder OS is free and attribution-only. Keep the `attribution:` field in every skill's frontmatter
+intact: **Founder OS by Adam M. Adamek (Impact Brussels ASBL)**. Don't remove or alter attribution,
 license headers, or the `NOTICE` file. See [ATTRIBUTION.md](ATTRIBUTION.md).
 
 ---
@@ -142,4 +142,4 @@ license headers, or the `NOTICE` file. See [ATTRIBUTION.md](ATTRIBUTION.md).
 Participation is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). Be kind, be constructive,
 assume good faith.
 
-Happy building - and thank you for making FounderOS better for the next founder.
+Happy building - and thank you for making Founder OS better for the next founder.

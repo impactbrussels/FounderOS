@@ -22,4 +22,4 @@ sensory test, and remind me to confirm it's safe and consented to test first.
 
 Full skill: [consumer-product-testing](../skills/consumer-product-testing/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

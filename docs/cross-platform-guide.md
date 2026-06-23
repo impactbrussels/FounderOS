@@ -1,12 +1,12 @@
 # Cross-Platform Guide
 
-FounderOS is **one content source, three harnesses**. The `skills/` files are written in
+Founder OS is **one content source, three harnesses**. The `skills/` files are written in
 *actions* ("read the file", "dispatch an agent", "search the web"), never one runtime's tool
 names - so the same skill runs under Claude Code, Codex, and Cursor.
 
 ## Instructions files by platform
 
-| Platform | Reads | FounderOS file |
+| Platform | Reads | Founder OS file |
 |----------|-------|----------------|
 | Claude Code | `CLAUDE.md` | `CLAUDE.md` (master) |
 | Codex | `AGENTS.md` | `AGENTS.md` (mirror of master) |

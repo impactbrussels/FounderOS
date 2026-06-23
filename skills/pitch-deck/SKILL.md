@@ -4,7 +4,7 @@ description: Use when a founder needs to build or fix an investor pitch deck - w
 stage: fundraise
 function: fundraising
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Pitch Deck
@@ -18,7 +18,7 @@ memory.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks in
+Built on the Founder OS scaffold (High tier). Full frameworks in
 [references/deck-narrative.md](references/deck-narrative.md).
 
 ### Step 1 - Fix the audience and the round before writing a word

@@ -1,6 +1,6 @@
 # Sample startup - "Loop", end to end
 
-> A deliberately mundane, fictional company walked through all five FounderOS stages so you can
+> A deliberately mundane, fictional company walked through all five Founder OS stages so you can
 > watch the whole OS work. No tech hype, no unicorn. One real twist: a validation that **fails**
 > and forces a pivot - because honest models don't pretend every test passes.
 >
@@ -150,7 +150,7 @@ The deck is kept as a living one-pager for the occasional partner conversation.
 **Legal & incorporation:** with real revenue, `legal-and-incorporation` flags the move from
 sole-trader to a proper entity, plus terms of service covering the cancellation-charge logic.
 *(Skill adds the not-legal-advice caveat and tells her to confirm entity type and tax with a local
-accountant - FounderOS never invents jurisdiction rules.)*
+accountant - Founder OS never invents jurisdiction rules.)*
 
 **First hire:** the bottleneck is support + onboarding new teachers, not engineering. `first-hire`
 defines the role as a **part-time customer-success/onboarding person**, not a second developer -
@@ -169,8 +169,8 @@ the hire that matches the actual constraint.
 - Every stage produced a concrete artifact or decision, and `capture-learning` turned each real
   outcome into memory.
 - The "right" answer wasn't "raise a round and scale" - it was a profitable bootstrapped business.
-  FounderOS optimises for *what the evidence supports*, not for hype.
+  Founder OS optimises for *what the evidence supports*, not for hype.
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0. Fictional example.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0. Fictional example.*

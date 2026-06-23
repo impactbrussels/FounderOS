@@ -1,6 +1,6 @@
-# Install FounderOS
+# Install Founder OS
 
-FounderOS runs inside your AI coding agent (Claude Code, Codex, Cursor, Gemini CLI) and also works
+Founder OS runs inside your AI coding agent (Claude Code, Codex, Cursor, Gemini CLI) and also works
 with **no install at all** if you do not code. Pick the path that fits you.
 
 ## Fastest path
@@ -15,7 +15,7 @@ Or clone the repo and run the installer:
 
 ```bash
 git clone https://github.com/impactbrussels/FounderOS.git
-cd FounderOS
+cd Founder OS
 ./install.sh
 ```
 
@@ -99,7 +99,7 @@ Codex in a folder that has it. Skills use the same `SKILL.md` format and live in
 ## Cursor
 
 Cursor has no native `SKILL.md` support. The mechanism is **project rules**: the repo ships
-`.cursor/rules/founderos.mdc`, which gives Cursor the FounderOS master context and points it at
+`.cursor/rules/founderos.mdc`, which gives Cursor the Founder OS master context and points it at
 `skills/` for the method. Keep the cloned repo open as your workspace, or copy the rule into your
 own project:
 
@@ -161,4 +161,4 @@ across platforms, see [docs/cross-platform-guide.md](docs/cross-platform-guide.m
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0, code Apache-2.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0, code Apache-2.0.*

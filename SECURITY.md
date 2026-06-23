@@ -1,6 +1,6 @@
 # Security & Responsible Use
 
-FounderOS is a library of prompts and methods that founders run through AI assistants. That makes
+Founder OS is a library of prompts and methods that founders run through AI assistants. That makes
 "security" two things at once: keeping *your* sensitive data safe while you use the OS, and giving
 you a clear way to report a concern. Both are below.
 
@@ -8,12 +8,12 @@ you a clear way to report a concern. Both are below.
 
 ## Part A - Responsible use & privacy for founders
 
-When you paste a FounderOS prompt into an AI assistant, you're often pasting real details about
+When you paste a Founder OS prompt into an AI assistant, you're often pasting real details about
 your company alongside it. Treat that prompt window like a public whiteboard.
 
 ### Never paste secrets into a prompt
 
-Do **not** put any of the following into a prompt - not into FounderOS skills, not into any AI
+Do **not** put any of the following into a prompt - not into Founder OS skills, not into any AI
 chat:
 
 - **Secrets and credentials:** API keys, access tokens, passwords, private keys, `.env` contents,
@@ -31,7 +31,7 @@ control where it goes. The safe assumption is that it has left your control.
 You almost never need the real values to get a great result. Replace sensitive details with
 placeholders before you paste:
 
-- Swap real names for the FounderOS placeholders: `[STARTUP_NAME]`, `[ICP]`, `[PROBLEM]`,
+- Swap real names for the Founder OS placeholders: `[STARTUP_NAME]`, `[ICP]`, `[PROBLEM]`,
   `[CUSTOMER]`, `[METRIC]`.
 - Replace real numbers with representative ranges if the exact figure is sensitive ("~€40k MRR"
   instead of an exact, confidential number).
@@ -39,12 +39,12 @@ placeholders before you paste:
   ("our payments API key" rather than the key).
 - If a skill asks for a metric or a customer quote, paraphrase rather than paste raw exports.
 
-A redacted prompt produces the same quality of method - FounderOS skills are designed to work on
+A redacted prompt produces the same quality of method - Founder OS skills are designed to work on
 placeholders by default.
 
 ### AI output is education, not professional advice
 
-FounderOS gives you structured, opinionated **general education** to think faster and ask better
+Founder OS gives you structured, opinionated **general education** to think faster and ask better
 questions. It is **not** legal, financial, tax, or investment advice, and it does not create a
 professional relationship. On anything binding - incorporation, equity, contracts, fundraising
 terms, compliance, taxes - treat the output as a well-organised first draft and the list of
@@ -55,7 +55,7 @@ benchmarks against primary sources before you act on them.
 
 ## Part B - Reporting a security or privacy concern
 
-If you find a vulnerability, a privacy issue, or anything in FounderOS that could put a user's data
+If you find a vulnerability, a privacy issue, or anything in Founder OS that could put a user's data
 at risk (for example a skill that encourages pasting sensitive data, or an issue in a script or
 workflow), please tell us privately first.
 
@@ -75,4 +75,4 @@ workflow), please tell us privately first.
 - We're grateful for responsible disclosure and are happy to credit you when the fix ships, if
   you'd like.
 
-Thank you for helping keep FounderOS and its founders safe.
+Thank you for helping keep Founder OS and its founders safe.

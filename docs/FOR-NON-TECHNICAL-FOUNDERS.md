@@ -1,14 +1,14 @@
-# FounderOS for non-technical founders
+# Founder OS for non-technical founders
 
 **You do not need to code. You do not need to install anything.** If you can copy, paste, and
-type, you can use every part of FounderOS. This guide assumes zero technical background. Read it
+type, you can use every part of Founder OS. This guide assumes zero technical background. Read it
 once and you're set.
 
 ---
 
-## What FounderOS actually is (in plain words)
+## What Founder OS actually is (in plain words)
 
-FounderOS is a library of **skills** - one per founder job (validating an idea, pricing,
+Founder OS is a library of **skills** - one per founder job (validating an idea, pricing,
 pitching). A skill is the full expert method. For builders using AI coding tools, the skill
 runs automatically. **You don't need any of that.**
 
@@ -35,7 +35,7 @@ investor) for one job.
 2. **This guide and the prompt library.** That's it.
 
 You do **not** need GitHub, a code editor, a terminal, or any developer tools. Those are for
-people who want to plug FounderOS into coding tools - skip all of that.
+people who want to plug Founder OS into coding tools - skip all of that.
 
 ---
 

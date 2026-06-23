@@ -24,4 +24,4 @@ Keep it to one page, one job, one CTA.
 
 Full skill: [landing-page-copy](../skills/landing-page-copy/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -6,7 +6,7 @@
   "skills": "./skills/",
   "instructions": "./AGENTS.md",
   "interface": {
-    "displayName": "FounderOS",
+    "displayName": "Founder OS",
     "shortDescription": "Skills for the whole founder journey: idea → validation → MVP → launch → fundraise → operate",
     "category": "Productivity",
     "capabilities": ["Interactive", "Read", "Write"],

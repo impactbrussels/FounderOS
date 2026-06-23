@@ -4,7 +4,7 @@ description: Use when a founder needs their first paying customers and there's n
 stage: launch-and-gtm
 function: sales
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Find Your First Customers
@@ -17,7 +17,7 @@ motion to go get them by hand - and learn from every "no."
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full templates in
+Built on the Founder OS scaffold (High tier). Full templates in
 [references/early-sales.md](references/early-sales.md).
 
 ### Step 1 - Build a target list from the ICP

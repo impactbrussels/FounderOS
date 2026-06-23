@@ -4,7 +4,7 @@ description: Use when a founder is choosing a co-founder or splitting equity - w
 stage: idea-and-validation
 function: people
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Co-founder and Equity
@@ -25,7 +25,7 @@ equity with reasoning you can both live with for a decade.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full question lists, frameworks, and scenarios in
+Built on the Founder OS scaffold (High tier). Full question lists, frameworks, and scenarios in
 [references/equity-split.md](references/equity-split.md).
 
 ### Step 1 - Decide if you even need a co-founder, and what gap they fill (ask before assuming)

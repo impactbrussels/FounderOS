@@ -1,6 +1,6 @@
-# FounderOS Launch Comms Pack
+# Founder OS Launch Comms Pack
 
-Everything to announce FounderOS across channels. Written in Adam's voice. Guiding rule: a project called *proof before hype* earns
+Everything to announce Founder OS across channels. Written in Adam's voice. Guiding rule: a project called *proof before hype* earns
 attention with substance, not volume.
 
 ## What's here
@@ -34,7 +34,7 @@ attention with substance, not volume.
 - **LinkedIn:** a follow-up post: "X stars, Y contributors in a week - here's what people are building." (Social proof, only if real.)
 
 **Ongoing**
-- A FoodEdge Substack long essay tying FounderOS to your books and the food-founder audience; link Note 3 or 6 to it.
+- A FoodEdge Substack long essay tying Founder OS to your books and the food-founder audience; link Note 3 or 6 to it.
 - When you enroll in GitHub Sponsors (see [../SPONSORS-SETUP.md](../SPONSORS-SETUP.md)), add a soft sponsor mention.
 
 ## Cross-promo rules
@@ -43,7 +43,7 @@ attention with substance, not volume.
 - **Books live in the bio/PS, not the headline.** Let the OS earn the click; the book is the
   "if this resonates" follow-through (the credible way to feature it).
 - **Tailor, don't copy-paste across channels.** LinkedIn = story; X = punch; Substack = idea + pull.
-- **Engage > broadcast.** Replying with a useful FounderOS tactic beats another announcement.
+- **Engage > broadcast.** Replying with a useful Founder OS tactic beats another announcement.
 - **Stay on-creed.** No hype words, no fake urgency. Show the working thing.
 
 ## Hashtags / handles (reuse)

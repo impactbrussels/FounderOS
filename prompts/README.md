@@ -1,11 +1,11 @@
-# FounderOS Prompt Library - for founders who don't code
+# Founder OS Prompt Library - for founders who don't code
 
-You do **not** need Claude Code, a terminal, or any setup to use FounderOS. Every skill ends
+You do **not** need Claude Code, a terminal, or any setup to use Founder OS. Every skill ends
 with a ready-to-run **copy-paste prompt** you can drop into any chatbot - Claude.ai, ChatGPT,
 Gemini, or whatever you have open. This page indexes all 23 as standalone prompt files you can copy
 straight from, no setup.
 
-## How to use any FounderOS prompt (3 steps)
+## How to use any Founder OS prompt (3 steps)
 
 1. **Open the standalone prompt file** in the table below (the `Prompt` column) and copy the whole
    fenced block. Each file is one skill's prompt; the full skill is linked at the bottom of it.
@@ -96,4 +96,4 @@ through all five stages, including a validation that **fails** and forces a pivo
 
 ---
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). Content licensed CC-BY-4.0.*

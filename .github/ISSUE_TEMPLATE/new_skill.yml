@@ -1,12 +1,12 @@
 name: "🧩 New skill (claim a roadmap slot)"
-description: Propose or claim a new FounderOS skill.
+description: Propose or claim a new Founder OS skill.
 title: "[Skill]: <skill-name>"
 labels: ["new-skill"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for growing FounderOS! Before you start, skim the
+        Thanks for growing Founder OS! Before you start, skim the
         [roadmap](../blob/main/ROADMAP.md) and
         [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Copy
         [`skills/validate-idea/`](../blob/main/skills/validate-idea) as your template.

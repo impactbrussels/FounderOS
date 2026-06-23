@@ -4,7 +4,7 @@ description: Use when a founder is making early hires - when they ask "should I 
 stage: operate-and-scale
 function: people
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # First Hire
@@ -26,7 +26,7 @@ actually succeed.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full decision tree, scorecard, question bank, and
+Built on the Founder OS scaffold (High tier). Full decision tree, scorecard, question bank, and
 checklists in [references/first-hires.md](references/first-hires.md).
 
 ### Step 1 - Decide if you should hire at all (ask before assuming)

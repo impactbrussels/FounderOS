@@ -4,7 +4,7 @@ description: Use when a founder is starting or running a fundraise and needs to 
 stage: fundraise
 function: fundraising
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Investor Pipeline
@@ -18,7 +18,7 @@ This skill installs that system.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks in
+Built on the Founder OS scaffold (High tier). Full frameworks in
 [references/raise-process.md](references/raise-process.md).
 
 ### Step 1 - Decide if, why, and how much to raise

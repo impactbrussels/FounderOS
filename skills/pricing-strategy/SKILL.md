@@ -4,7 +4,7 @@ description: Use when a founder needs to set or fix a price - when they say "how
 stage: launch-and-gtm
 function: finance
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Pricing Strategy
@@ -22,7 +22,7 @@ you a cheap way to *test* the number instead of betting the company on a guess.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full frameworks, menus and templates in
+Built on the Founder OS scaffold (High tier). Full frameworks, menus and templates in
 [references/pricing.md](references/pricing.md).
 
 ### Step 1 - Anchor to value, not cost

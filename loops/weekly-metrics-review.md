@@ -55,7 +55,7 @@ Rules that keep it honest:
 **In Claude Code (`/schedule` or `/loop`).** Recurring weekly routine:
 
 ```
-/schedule create "weekly-metrics" --cron "0 16 * * 5" --prompt "Run my FounderOS weekly-metrics-review loop for [STARTUP_NAME]. Ask me for this week's north-star [METRIC] and 2-3 supporting numbers, run the read/why/trend/bet analysis, and append a row to my metrics table."
+/schedule create "weekly-metrics" --cron "0 16 * * 5" --prompt "Run my Founder OS weekly-metrics-review loop for [STARTUP_NAME]. Ask me for this week's north-star [METRIC] and 2-3 supporting numbers, run the read/why/trend/bet analysis, and append a row to my metrics table."
 ```
 
 Use `/loop` for an ad-hoc self-paced review when you want to think through the numbers in session.

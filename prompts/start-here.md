@@ -1,4 +1,4 @@
-# Prompt - Start Here - the FounderOS front door
+# Prompt - Start Here - the Founder OS front door
 
 **What it does:** this skill diagnoses where the founder actually is and routes them to the right next step.
 
@@ -19,4 +19,4 @@ right now. Route me to the earliest stage that fits; don't let me skip validatin
 
 Full skill: [start-here](../skills/start-here/SKILL.md).
 
-*FounderOS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*
+*Founder OS by Adam M. Adamek (Impact Brussels ASBL). CC-BY-4.0.*

@@ -1,6 +1,6 @@
-# FounderOS Dos & Don'ts
+# Founder OS Dos & Don'ts
 
-Concrete operating rules for using FounderOS and AI well as a founder. Grown by the
+Concrete operating rules for using Founder OS and AI well as a founder. Grown by the
 `capture-learning` skill - append under the right heading, never overwrite.
 
 ## DO

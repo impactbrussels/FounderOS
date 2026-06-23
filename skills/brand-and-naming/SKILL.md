@@ -4,7 +4,7 @@ description: Use when a founder needs to name the company or product and set a s
 stage: launch-and-gtm
 function: marketing
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Brand & Naming
@@ -22,7 +22,7 @@ sounds like the same company.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier). Full naming-style menu, screening checklist and
+Built on the Founder OS scaffold (High tier). Full naming-style menu, screening checklist and
 voice template in [references/naming.md](references/naming.md).
 
 ### Step 1 - Clarify what the name must do

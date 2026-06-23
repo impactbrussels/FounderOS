@@ -4,7 +4,7 @@ description: Use when a founder is testing a product people taste, smell, touch,
 stage: build-mvp
 function: product
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Sensory Testing
@@ -18,7 +18,7 @@ every time.
 
 ## The method
 
-Built on the FounderOS scaffold (High tier - this drives formulation and launch decisions).
+Built on the Founder OS scaffold (High tier - this drives formulation and launch decisions).
 Full protocols, scales, and sample sizes in [references/sensory-methods.md](references/sensory-methods.md).
 
 ### Step 1 - Decide what question you're actually asking

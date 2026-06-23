@@ -1,16 +1,16 @@
-# Sponsor FounderOS
+# Sponsor Founder OS
 
-FounderOS is free and attribution-only. It stays that way - independent, unbiased, not an ad
+Founder OS is free and attribution-only. It stays that way - independent, unbiased, not an ad
 for anyone's product - because sponsorship, not paywalls, funds it.
 
-Sponsoring is the intended way for organisations that benefit from FounderOS to give back. If
+Sponsoring is the intended way for organisations that benefit from Founder OS to give back. If
 your company sells to founders (tools, banking, legal, hosting, fundraising platforms),
 sponsoring reaches them at the exact moment they're making decisions - honestly, without
 turning the skills themselves into advertising.
 
 ## Why sponsor
 
-- **Keep the commons open.** Sponsorship is what keeps FounderOS free and attribution-only
+- **Keep the commons open.** Sponsorship is what keeps Founder OS free and attribution-only
   instead of course-walled.
 - **Fund the roadmap.** ~100 planned skills (see [ROADMAP.md](ROADMAP.md)) need
   authoring, review, and maintenance.
@@ -49,7 +49,7 @@ influence over the advice (see the promise below).
 
 ## Our promise to founders
 
-Sponsorship never buys a recommendation. FounderOS skills will never tell a founder to use a
+Sponsorship never buys a recommendation. Founder OS skills will never tell a founder to use a
 sponsor's product. Money funds the commons; it does not bend the advice. That line is the whole
 point.
 

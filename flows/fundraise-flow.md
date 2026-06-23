@@ -4,7 +4,7 @@ description: Use when a founder has decided to raise outside capital and needs t
 stage: fundraise
 function: flow
 license: CC-BY-4.0
-attribution: FounderOS by Adam M. Adamek (Impact Brussels ASBL)
+attribution: Founder OS by Adam M. Adamek (Impact Brussels ASBL)
 ---
 
 # Fundraise Flow
