@@ -101,6 +101,14 @@ and **cite the source** for the top-down number. If you don't have a source yet,
 `[SOURCE - verify]` on the slide and get it before you send the deck. Never invent a number to
 fill a slide; a wrong number a partner catches poisons the whole deck.
 
+Before sharing the deck, reconcile the three claims most likely to drive an investor’s
+next decision against the underlying records. For each, note its definition, period,
+and source. For example, check whether the deck’s recurring revenue figure excludes
+one-time fees and uses the same reporting date as the finance export. If the figures
+still differ, record who will reconcile them and when. The [DDScore startup due
+diligence checklist](https://www.ddscore.ai/posts/insights-startup-due-diligence-checklist-efb2c2eb/)
+has more examples of mismatches to look for.
+
 ## Further reading (verify against primary sources)
 
 Sequoia's pitch-deck template · Y Combinator's "How to design a better pitch deck" and Series A
